@@ -2,9 +2,10 @@
 import { useState, useEffect } from "react";
 import { addDays, isWithinInterval, parse } from "date-fns";
 
+interface Event { von: string; bis: string; plz: string; versammlungsort: string; aufzugsstrecke: string; thema: string; datum: string[]; }
 export default function EventExplorer() {
-	const [events, setEvents] = useState([]);
-	const [filteredEvents, setFilteredEvents] = useState([]);
+	const [events, setEvents] = useState<Event[]>([]);
+	const [filteredEvents, setFilteredEvents] = useState<Event[]>([]);
 	const [keyword, setKeyword] = useState("");
 	const [timeFilter, setTimeFilter] = useState("all");
 
@@ -45,14 +46,14 @@ export default function EventExplorer() {
 		setFilteredEvents(result);
 	};
 
-	const dateString = (date) => {
+	const dateString = (date: string[]) => {
 		if (date.length === 1) {
 			return date[0]
 		}
 		return `${date[0]} und ${date.length - 1} weitere`
 	}
 
-	const locationString = (event) => {
+	const locationString = (event: Event) => {
 		if (event.versammlungsort) {
 			return `${event.versammlungsort} ${event.plz}`
 		}
