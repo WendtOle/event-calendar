@@ -2,7 +2,7 @@
 import { useState, useEffect } from "react";
 import { addDays, isWithinInterval, parse } from "date-fns";
 
-interface Event { von: string; bis: string; plz: string; versammlungsort: string; aufzugsstrecke: string; thema: string; datum: string[]; }
+interface Event { time: string; location: string; thema: string; date: string[]; way_points: string[][] }
 export default function EventExplorer() {
 	const [events, setEvents] = useState<Event[]>([]);
 	const [filteredEvents, setFilteredEvents] = useState<Event[]>([]);
@@ -38,7 +38,7 @@ export default function EventExplorer() {
 				timeFilter === "week" ? addDays(now, 7) : addDays(now, 30);
 
 			result = result.filter((e) => {
-				const date = parse(e.datum[0], "dd.MM.yyyy", new Date());
+				const date = parse(e.date[0], "dd.MM.yyyy", new Date());
 				return isWithinInterval(date, { start: now, end: endDate });
 			});
 		}
@@ -51,13 +51,6 @@ export default function EventExplorer() {
 			return date[0]
 		}
 		return `${date[0]} und ${date.length - 1} weitere`
-	}
-
-	const locationString = (event: Event) => {
-		if (event.versammlungsort) {
-			return `${event.versammlungsort} ${event.plz}`
-		}
-		return event.aufzugsstrecke
 	}
 
 	return (
@@ -109,10 +102,10 @@ export default function EventExplorer() {
 						>
 							<div className="font-semibold">{e.thema || "Kein Thema"}</div>
 							<div className="text-sm text-gray-600">
-								{dateString(e.datum)} {e.von} - {e.bis}
+								{dateString(e.date)} {e.time}
 							</div>
 							<div className="text-sm">
-								{locationString(e)}
+								{e.location}
 							</div>
 						</div>
 					))}

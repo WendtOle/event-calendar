@@ -1,3 +1,4 @@
+import numpy as np
 import json
 from collections import Counter
 
@@ -8,29 +9,17 @@ def load_json(filename):
 def analyze_events(events):
     print(f"Anzahl Events insgesamt: {len(events)}")
 
-    # Alle Themen sammeln
-    themen = [event.get('thema', '') for event in events if event.get('thema')]
-    thema_counts = Counter(themen)
-    print("\nTop 5 häufigste Themen:")
-    for thema, count in thema_counts.most_common(5):
-        print(f"  {thema}: {count} mal")
-
-    # Alle PLZs sammeln
-    plz_list = [event.get('plz', '') for event in events if event.get('plz')]
-    plz_counts = Counter(plz_list)
-    print("\nTop 5 PLZ mit den meisten Events:")
-    for plz, count in plz_counts.most_common(5):
-        print(f"  {plz}: {count} Events")
-
-    # Von-Bis Zeiten analysieren
-    zeiten = [(event.get('von', ''), event.get('bis', '')) for event in events if event.get('von') and event.get('bis')]
-    zeiten_counts = Counter(zeiten)
-    print("\nTop 3 häufigste Zeitintervalle (von - bis):")
-    for (von, bis), count in zeiten_counts.most_common(3):
-        print(f"  {von} - {bis}: {count} mal")
+    nested_nested = [item["way_points"] for item in events]
+    nested = [item for sublist in nested_nested for item in sublist]
+    locations = [item for sublist in nested for item in sublist] 
+    unique_locations = np.sort(list(set(locations)))
+    for location in unique_locations:
+        print(location)
+    print(str(len(locations)) + " locations")
+    print(str(len(unique_locations)) + " different locations")
 
 def main():
-    filename = 'optimized_events.json'  # JSON-Datei hier anpassen
+    filename = 'events.json'  # JSON-Datei hier anpassen
     events = load_json(filename)
     analyze_events(events)
 
