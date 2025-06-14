@@ -57,7 +57,7 @@ export default function EventExplorer() {
 	}
 
 	return (
-		<div className="p-4 max-w-3xl mx-auto flex flex-col h-screen gap-2">
+		<div className="p-4 max-w-3xl mx-auto flex flex-col h-dvh gap-2">
 			<div className="flex flex-row justify-between items-center">
 				<h1 className="text-xl font-bold">Event Explorer</h1>
 				<h2 className="text-sm">Stand 13.Juni 25 20:00</h2>
