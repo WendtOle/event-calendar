@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import "leaflet/dist/leaflet.css";
 import { Event } from "./EventExplorer";
-import L, { LatLngTuple } from 'leaflet';
+import { LatLngTuple } from 'leaflet';
 
 interface MapComponentProps {
 	event?: Event
@@ -32,37 +32,41 @@ const MapComponent = ({ event }: MapComponentProps) => {
 		}
 		markerLayer?.clearLayers()
 		const { way_points: ways } = event;
-		let firstLocation: LatLngTuple | undefined = undefined
-		ways.map((way, way_index) => way.map((point) => {
-			const location = locationLookup[point][0]
-			if (!location) {
-				return
+		import('leaflet').then(L => {
+			let firstLocation: LatLngTuple | undefined = undefined
+			ways.map((way, way_index) => way.map((point) => {
+				const location = locationLookup[point][0]
+				if (!location) {
+					return
+				}
+				const position: LatLngTuple = [parseFloat(location.lat), parseFloat(location.lon)]
+				if (!firstLocation) {
+					firstLocation = position
+				}
+				L.circle(position, {
+					color: colors[way_index],
+					fillColor: colors[way_index],
+					radius: 200
+				}).addTo(markerLayer);
+			}))
+			if (!!firstLocation) {
+				map?.flyTo(firstLocation, 12)
 			}
-			const position: LatLngTuple = [parseFloat(location.lat), parseFloat(location.lon)]
-			if (!firstLocation) {
-				firstLocation = position
-			}
-			L.circle(position, {
-				color: colors[way_index],
-				fillColor: colors[way_index],
-				radius: 200
-			}).addTo(markerLayer);
-		}))
-		if (!!firstLocation) {
-			map?.flyTo(firstLocation, 12)
-		}
+		})
 	}, [event, locationLookup, map, markerLayer])
 
 	useEffect(() => {
-		const map = L.map('map').setView(berlinCenter, 13);
-		L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-			attribution: '&copy; OpenStreetMap contributors'
-		}).addTo(map);
-		setMarkerLayer(L.layerGroup().addTo(map));
-		setMap(map)
-		return () => {
-			map.remove()
-		}
+		import('leaflet').then(L => {
+			const map = L.map('map').setView(berlinCenter, 13);
+			L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+				attribution: '&copy; OpenStreetMap contributors'
+			}).addTo(map);
+			setMarkerLayer(L.layerGroup().addTo(map));
+			setMap(map)
+			return () => {
+				map.remove()
+			}
+		})
 	}, []);
 	return (
 		<div className="w-full h-40">
