@@ -69,7 +69,7 @@ const MapComponent = ({ event }: MapComponentProps) => {
 		})
 	}, []);
 	return (
-		<div className="w-full h-40">
+		<div className="w-full h-44 sm:h-52">
 			<div id="map"
 				style={{ height: "100%", width: "100%" }}
 			/>

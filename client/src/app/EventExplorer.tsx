@@ -58,34 +58,36 @@ export default function EventExplorer() {
 
 	return (
 		<div className="p-4 max-w-3xl mx-auto flex flex-col h-screen gap-2">
-			<h1 className="text-xl font-bold">Event Explorer</h1>
-			<h2 className="text-sm">Stand 13.Juni 25 20:00</h2>
+			<div className="flex flex-row justify-between items-center">
+				<h1 className="text-xl font-bold">Event Explorer</h1>
+				<h2 className="text-sm">Stand 13.Juni 25 20:00</h2>
+			</div>
 			<div className="flex flex-col sm:flex-row gap-2">
 				<input
 					type="text"
 					placeholder="Suche nach Keyword..."
-					className="border rounded p-2 flex-1"
+					className="border rounded py-1 px-2 flex-1"
 					value={keyword}
 					onChange={(e) => setKeyword(e.target.value)}
 				/>
 				<div className="flex gap-2">
 					<button
 						onClick={() => setTimeFilter("all")}
-						className={`p-2 border rounded ${timeFilter === "all" ? "bg-blue-500 text-white" : "bg-white"
+						className={`py-1 px-2 border rounded ${timeFilter === "all" ? "bg-blue-500 text-white" : "bg-white"
 							}`}
 					>
 						Alle
 					</button>
 					<button
 						onClick={() => setTimeFilter("week")}
-						className={`p-2 border rounded ${timeFilter === "week" ? "bg-blue-500 text-white" : "bg-white"
+						className={`py-1 px-2 border rounded ${timeFilter === "week" ? "bg-blue-500 text-white" : "bg-white"
 							}`}
 					>
 						Nächste Woche
 					</button>
 					<button
 						onClick={() => setTimeFilter("month")}
-						className={`p-2 border rounded ${timeFilter === "month" ? "bg-blue-500 text-white" : "bg-white"
+						className={`py-1 px-2 border rounded ${timeFilter === "month" ? "bg-blue-500 text-white" : "bg-white"
 							}`}
 					>
 						Nächster Monat
