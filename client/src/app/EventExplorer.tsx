@@ -2,8 +2,16 @@
 import { useState, useEffect } from "react";
 import { addDays, isWithinInterval, parse } from "date-fns";
 import MapComponent from "./Map";
+import { Event as EventComponent } from "./Event";
+import { LatLngTuple } from "leaflet";
 
-export interface Event { time: string; location: string; thema: string; date: string[]; way_points: string[] }
+export interface Event { time: string; location: string; thema: string; date: string[]; way_points: WayPoint[] }
+export type WayPoint = { text: string, position: LatLngTuple }
+
+interface Entry {
+	lat: string,
+	lon: string
+}
 
 export default function EventExplorer() {
 	const [events, setEvents] = useState<Event[]>([]);
@@ -13,12 +21,29 @@ export default function EventExplorer() {
 	const [timeFilter, setTimeFilter] = useState("all");
 
 	useEffect(() => {
-		// Beispiel: JSON lokal importieren
-		import("./events.json").then((data) => {
-			setEvents(data.default || data);
-			setFilteredEvents(data.default || data);
-		});
-	}, []);
+		const run = async () => {
+			const data = await import("./locations.json")
+			const locationLookup: Record<string, Entry[]> = data.default || data;
+
+			const eventData = await import("./events.json")
+			const rawEvents = eventData.default || eventData
+			const events = rawEvents.map(event => {
+				const alteredWayPoints: WayPoint[] = event.way_points.reduce((acc, pointString) => {
+					const location = locationLookup[pointString]?.[0]
+					if (!location) {
+						return acc
+					}
+					const position: LatLngTuple = [parseFloat(location.lat), parseFloat(location.lon)]
+					const newWayPoint: WayPoint = { text: pointString, position }
+					return [...acc, newWayPoint]
+				}, [] as Array<WayPoint>)
+				return { ...event, way_points: alteredWayPoints }
+			})
+			setEvents(events);
+			setFilteredEvents(events);
+		}
+		run()
+	}, [])
 
 	useEffect(() => {
 		applyFilters();
@@ -48,13 +73,6 @@ export default function EventExplorer() {
 
 		setFilteredEvents(result);
 	};
-
-	const dateString = (date: string[]) => {
-		if (date.length === 1) {
-			return date[0]
-		}
-		return `${date[0]} und ${date.length - 1} weitere`
-	}
 
 	return (
 		<div className="p-4 max-w-3xl mx-auto flex flex-col h-dvh gap-2">
@@ -99,22 +117,9 @@ export default function EventExplorer() {
 			{filteredEvents.length === 0 ? (
 				<p className="text-gray-500">Keine Events gefunden.</p>
 			) : (
-				<div className="flex-1 grid gap-2 overflow-auto" >
+				<div className={`${filteredEvents.length < 3 ? '' : 'flex-1'} grid gap-2 overflow-auto`} >
 					{filteredEvents.map((e, idx) => (
-						<button
-							key={idx}
-							className={`w-full border grid gap-2 text-left rounded p-2 hover:shadow transition cursor-pointer ${e.thema === selectedEvent?.thema
-								? 'bg-blue-50' : ''}`}
-							onClick={() => setSelectedEvent(e)}
-						>
-							<div className="font-semibold">{e.thema || "Kein Thema"}</div>
-							<div className="text-sm text-gray-600">
-								{dateString(e.date)} {e.time}
-							</div>
-							<div className="text-sm">
-								{e.location}
-							</div>
-						</button>
+						<EventComponent key={idx} onClick={() => setSelectedEvent(e)} event={e} selected={e.thema === selectedEvent?.thema} />
 					))}
 				</div>
 			)}

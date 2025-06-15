@@ -33,24 +33,15 @@ const MapComponent = ({ event }: MapComponentProps) => {
 		markerLayer?.clearLayers()
 		const { way_points } = event;
 		import('leaflet').then(L => {
-			let firstLocation: LatLngTuple | undefined = undefined
-			way_points.map((point) => {
-				const location = locationLookup[point][0]
-				if (!location) {
-					return
-				}
-				const position: LatLngTuple = [parseFloat(location.lat), parseFloat(location.lon)]
-				if (!firstLocation) {
-					firstLocation = position
-				}
+			way_points.map(({ position }) => {
 				L.circle(position, {
 					color: colors[0],
 					fillColor: colors[0],
 					radius: 200
 				}).addTo(markerLayer);
 			})
-			if (!!firstLocation) {
-				map?.flyTo(firstLocation, 12)
+			if (way_points.length >= 1) {
+				map?.flyTo(way_points[0].position)
 			}
 		})
 	}, [event, locationLookup, map, markerLayer])
