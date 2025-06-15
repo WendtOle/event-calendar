@@ -1,4 +1,4 @@
-import { Event as EventType } from "./EventExplorer"
+import { Event as EventType } from "./useEvents"
 
 interface EventProps {
 	event: EventType,

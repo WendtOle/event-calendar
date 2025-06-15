@@ -1,28 +1,17 @@
+"use client"
 import React, { useEffect, useState } from "react";
 import "leaflet/dist/leaflet.css";
-import { Event } from "./EventExplorer";
 import { LatLngTuple } from 'leaflet';
+import { Event } from "./useEvents";
 
 interface MapComponentProps {
 	event?: Event
 }
 
-interface Entry {
-	lat: string,
-	lon: string
-}
-
 const colors = ["blue", "red", "orange", "yellow", "green", "purple"]
 const MapComponent = ({ event }: MapComponentProps) => {
-	const [locationLookup, setLocationLookup] = useState<Record<string, Entry[]>>({});
 	const [map, setMap] = useState<L.Map | undefined>();
 	const [markerLayer, setMarkerLayer] = useState<L.LayerGroup | undefined>();
-
-	useEffect(() => {
-		import("./locations.json").then((data) => {
-			setLocationLookup(data.default || data);
-		});
-	}, []);
 
 	const berlinCenter: LatLngTuple = [52.5200, 13.4050];
 
@@ -31,7 +20,7 @@ const MapComponent = ({ event }: MapComponentProps) => {
 			return
 		}
 		markerLayer?.clearLayers()
-		const { way_points } = event;
+		const { way_points, bounds } = event;
 		import('leaflet').then(L => {
 			way_points.map(({ position }) => {
 				L.circle(position, {
@@ -40,11 +29,14 @@ const MapComponent = ({ event }: MapComponentProps) => {
 					radius: 200
 				}).addTo(markerLayer);
 			})
-			if (way_points.length >= 1) {
-				map?.flyTo(way_points[0].position)
+			if (way_points.length === 1) {
+				map?.flyTo(way_points[0].position, 13)
+			}
+			if (way_points.length > 1) {
+				map?.flyToBounds(bounds)
 			}
 		})
-	}, [event, locationLookup, map, markerLayer])
+	}, [event, map, markerLayer])
 
 	useEffect(() => {
 		import('leaflet').then(L => {
