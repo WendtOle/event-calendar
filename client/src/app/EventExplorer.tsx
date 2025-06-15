@@ -3,7 +3,7 @@ import { useState, useEffect } from "react";
 import { addDays, isWithinInterval, parse } from "date-fns";
 import MapComponent from "./Map";
 
-export interface Event { time: string; location: string; thema: string; date: string[]; way_points: string[][] }
+export interface Event { time: string; location: string; thema: string; date: string[]; way_points: string[] }
 
 export default function EventExplorer() {
 	const [events, setEvents] = useState<Event[]>([]);

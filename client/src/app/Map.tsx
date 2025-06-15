@@ -31,10 +31,10 @@ const MapComponent = ({ event }: MapComponentProps) => {
 			return
 		}
 		markerLayer?.clearLayers()
-		const { way_points: ways } = event;
+		const { way_points } = event;
 		import('leaflet').then(L => {
 			let firstLocation: LatLngTuple | undefined = undefined
-			ways.map((way, way_index) => way.map((point) => {
+			way_points.map((point) => {
 				const location = locationLookup[point][0]
 				if (!location) {
 					return
@@ -44,11 +44,11 @@ const MapComponent = ({ event }: MapComponentProps) => {
 					firstLocation = position
 				}
 				L.circle(position, {
-					color: colors[way_index],
-					fillColor: colors[way_index],
+					color: colors[0],
+					fillColor: colors[0],
 					radius: 200
 				}).addTo(markerLayer);
-			}))
+			})
 			if (!!firstLocation) {
 				map?.flyTo(firstLocation, 12)
 			}

@@ -11,8 +11,7 @@ def load_json(filename, fallback=None):
         return fallback
 
 def extract_locations(events):
-    nested_nested = [item["way_points"] for item in events]
-    nested = [item for sublist in nested_nested for item in sublist]
+    nested = [item["way_points"] for item in events]
     locations = [item for sublist in nested for item in sublist] 
     unique_locations = np.sort(list(set(locations)))
     return unique_locations

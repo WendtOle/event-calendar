@@ -45,17 +45,21 @@ def extract_location(row):
 def parse_way_points(row):
     ort = safe_get(row, 'Versammlungsort')
     if len(ort.strip()) > 0:
-        return [[ort.strip() + " " + safe_get(row, 'PLZ')]]
-    raw = safe_get(row, 'Aufzugsstrecke')
-    if len(raw) == 0:
+        return [ort.strip() + " " + safe_get(row, 'PLZ')]
+    text = safe_get(row, 'Aufzugsstrecke')
+    if len(text) == 0:
         return []
-    without_parantheses = re.sub(r'\([^)]*\)', '', raw)
-    different_routes = without_parantheses.split(",")
-    parsed = []
-    for route in different_routes:
-        points = [point.strip() for point in route.split(" - ") if len(point) > 0]
-        parsed.append(points)
-    return parsed
+    text = re.sub(r'(\w+)-\s+(\w+)', r'\1\2', text)
+    match = re.search(r'neu:\s*(.*)', text, re.IGNORECASE)
+    if match:
+        new_part = match.group(1)
+        new_part = re.split(r'\balt\b\s*:', new_part, flags=re.IGNORECASE)[0]
+    else:
+        new_part = text
+    new_part = re.sub(r'\([^)]*\)', '', new_part)
+    raw_orte = [subitem for item in new_part.split(' - ') for subitem in item.split(', ')]
+    orte = [ort.strip() for ort in raw_orte if ort.strip()]
+    return orte
 
 def parse_row(row): 
     datum = [safe_get(row,'Datum')]

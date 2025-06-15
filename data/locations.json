@@ -60232,5 +60232,479 @@
         "13.2802605"
       ]
     }
+  ],
+  "16515 Oranienburg ------------ ---": [],
+  "Potsdamer PlatzPotsdamer Str.": [],
+  "Allee der KosmonautenPekrun Straße": [],
+  "Wende Höhe Wilhelm-von-Siemens-Str.": [],
+  "Falckensteinstraße": [
+    {
+      "place_id": 686402,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 152177235,
+      "lat": "52.380058897554655",
+      "lon": "13.403803604132982",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Falckensteinstraße",
+      "display_name": "Falckensteinstraße, Lichtenrade, Tempelhof-Schöneberg, Berlin, Brandenburg, 12307, Deutschland",
+      "boundingbox": [
+        "52.3782353",
+        "52.3820559",
+        "13.4031494",
+        "13.4049707"
+      ]
+    },
+    {
+      "place_id": 600301,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1090604122,
+      "lat": "52.49792288079993",
+      "lon": "13.441752469191085",
+      "class": "highway",
+      "type": "living_street",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Falckensteinstraße",
+      "display_name": "Falckensteinstraße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10997, Deutschland",
+      "boundingbox": [
+        "52.4975448",
+        "52.4983012",
+        "13.4413741",
+        "13.4421306"
+      ]
+    },
+    {
+      "place_id": 239382,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 182600854,
+      "lat": "52.50029360313228",
+      "lon": "13.44412459947694",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Falckensteinstraße",
+      "display_name": "Falckensteinstraße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10997, Deutschland",
+      "boundingbox": [
+        "52.5000713",
+        "52.5005174",
+        "13.4439030",
+        "13.4443447"
+      ]
+    },
+    {
+      "place_id": 242123,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 23044098,
+      "lat": "52.50095272635538",
+      "lon": "13.444661647213188",
+      "class": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Falckensteinstraße",
+      "display_name": "Falckensteinstraße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10997, Deutschland",
+      "boundingbox": [
+        "52.5007737",
+        "52.5011088",
+        "13.4444751",
+        "13.4448728"
+      ]
+    },
+    {
+      "place_id": 246001,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 113101845,
+      "lat": "52.50081718014701",
+      "lon": "13.444655018944758",
+      "class": "highway",
+      "type": "cycleway",
+      "place_rank": 27,
+      "importance": 0.04000999999999999,
+      "addresstype": "road",
+      "name": "Falckensteinstraße",
+      "display_name": "Falckensteinstraße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10997, Deutschland",
+      "boundingbox": [
+        "52.5007737",
+        "52.5009421",
+        "13.4444751",
+        "13.4447915"
+      ]
+    },
+    {
+      "place_id": 242093,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 364849149,
+      "lat": "52.5001957",
+      "lon": "13.4434415",
+      "class": "highway",
+      "type": "bus_stop",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "highway",
+      "name": "Falckensteinstraße",
+      "display_name": "Falckensteinstraße, Schlesische Straße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10997, Deutschland",
+      "boundingbox": [
+        "52.5001457",
+        "52.5002457",
+        "13.4433915",
+        "13.4434915"
+      ]
+    }
+  ],
+  "Sternmarsch: Auftakte Strausberger Platz …. Hackescher Markt .... Potsdamer Platz .... Washington Platz ….  Abschluss: Bebelplatz": [],
+  "AP: Olympischer Platz 3": [],
+  "Revalerstr.": [
+    {
+      "place_id": 249327,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1145444598,
+      "lat": "52.50804006359576",
+      "lon": "13.45393037993319",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Revaler Straße",
+      "display_name": "Revaler Straße, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10245, Deutschland",
+      "boundingbox": [
+        "52.5078155",
+        "52.5082593",
+        "13.4526963",
+        "13.4551635"
+      ]
+    },
+    {
+      "place_id": 253081,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 496503270,
+      "lat": "52.50567570896036",
+      "lon": "13.461332048981221",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Revaler Straße",
+      "display_name": "Revaler Straße, Rudolfkiez, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10245, Deutschland",
+      "boundingbox": [
+        "52.5054179",
+        "52.5059381",
+        "13.4605844",
+        "13.4620813"
+      ]
+    },
+    {
+      "place_id": 244959,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1072660645,
+      "lat": "52.50844134642728",
+      "lon": "13.449444251326089",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Revaler Straße",
+      "display_name": "Revaler Straße, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10243, Deutschland",
+      "boundingbox": [
+        "52.5083475",
+        "52.5085339",
+        "13.4490421",
+        "13.4498467"
+      ]
+    }
+  ],
+  "S-Bhf. Friedrichstr.": [],
+  "MarshallbrückeMarshallbrücke/Luisenstr.": [],
+  "Theodor-Heuss PlatzMasurenallee": [],
+  "Joachimsthaler Platz 10719": [
+    {
+      "place_id": 202258,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 6665083790,
+      "lat": "52.5033203",
+      "lon": "13.3307652",
+      "class": "place",
+      "type": "square",
+      "place_rank": 25,
+      "importance": 0.06667666666666666,
+      "addresstype": "square",
+      "name": "Grünfeld-Ecke",
+      "display_name": "Grünfeld-Ecke, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, Brandenburg, 10719, Deutschland",
+      "boundingbox": [
+        "52.5032703",
+        "52.5033703",
+        "13.3307152",
+        "13.3308152"
+      ]
+    }
+  ],
+  "HannahAhrendt-Str.": [],
+  "Pannierstr. 47": [
+    {
+      "place_id": 617920,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 1466786563,
+      "lat": "52.4887113",
+      "lon": "13.4325465",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "47, Pannierstraße, Reuterkiez, Neukölln, Berlin, Brandenburg, 12047, Deutschland",
+      "boundingbox": [
+        "52.4886613",
+        "52.4887613",
+        "13.4324965",
+        "13.4325965"
+      ]
+    }
+  ],
+  "HofjägeralleeGroßer SternStr.des 17.Juni": [],
+  "Scheidemannstr. 2 10557": [
+    {
+      "place_id": 215785,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 8393460497,
+      "lat": "52.5180019",
+      "lon": "13.3760968",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "2, Scheidemannstraße, Tiergarten, Mitte, Berlin, Brandenburg, 10557, Deutschland",
+      "boundingbox": [
+        "52.5179519",
+        "52.5180519",
+        "13.3760468",
+        "13.3761468"
+      ]
+    }
+  ],
+  "Dorothea-Schlegel-Platz": [
+    {
+      "place_id": 216982,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 107747047,
+      "lat": "52.5199571",
+      "lon": "13.38582373235181",
+      "class": "highway",
+      "type": "footway",
+      "place_rank": 27,
+      "importance": 0.04000999999999999,
+      "addresstype": "road",
+      "name": "Dorothea-Schlegel-Platz",
+      "display_name": "Dorothea-Schlegel-Platz, Dorotheenstadt, Mitte, Berlin, Brandenburg, 10117, Deutschland",
+      "boundingbox": [
+        "52.5196810",
+        "52.5202297",
+        "13.3852996",
+        "13.3868043"
+      ]
+    }
+  ],
+  "Karl-Marx-AlleeStrausberger Platz": [],
+  "14:00 Uhr Cosmarweg 71,": [],
+  "Großbeerenstr. 2": [
+    {
+      "place_id": 652175,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 61030874,
+      "lat": "52.438427700000005",
+      "lon": "13.37944751287586",
+      "class": "shop",
+      "type": "supermarket",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "shop",
+      "name": "Lidl",
+      "display_name": "Lidl, 2, Großbeerenstraße, Mariendorf, Tempelhof-Schöneberg, Berlin, Brandenburg, 12107, Deutschland",
+      "boundingbox": [
+        "52.4382597",
+        "52.4386644",
+        "13.3789191",
+        "13.3798820"
+      ]
+    },
+    {
+      "place_id": 646468,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 28665140,
+      "lat": "52.4390061",
+      "lon": "13.38065043209481",
+      "class": "shop",
+      "type": "car_repair",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "shop",
+      "name": "Carglass",
+      "display_name": "Carglass, 2, Großbeerenstraße, Mariendorf, Tempelhof-Schöneberg, Berlin, Brandenburg, 12107, Deutschland",
+      "boundingbox": [
+        "52.4389059",
+        "52.4391063",
+        "13.3804620",
+        "13.3808389"
+      ]
+    },
+    {
+      "place_id": 652569,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 92202940,
+      "lat": "52.439129699999995",
+      "lon": "13.381032809081011",
+      "class": "amenity",
+      "type": "fast_food",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "amenity",
+      "name": "Burger King",
+      "display_name": "Burger King, 2, Großbeerenstraße, Mariendorf, Tempelhof-Schöneberg, Berlin, Brandenburg, 12107, Deutschland",
+      "boundingbox": [
+        "52.4389989",
+        "52.4392100",
+        "13.3809155",
+        "13.3811691"
+      ]
+    },
+    {
+      "place_id": 652120,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 315029409,
+      "lat": "52.4396409",
+      "lon": "13.3807105",
+      "class": "shop",
+      "type": "motorcycle",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "shop",
+      "name": "Polo Motorrad Store Mariendorf",
+      "display_name": "Polo Motorrad Store Mariendorf, 2, Großbeerenstraße, Mariendorf, Tempelhof-Schöneberg, Berlin, Brandenburg, 12107, Deutschland",
+      "boundingbox": [
+        "52.4395909",
+        "52.4396909",
+        "13.3806605",
+        "13.3807605"
+      ]
+    },
+    {
+      "place_id": 636563,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 1169920988,
+      "lat": "52.4388221",
+      "lon": "13.380108",
+      "class": "amenity",
+      "type": "pharmacy",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "amenity",
+      "name": "easyApotheke",
+      "display_name": "easyApotheke, 2, Großbeerenstraße, Mariendorf, Tempelhof-Schöneberg, Berlin, Brandenburg, 12107, Deutschland",
+      "boundingbox": [
+        "52.4387721",
+        "52.4388721",
+        "13.3800580",
+        "13.3801580"
+      ]
+    }
+  ],
+  "Kaiser-Wilhelm-Gedächtniskirche": [
+    {
+      "place_id": 203009,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 3680367370,
+      "lat": "52.5047055",
+      "lon": "13.3350322",
+      "class": "historic",
+      "type": "memorial",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "historic",
+      "name": "Kaiser-Wilhelm-Gedächtniskirche",
+      "display_name": "Kaiser-Wilhelm-Gedächtniskirche, Kurfürstendamm, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, Brandenburg, 10789, Deutschland",
+      "boundingbox": [
+        "52.5046555",
+        "52.5047555",
+        "13.3349822",
+        "13.3350822"
+      ]
+    }
+  ],
+  "Straße des 17.JuniZiel": [],
+  "-> ortsfeste Kundgebung Brandenburger Tor": [],
+  "Mühlenstr. 70": [
+    {
+      "place_id": 708678,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 5484448600,
+      "lat": "52.4315352",
+      "lon": "13.3488675",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "70, Mühlenstraße, Lankwitz, Steglitz-Zehlendorf, Berlin, Brandenburg, 12249, Deutschland",
+      "boundingbox": [
+        "52.4314852",
+        "52.4315852",
+        "13.3488175",
+        "13.3489175"
+      ]
+    },
+    {
+      "place_id": 320964,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 2578675619,
+      "lat": "52.5651566",
+      "lon": "13.4069856",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "70, Mühlenstraße, Tiroler Viertel, Pankow, Berlin, Brandenburg, 13187, Deutschland",
+      "boundingbox": [
+        "52.5651066",
+        "52.5652066",
+        "13.4069356",
+        "13.4070356"
+      ]
+    }
   ]
 }
