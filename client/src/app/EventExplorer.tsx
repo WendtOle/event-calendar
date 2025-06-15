@@ -2,6 +2,7 @@
 import { useState, useEffect } from "react";
 import { addDays, isWithinInterval, parse } from "date-fns";
 import MapComponent from "./Map";
+import type { LatLngBounds } from "leaflet";
 import { Event as EventComponent } from "./Event";
 import { Event, useEvents } from "./useEvents";
 
@@ -11,6 +12,7 @@ export default function EventExplorer() {
 	const [selectedEvent, setSelectedEvent] = useState<Event | undefined>();
 	const [keyword, setKeyword] = useState("");
 	const [timeFilter, setTimeFilter] = useState("all");
+	const [boundsFilter, setBoundsFilter] = useState<LatLngBounds | undefined>(undefined);
 
 	useEffect(() => {
 		setFilteredEvents(events)
@@ -18,7 +20,7 @@ export default function EventExplorer() {
 
 	useEffect(() => {
 		applyFilters();
-	}, [keyword, timeFilter, events]);
+	}, [keyword, timeFilter, events, boundsFilter]);
 
 	const applyFilters = () => {
 		let result = [...events];
@@ -31,7 +33,7 @@ export default function EventExplorer() {
 			);
 		}
 
-		if (timeFilter !== "all") {
+		if (timeFilter == "week") {
 			const now = new Date();
 			const endDate =
 				timeFilter === "week" ? addDays(now, 7) : addDays(now, 30);
@@ -42,8 +44,15 @@ export default function EventExplorer() {
 			});
 		}
 
+		if (boundsFilter !== undefined && timeFilter === "map") {
+			result = result.filter(e => e.way_points.some(point => boundsFilter?.contains(point.position)))
+		}
 		setFilteredEvents(result);
 	};
+	const onMapChange = (bounds: LatLngBounds) => {
+		setBoundsFilter(bounds);
+	}
+
 
 	return (
 		<div className="p-4 max-w-3xl mx-auto flex flex-col h-dvh gap-2">
@@ -75,15 +84,15 @@ export default function EventExplorer() {
 						Nächste Woche
 					</button>
 					<button
-						onClick={() => setTimeFilter("month")}
-						className={`py-1 px-2 border rounded ${timeFilter === "month" ? "bg-blue-500 text-white" : "bg-white"
+						onClick={() => setTimeFilter("map")}
+						className={`py-1 px-2 border rounded ${timeFilter === "map" ? "bg-blue-500 text-white" : "bg-white"
 							}`}
 					>
-						Nächster Monat
+						Auf Karte
 					</button>
 				</div>
 			</div>
-			<MapComponent event={selectedEvent} />
+			<MapComponent event={selectedEvent} onMapChange={onMapChange} disableFlyTo={timeFilter === "map"} />
 			{filteredEvents.length} Events
 			{filteredEvents.length === 0 ? (
 				<p className="text-gray-500">Keine Events gefunden.</p>

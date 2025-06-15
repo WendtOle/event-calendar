@@ -1,15 +1,16 @@
-"use client"
 import React, { useEffect, useState } from "react";
 import "leaflet/dist/leaflet.css";
-import { LatLngTuple } from 'leaflet';
+import type { LatLngBounds, LatLngTuple } from 'leaflet';
 import { Event } from "./useEvents";
 
 interface MapComponentProps {
 	event?: Event
+	onMapChange: (bounds: LatLngBounds) => void;
+	disableFlyTo: boolean;
 }
 
 const colors = ["blue", "red", "orange", "yellow", "green", "purple"]
-const MapComponent = ({ event }: MapComponentProps) => {
+const MapComponent = ({ event, onMapChange, disableFlyTo }: MapComponentProps) => {
 	const [map, setMap] = useState<L.Map | undefined>();
 	const [markerLayer, setMarkerLayer] = useState<L.LayerGroup | undefined>();
 
@@ -29,6 +30,9 @@ const MapComponent = ({ event }: MapComponentProps) => {
 					radius: 200
 				}).addTo(markerLayer);
 			})
+			if (disableFlyTo) {
+				return
+			}
 			if (way_points.length === 1) {
 				map?.flyTo(way_points[0].position, 13)
 			}
@@ -46,8 +50,12 @@ const MapComponent = ({ event }: MapComponentProps) => {
 			}).addTo(map);
 			setMarkerLayer(L.layerGroup().addTo(map));
 			setMap(map)
+			const onMoveEnd = () => onMapChange(map.getBounds())
+			map.on("moveend", onMoveEnd)
 			return () => {
+				map.off("moveend", onMoveEnd)
 				map.remove()
+
 			}
 		})
 	}, []);
