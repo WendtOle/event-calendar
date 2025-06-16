@@ -47907,6 +47907,27 @@
   ],
   "Schillerstr.": [
     {
+      "place_id": 200116,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 163209200,
+      "lat": "52.51106910707899",
+      "lon": "13.320194761704132",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Schillerstraße",
+      "display_name": "Schillerstraße, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, Brandenburg, 10625, Deutschland",
+      "boundingbox": [
+        "52.5109470",
+        "52.5112085",
+        "13.3182508",
+        "13.3221376"
+      ]
+    },
+    {
       "place_id": 698721,
       "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
       "osm_type": "way",
@@ -48030,27 +48051,6 @@
         "52.4011236",
         "13.4018386",
         "13.4032577"
-      ]
-    },
-    {
-      "place_id": 200116,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 163209200,
-      "lat": "52.51106910707899",
-      "lon": "13.320194761704132",
-      "class": "highway",
-      "type": "residential",
-      "place_rank": 26,
-      "importance": 0.0533433333333333,
-      "addresstype": "road",
-      "name": "Schillerstraße",
-      "display_name": "Schillerstraße, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, Brandenburg, 10625, Deutschland",
-      "boundingbox": [
-        "52.5109470",
-        "52.5112085",
-        "13.3182508",
-        "13.3221376"
       ]
     },
     {
