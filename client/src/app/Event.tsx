@@ -1,3 +1,4 @@
+import { Component, Fragment, ReactElement } from "react"
 import { Event as EventType } from "./useEvents"
 
 interface EventProps {
@@ -20,11 +21,31 @@ export const Event = ({ selected, event, onClick }: EventProps) => {
 		return value
 	}
 	const shortLocationString = event.way_points.length > 1 ? `${event.way_points.length} Wegpunkte` : event.location
+
+	const regex = new RegExp(`(${event.way_points.map(({ text }) => text).join("|")})`, "gi");
+	const neuMatch = event.location.match(/neu:/i);
+	const splitIndex = !neuMatch ? 0 : neuMatch.index! + neuMatch[0].length
+	const keepPart = event.location.slice(0, splitIndex);
+	const markPart = event.location.slice(splitIndex);
+	const parts = markPart.split(regex);
+
+	const withHighlighting = parts.reduce((acc, part, i) => {
+		const index = acc.toMark.indexOf(part.toLowerCase())
+		if (index === -1) {
+			return { list: [...acc.list, <Fragment key={i}>{part}</Fragment>], toMark: acc.toMark }
+		}
+
+		const newEntry = (<span key={i} className="font-semibold bg-yellow-50">
+			{part} (#{index + 1})
+		</span>)
+		const alteredToMark = [...acc.toMark]
+		alteredToMark[index] = "_"
+		return { list: [...acc.list, newEntry], toMark: alteredToMark }
+	}, { list: [], toMark: event.way_points.map(({ text }) => text.toLowerCase()) } as { list: ReactElement[], toMark: string[] })
+
 	const expandedLocation = event.way_points.length === 1 ? (<p>{event.location}</p>) : (<>
-		<p>Original text: </p>
-		<p>{event.location}</p>
 		<p>{event.way_points.length} Wegpunkte erkannt: </p>
-		<p>{event.way_points.map(({ text }) => `"${text}"`).join(", ")}</p>
+		<p>{keepPart}{withHighlighting.list}</p>
 	</>)
 	return (
 		<button
