@@ -1,8 +1,22 @@
 [
   {
     "date": [
-      "14.06.2025",
-      "15.06.2025",
+      "16.06.2025",
+      "23.06.2025",
+      "30.06.2025",
+      "07.07.2025",
+      "14.07.2025",
+      "21.07.2025"
+    ],
+    "time": "00:00 - 00:00",
+    "thema": "Stoppt den Krieg! Frieden und Freiheit für die Ukraine! JETZT! (vom 07.04. bis 21.07.2025 - jeweils montags)",
+    "location": "Alt-Müggelheim 22 12559",
+    "way_points": [
+      "Alt-Müggelheim 22 12559"
+    ]
+  },
+  {
+    "date": [
       "16.06.2025",
       "17.06.2025",
       "18.06.2025",
@@ -21,108 +35,39 @@
   },
   {
     "date": [
-      "14.06.2025"
+      "16.06.2025"
     ],
-    "time": "08:00 - 16:00",
-    "thema": "Lauf gegen Rechts",
-    "location": "Tempelhofer Feld, Seite zum Columbiadamm als Start/Ziel. Die Laufstrecke geht einmal um das Feld herum.",
+    "time": "08:00 - 09:00",
+    "thema": "Warnstreik bei der PiCA GmbH",
+    "location": "Rudower Chaussee 29 12489",
     "way_points": [
-      "Tempelhofer Feld",
-      "Seite zum Columbiadamm als Start/Ziel. Die Laufstrecke geht einmal um das Feld herum."
+      "Rudower Chaussee 29 12489"
     ]
   },
   {
     "date": [
-      "14.06.2025",
-      "15.06.2025",
-      "18.06.2025",
-      "21.06.2025",
-      "22.06.2025",
-      "25.06.2025",
-      "28.06.2025",
-      "29.06.2025",
-      "02.07.2025",
-      "05.07.2025",
-      "06.07.2025",
-      "09.07.2025",
-      "12.07.2025",
-      "13.07.2025",
-      "16.07.2025",
-      "19.07.2025",
-      "20.07.2025",
-      "23.07.2025",
-      "26.07.2025"
+      "16.06.2025"
     ],
-    "time": "10:00 - 18:00",
-    "thema": "Gegen Mieterverdrängung durch sogenannte energetische Sanierung und Luxus-Sanierung für unverfälschte Denkmalpflege. Verstoß gegen den Kaufvertrag (vom 27.04. bis 26.07.2025 - jeweils Mi.,Sa.,So.)",
-    "location": "An der Heide 13509",
+    "time": "10:00 - 13:00",
+    "thema": "Kundgebung gegen die Eröffnung des Amazon-Towers",
+    "location": "Warschauer Brücke 10245",
     "way_points": [
-      "An der Heide 13509"
+      "Warschauer Brücke 10245"
     ]
   },
   {
     "date": [
-      "14.06.2025"
+      "16.06.2025"
     ],
-    "time": "11:00 - 13:00",
-    "thema": "Rudi-Wunderlich-Gedenkfahrt - Gedenken an die gelungene flucht des KZ-Häftlings Rudi Wunderlich am 10.Juni 1944 mit dem Fahrrad eines SSMannes von Steglitz bis zum Prenzlauer Berg",
-    "location": "Unter den Eichen 135 - Schloßstr. - Rheinstr. - Hauptstr. - Potsdamer Str. - Leipziger Str. - Gertraudenstr. - Mühlendamm - Grunerstr. Alexanderstr. - Memhardstr. - Luxemburger Str. - Schönhauser Allee - Sredzkistr. - Hagenauer Str. - Schliemannstr. - Helmholtzplatz",
+    "time": "10:30 - 12:30",
+    "thema": "Ehrung zum 80. Todestag E. Bersarin",
+    "location": "Alfred-Kowalke-Str. 10315",
     "way_points": [
-      "Unter den Eichen 135",
-      "Schloßstr.",
-      "Rheinstr.",
-      "Hauptstr.",
-      "Potsdamer Str.",
-      "Leipziger Str.",
-      "Gertraudenstr.",
-      "Mühlendamm",
-      "Grunerstr. Alexanderstr.",
-      "Memhardstr.",
-      "Luxemburger Str.",
-      "Schönhauser Allee",
-      "Sredzkistr.",
-      "Hagenauer Str.",
-      "Schliemannstr.",
-      "Helmholtzplatz"
+      "Alfred-Kowalke-Str. 10315"
     ]
   },
   {
     "date": [
-      "14.06.2025"
-    ],
-    "time": "11:00 - 13:00",
-    "thema": "Gegen Rassismus und Aufrüstung",
-    "location": "Alfred-Scholz-Platz 12043",
-    "way_points": [
-      "Alfred-Scholz-Platz 12043"
-    ]
-  },
-  {
-    "date": [
-      "14.06.2025"
-    ],
-    "time": "11:15 - 19:00",
-    "thema": "Verfolgung an Falun Dafa/Falun Gong durch die Kommunistische Partei Chinas (beenden). Forderung eines Endes des Völkermordes und des staatlich organisierten Organraubes an friedlichen Menschen.",
-    "location": "Greenwichpromenade 13507",
-    "way_points": [
-      "Greenwichpromenade 13507"
-    ]
-  },
-  {
-    "date": [
-      "14.06.2025"
-    ],
-    "time": "12:00 - 14:00",
-    "thema": "Protestaktion gegen Waffenlieferungen an Israel",
-    "location": "Alfred-Scholz-Platz 12043",
-    "way_points": [
-      "Alfred-Scholz-Platz 12043"
-    ]
-  },
-  {
-    "date": [
-      "14.06.2025",
-      "15.06.2025",
       "16.06.2025",
       "17.06.2025",
       "18.06.2025",
@@ -323,7 +268,7 @@
       "30.12.2025",
       "31.12.2025"
     ],
-    "time": "12:00 - 14:30",
+    "time": "10:30 - 13:00",
     "thema": "Die Verfolgung von FALUN DAFA / FALUN GONG-Praktizierenden in China beenden. Die Diktatur der Kommunistischen Partei Chinas auflösen. (vom 01.01. bis 31.12.2025 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.)",
     "location": "Jannowitzbrücke 10179",
     "way_points": [
@@ -332,59 +277,49 @@
   },
   {
     "date": [
-      "14.06.2025",
-      "21.06.2025",
-      "28.06.2025",
-      "05.07.2025",
-      "12.07.2025",
-      "19.07.2025",
-      "26.07.2025",
-      "02.08.2025",
-      "09.08.2025",
-      "16.08.2025",
-      "23.08.2025",
-      "30.08.2025",
-      "06.09.2025",
-      "13.09.2025",
-      "20.09.2025",
-      "27.09.2025",
-      "04.10.2025",
-      "11.10.2025",
-      "18.10.2025",
-      "25.10.2025",
-      "01.11.2025",
-      "08.11.2025",
-      "15.11.2025",
-      "22.11.2025",
-      "29.11.2025",
-      "06.12.2025",
-      "13.12.2025",
-      "20.12.2025",
-      "27.12.2025"
+      "16.06.2025"
     ],
-    "time": "12:00 - 15:00",
-    "thema": "Ohne JESUS kein Frieden (vom 15.02. bis 27.12.2025 - jeweils Sa.)",
-    "location": "Kottbusser Tor 10999",
+    "time": "10:45 - 13:15",
+    "thema": "Die aktuelle Lage in Gaza, die Fahrt der Madleen und die Verantwortung von Juristen",
+    "location": "Boltzmannstr. 3 14195",
     "way_points": [
-      "Kottbusser Tor 10999"
+      "Boltzmannstr. 3 14195"
     ]
   },
   {
     "date": [
-      "14.06.2025"
+      "16.06.2025"
     ],
-    "time": "12:00 - 18:00",
-    "thema": "Gegen Tiertransporte in Drittstaaten",
-    "location": "Unter den Linden 77 10117",
+    "time": "11:00 - 14:00",
+    "thema": "Die Aktion zur Elektrohypersensibilität EHS wurde von der französischen Organisation Coeurs de EHS ins Leben gerufen. Ihr Symbol ist ein gelbes Herz. Inspiriert von Kanarienvögeln, die früher im Bergbau als Frühwarnsystem für giftiges Gas dienten. Ähnlich gelten Elektrohypersensible he- ute als Frühindikatoren für elektromagnetische Strahlung, doch staatliche Vorsorgemaßnahmen bleiben aus.",
+    "location": "Willy-Brandt-Str. 10557",
     "way_points": [
-      "Unter den Linden 77 10117"
+      "Willy-Brandt-Str. 10557"
     ]
   },
   {
     "date": [
-      "14.06.2025",
-      "14.06.2025",
-      "15.06.2025",
+      "16.06.2025",
+      "23.06.2025",
+      "30.06.2025",
+      "07.07.2025",
+      "14.07.2025",
+      "21.07.2025",
+      "28.07.2025",
+      "04.08.2025",
+      "11.08.2025",
+      "18.08.2025",
+      "25.08.2025"
+    ],
+    "time": "12:00 - 14:00",
+    "thema": "Mahnwache vor dem RKI. Kritisiert wird die Rolle des RKI im Zusammenhang mit der Corona-Hysterie und den dadurch begründeten Menschenrec- htsverletzungen. Es besteht weiterhin die Forderung nach Erfüllung der Informationspflicht als Regierungsbehörde. Ferner ist bislang keinerlei Bemühung um Aufarbeitung der begangenen Rechtsbrüche zu erkennen. Da zudem längst Vorbereitungen für die nächste Pandemiesimulation angelaufen sind, ist ein Ende der Notwendigkeit der Mahnwache nicht abzusehen. (vom 04.11.2024 bis 25.08.2025 - jeweils Mo.)",
+    "location": "Nordufer 20 13353",
+    "way_points": [
+      "Nordufer 20 13353"
+    ]
+  },
+  {
+    "date": [
       "16.06.2025",
       "17.06.2025",
       "18.06.2025",
@@ -585,595 +520,11 @@
       "30.11.2025",
       "15.12.2025"
     ],
-    "time": "12:00 - 20:00",
-    "thema": "Stoppt die Verfolgung von FALUN DAFA / FALUN-GONG Praktizierenden und anderen unschuldigen Menschen in China. Beendet die Diktatur der Kommunistischen Partei. (vom 12.04. bis 15.11.2025 - jeweils Sa.)",
-    "location": "Pariser Platz 10117",
+    "time": "13:00 - 18:00",
+    "thema": "Stoppt die Verfolgung von FALUN DAFA / FALUN-GONG Praktizierenden und anderen unschuldigen Menschen in China. Beendet die Diktatur der Kommunistischen Partei Chinas. (vom 20.04. bis 31.12.2025 - täglich)",
+    "location": "Am Treptower Park 12435",
     "way_points": [
-      "Pariser Platz 10117"
-    ]
-  },
-  {
-    "date": [
-      "14.06.2025"
-    ],
-    "time": "12:30 - 14:30",
-    "thema": "Keine Kollektivstrafen für Biker.",
-    "location": "(AP) Olympischer Platz - Olympische Str. - Reichsstr. - Theodor-Heuss-Platz - Masurenallee - Neue Kantstr. - Kaiser-Friedrich-Str. - Lewishamstr. - Kurfürstendamm - Tauentzienstr. - Wittenbergplatz - Kleiststr. - An der Urania - Schillstr. - Lützowplatz - Herkulesstr. - Klingelhöferstr. - Hofjägerallee - Großer Stern - Straße des 17. Juni - Ebertstr. - Behrenstr. - Glinkastr. - Unter den Linden - Karl-Liebknecht-Str. - Alexanderstr. - Otto-Braun-Str. - Alexanderstr. - Holzmarkstr. - Stralauer Platz - Mühlenstr. - Stralauer Allee - Elsenbrücke - Elsenstr. - Am Treptower Park - Köpenicker Landstr. - Schnellerstr. - Rixdorfer Str. - Südostallee - Sterndamm - Stubenrauchstr. - Neuköllner Str. - (EP) Alt-Rudow 7",
-    "way_points": [
-      "Olympischer Platz",
-      "Olympische Str.",
-      "Reichsstr.",
-      "Theodor-Heuss-Platz",
-      "Masurenallee",
-      "Neue Kantstr.",
-      "Kaiser-Friedrich-Str.",
-      "Lewishamstr.",
-      "Kurfürstendamm",
-      "Tauentzienstr.",
-      "Wittenbergplatz",
-      "Kleiststr.",
-      "An der Urania",
-      "Schillstr.",
-      "Lützowplatz",
-      "Herkulesstr.",
-      "Klingelhöferstr.",
-      "Hofjägerallee",
-      "Großer Stern",
-      "Straße des 17. Juni",
-      "Ebertstr.",
-      "Behrenstr.",
-      "Glinkastr.",
-      "Unter den Linden",
-      "Karl-Liebknecht-Str.",
-      "Alexanderstr.",
-      "Otto-Braun-Str.",
-      "Alexanderstr.",
-      "Holzmarkstr.",
-      "Stralauer Platz",
-      "Mühlenstr.",
-      "Stralauer Allee",
-      "Elsenbrücke",
-      "Elsenstr.",
-      "Am Treptower Park",
-      "Köpenicker Landstr.",
-      "Schnellerstr.",
-      "Rixdorfer Str.",
-      "Südostallee",
-      "Sterndamm",
-      "Stubenrauchstr.",
-      "Neuköllner Str.",
-      "Alt-Rudow 7"
-    ]
-  },
-  {
-    "date": [
-      "14.06.2025",
-      "15.06.2025"
-    ],
-    "time": "13:00 - 20:00",
-    "thema": "Hilfe Ukraine (vom 13.06. bis 15.06.2025 - täglich)",
-    "location": "Pariser Platz 10117",
-    "way_points": [
-      "Pariser Platz 10117"
-    ]
-  },
-  {
-    "date": [
-      "14.06.2025"
-    ],
-    "time": "14:00 - 15:30",
-    "thema": "Demonstration gegen das Insignienverbot des Bandidos MC",
-    "location": "NEU: AP: Olympischer Platz 3, 14053 Berlin, Trakehner Allee, Flatowallee, Heerstraße, Theodor-Heuss-Platz, Kaiserdamm, Königin-Elisabeth-Straße, Spandauer Damm, Auffahrt BAB100 Richtung Norden, BAB100, BAB111, Landesgrenze BE/BB, Rasthof Stolper Heide, (Übergabe an Pol BB), BAB111, B96, Germendorfer Allee, Kremmener Straße, Bernauer Straße EP: Bernauer Str. 78, 16515 Oranienburg ------------ --- ALT: Olympischer Platz - Flatowallee - Heerstr. - Theodor-Heuss-Platz - Kaiserdamm - Königin-Elisabeth Str. - Kobelsdorferstr. - Auffahrt B100 Richtung Norden - BAB100 - BAB111 - Landesgrenzen BE/BB - Rasthof Stolper Heide - BAB111 - B96 - Germendorfer Allee - Kremmener Str. - Bernauer Str. 78",
-    "way_points": [
-      "AP: Olympischer Platz 3",
-      "14053 Berlin",
-      "Trakehner Allee",
-      "Flatowallee",
-      "Heerstraße",
-      "Theodor-Heuss-Platz",
-      "Kaiserdamm",
-      "Königin-Elisabeth-Straße",
-      "Spandauer Damm",
-      "Auffahrt BAB100 Richtung Norden",
-      "BAB100",
-      "BAB111",
-      "Landesgrenze BE/BB",
-      "Rasthof Stolper Heide",
-      "BAB111",
-      "B96",
-      "Germendorfer Allee",
-      "Kremmener Straße",
-      "Bernauer Straße EP: Bernauer Str. 78",
-      "16515 Oranienburg ------------ ---"
-    ]
-  },
-  {
-    "date": [
-      "14.06.2025",
-      "28.06.2025",
-      "12.07.2025",
-      "26.07.2025"
-    ],
-    "time": "14:00 - 16:00",
-    "thema": "100 Städte, eine Stimme mit Kronprinz Reza Pahlavi, maximaler Druck auf die Islamische Republik und maximale Unterstützung für das iranische Volk zur Überwindung des unterdrückerischen, theokratischen Regimes und zur Errichtung eines demokratischen, säkularen Iran!",
-    "location": "Konrad-Adenauer-Str. 1 10557",
-    "way_points": [
-      "Konrad-Adenauer-Str. 1 10557"
-    ]
-  },
-  {
-    "date": [
-      "14.06.2025"
-    ],
-    "time": "14:00 - 16:00",
-    "thema": "No Kings (keine Könige)",
-    "location": "Ebertstr./ Behrenstr. 10117",
-    "way_points": [
-      "Ebertstr./ Behrenstr. 10117"
-    ]
-  },
-  {
-    "date": [
-      "14.06.2025"
-    ],
-    "time": "14:00 - 16:00",
-    "thema": "Gedenken an den am 14.06.1934 hingerichteten Charlottenburger Antifaschisten Richard Hüttig vor seinem Wohnhaus",
-    "location": "Seelingstr. 21 14059",
-    "way_points": [
-      "Seelingstr. 21 14059"
-    ]
-  },
-  {
-    "date": [
-      "14.06.2025"
-    ],
-    "time": "14:00 - 16:00",
-    "thema": "WIR STEHEN AN DER SEITE ISRAELS UND DER IDF DIE IDF KÄMPFT GEGEN ISLAMISITISCHEN TERROR AUCH FÜR UNS IN EUROPA",
-    "location": "Straße des 17. Juni 10557",
-    "way_points": [
-      "Straße des 17. Juni 10557"
-    ]
-  },
-  {
-    "date": [
-      "14.06.2025"
-    ],
-    "time": "14:00 - 17:00",
-    "thema": "Solidarität mit Palästina! Keine Waffenlieferungen an Israel!",
-    "location": "Straße des 17. Juni 10117",
-    "way_points": [
-      "Straße des 17. Juni 10117"
-    ]
-  },
-  {
-    "date": [
-      "14.06.2025"
-    ],
-    "time": "14:00 - 17:00",
-    "thema": "Solidarität mit Israel: Israel benutzt seine Raketen, um seine Bevölkerung zu schützen. Hamas benutzt ihre Bevölkerung, um ihre Raketen zu schützen. Bring Them Home Now: Hamas eats like kings, while the hostages starve",
-    "location": "Platz des 18. März 10117",
-    "way_points": [
-      "Platz des 18. März 10117"
-    ]
-  },
-  {
-    "date": [
-      "14.06.2025"
-    ],
-    "time": "14:00 - 19:00",
-    "thema": "Fotoausstellung von Hingerichteten im Iran > Solidarität mit dem iranischen Volk und dem heldenhaften Aufstand des iranischen Volkes ... Nein zur Todesstrafe im Iran >> Solidarität mit politischen Gefangenen, die sich gegen die Diktatur stellen Und für Demokratie und Freiheit im Iran",
-    "location": "Joachimsthaler Platz 10719",
-    "way_points": [
-      "Joachimsthaler Platz 10719"
-    ]
-  },
-  {
-    "date": [
-      "14.06.2025"
-    ],
-    "time": "14:30 - 16:30",
-    "thema": "Gesobau zerstört Natur - Stopp! Es reicht!",
-    "location": "Ossietzkystr. 20 13187",
-    "way_points": [
-      "Ossietzkystr. 20 13187"
-    ]
-  },
-  {
-    "date": [
-      "14.06.2025",
-      "28.06.2025",
-      "05.07.2025",
-      "12.07.2025",
-      "19.07.2025",
-      "26.07.2025",
-      "02.08.2025",
-      "09.08.2025",
-      "16.08.2025",
-      "23.08.2025",
-      "30.08.2025",
-      "06.09.2025",
-      "13.09.2025",
-      "20.09.2025",
-      "27.09.2025",
-      "04.10.2025",
-      "11.10.2025",
-      "18.10.2025"
-    ],
-    "time": "14:45 - 18:00",
-    "thema": "Tierrecht /Veganismus, CUBE OF TRUTH (vom 05.04. bis 18.10.2025 - jeweils Sa.)",
-    "location": "Pariser Platz 10117",
-    "way_points": [
-      "Pariser Platz 10117"
-    ]
-  },
-  {
-    "date": [
-      "14.06.2025",
-      "21.06.2025",
-      "28.06.2025"
-    ],
-    "time": "15:00 - 17:00",
-    "thema": "Frieden Freiheit Souveränität (vom 07.06. bis 28.06.2025 - jeweils Sa.)",
-    "location": "Pariser Platz 1 10117",
-    "way_points": [
-      "Pariser Platz 1 10117"
-    ]
-  },
-  {
-    "date": [
-      "14.06.2025"
-    ],
-    "time": "15:00 - 17:00",
-    "thema": "Bunt statt braun",
-    "location": "Hohenzollerndamm 208A 10717",
-    "way_points": [
-      "Hohenzollerndamm 208A 10717"
-    ]
-  },
-  {
-    "date": [
-      "14.06.2025"
-    ],
-    "time": "15:00 - 17:30",
-    "thema": "Von Tiflis bis Kyjiw – Widerstand gegen die russische Besatzung. - Ukrainische Gefangene in russischer Kriegsgefangenschaft: S- ichtbarmachung des Schicksals verschleppter Soldat:in- nen und Zivilist:innen sowie Forderung nach internationalem Druck auf Russland zur Einhaltung der Genfer Konventionen. Politische Gefangene in Georgien: Aufklärung über die zunehmende Repression durch das pro-russische Regime in Tiflis und Solidarität mit inhaftierten Aktivist:i- nnen und Journalist:innen.",
-    "location": "Platz des 18. März 10117",
-    "way_points": [
-      "Platz des 18. März 10117"
-    ]
-  },
-  {
-    "date": [
-      "14.06.2025"
-    ],
-    "time": "15:00 - 18:00",
-    "thema": "Mahnwache für die notleidende Zivilbevölkerung im Jemen",
-    "location": "Platz der Republik 1 10557",
-    "way_points": [
-      "Platz der Republik 1 10557"
-    ]
-  },
-  {
-    "date": [
-      "14.06.2025"
-    ],
-    "time": "15:00 - 18:00",
-    "thema": "Fahrradtour für Frieden in Korea",
-    "location": "ALT: Mühlenstr. (AP, Höhe Uberplatz) - Stralauer Pl. - Holzmarktstr. - Alexanderstr. - Otto-Braun-Str. - Alexanderstr. - Karl- Liebknecht-Str. - Karl-Liebknecht-Brücke - Schloßplatz - Unter den Linden - Pariser Platz (ZK) - Unter den Linden - Wilhelmstr. - Mohrenstr. - Glinkastr. - Glinkastr. 5-7 (ZK) - Mauerstr. - Leipziger Str. - Potsdamer Str. - Ben-Gurion-Str. - Tiergartenstr. - Stülerstr. - Stülerstr. 10 (ZK) - Corneliusstr. - Drakestr. - Rauchstr. - Stülerstr. - Tiergartenstr. - Ben-Gurion-Str. - Potsdamer Str. - Potsdamer Platz (Historische Ampelanlage - EP) NEU: Mühlenstr. 70 (AP, Höhe Uberplatz) - Stralauer Pl. - Holzmarktstr. - Alexanderstr. Grunerstr. - Spandauer Str. - Karl-Liebknecht-Str. - KarlLiebknecht-Brücke - Schloßplatz - Unter den Linden - Pariser Platz (ZK) - Unter den Linden - Glinkastr. - Glinkastr. 5-7 (ZK) - Glinkastr. - Jägerstr. - Friedrichstr. - Behrenstr. - Ebertstr. - Potsdamer Platz - Potsdamer Str. - Ben-GurionStr. - Tiergartenstr. - Stülerstr. - Stülerstr. 10 (ZK) - Corneliusstr. - Drakestr. - Rauchstr. - Stülerstr. - Tiergartenstr. - Ben-Gurion-Str. - Potsdamer Str. - Potsdamer Platz (Historische Ampelanlage - EP",
-    "way_points": [
-      "Mühlenstr. 70",
-      "Stralauer Pl.",
-      "Holzmarktstr.",
-      "Alexanderstr. Grunerstr.",
-      "Spandauer Str.",
-      "Karl-Liebknecht-Str.",
-      "KarlLiebknecht-Brücke",
-      "Schloßplatz",
-      "Unter den Linden",
-      "Pariser Platz",
-      "Unter den Linden",
-      "Glinkastr.",
-      "Glinkastr. 5-7",
-      "Glinkastr.",
-      "Jägerstr.",
-      "Friedrichstr.",
-      "Behrenstr.",
-      "Ebertstr.",
-      "Potsdamer Platz",
-      "Potsdamer Str.",
-      "Ben-GurionStr.",
-      "Tiergartenstr.",
-      "Stülerstr.",
-      "Stülerstr. 10",
-      "Corneliusstr.",
-      "Drakestr.",
-      "Rauchstr.",
-      "Stülerstr.",
-      "Tiergartenstr.",
-      "Ben-Gurion-Str.",
-      "Potsdamer Str.",
-      "Potsdamer Platz (Historische Ampelanlage",
-      "EP"
-    ]
-  },
-  {
-    "date": [
-      "14.06.2025"
-    ],
-    "time": "16:00 - 23:59",
-    "thema": "Neue Rechte - statt neuer Rechter! Für eine solidarische Gesellschaft, die alle mitnimmt und niemand vergisst! Mit Tucholsky an der Seite! Rosen auf den Weg gestreut Ihr müsst sie lieb und nett behandeln, erschreckt sie nicht... Pfeift euerm Hunde, wenn er kläfft –:Küsst die Faschisten, wo ihr sie trefft - Küsst die Faschisten, küsst die Faschisten, küsst die Faschisten, wo ihr sie trefft...",
-    "location": "Hohenzollerndamm 208 10717",
-    "way_points": [
-      "Hohenzollerndamm 208 10717"
-    ]
-  },
-  {
-    "date": [
-      "14.06.2025",
-      "12.07.2025",
-      "19.07.2025",
-      "20.07.2025",
-      "26.07.2025"
-    ],
-    "time": "17:00 - 22:30",
-    "thema": "Versammlung mit politischen und sozialen Hintergrund. Zur Erinnerung und Klarstellung der christlichen Werte. Der Weg zur Ewigkeit welcher nur durch Jesus Christus führt.",
-    "location": "Hardenbergstr. 29A 10623",
-    "way_points": [
-      "Hardenbergstr. 29A 10623"
-    ]
-  },
-  {
-    "date": [
-      "14.06.2025",
-      "15.06.2025"
-    ],
-    "time": "18:00 - 19:30",
-    "thema": "Unterstützung der Ukraine. Aufforderung von Erfüllung von Planen von Andrii Solokha für Europa 1 Bilion von Europa für Europa. 1 Bilion für Ukraine in 5 Jahren je 200 Miliarden davon 1/3 Russland, Europa und Rest der Welt. Europäische Sommer Majdan in Berlin 2025.",
-    "location": "Pariser Platz 10117",
-    "way_points": [
-      "Pariser Platz 10117"
-    ]
-  },
-  {
-    "date": [
-      "14.06.2025"
-    ],
-    "time": "18:00 - 20:00",
-    "thema": "Gegen Angriffe Und Besatzung der türkische Staat in Süd Kurdistan Kriegsführung gegen Kurden",
-    "location": "Breitscheidplatz 10789",
-    "way_points": [
-      "Breitscheidplatz 10789"
-    ]
-  },
-  {
-    "date": [
-      "15.06.2025",
-      "06.07.2025",
-      "19.07.2025"
-    ],
-    "time": "12:00 - 14:30",
-    "thema": "NEON-Protest für die Befreiung der Tierheit",
-    "location": "Pariser Platz 10117",
-    "way_points": [
-      "Pariser Platz 10117"
-    ]
-  },
-  {
-    "date": [
-      "15.06.2025"
-    ],
-    "time": "12:00 - 15:00",
-    "thema": "Animal Rights Square: Video-Aktion zur Aufklärung über die Tierindustrie",
-    "location": "Mauerpark 10437",
-    "way_points": [
-      "Mauerpark 10437"
-    ]
-  },
-  {
-    "date": [
-      "15.06.2025",
-      "22.06.2025",
-      "29.06.2025",
-      "06.07.2025",
-      "13.07.2025",
-      "20.07.2025",
-      "27.07.2025"
-    ],
-    "time": "12:00 - 18:00",
-    "thema": "Stoppt den Genozid in Gaza! Wir sammeln Unterschriften für ein sofortiges Ende der Waffenlieferungen an Israel und die Aufhebung der Hilfsblockade und informieren über die Situation in Gaza. Deutschland ist zweitgrößter Waffenlieferant Israels und muss sich vor dem Internationalen Gerichtshof wegen Beihilfe zum Völkermord verantworten... (vom 01.06. bis 27.07.2025 - jeweils So.)",
-    "location": "Grünberger Str. 71 10245",
-    "way_points": [
-      "Grünberger Str. 71 10245"
-    ]
-  },
-  {
-    "date": [
-      "15.06.2025"
-    ],
-    "time": "12:00 - 20:00",
-    "thema": "Veteranen gegen Krieg",
-    "location": "Scheidemannstr. 2 10557",
-    "way_points": [
-      "Scheidemannstr. 2 10557"
-    ]
-  },
-  {
-    "date": [
-      "15.06.2025"
-    ],
-    "time": "13:00 - 20:00",
-    "thema": "Gegenmahnwache zum Veteranentag",
-    "location": "Spreebogenpark 10557",
-    "way_points": [
-      "Spreebogenpark 10557"
-    ]
-  },
-  {
-    "date": [
-      "15.06.2025"
-    ],
-    "time": "14:00 - 18:00",
-    "thema": "Wir feiern eure Kriege nicht ! Auf die Straße gegen den Veteranentag. Protest gegen Aufrüstung und Kriegsverherrlichung",
-    "location": "Alt: S-Bhf. Friedrichstr. (nördlicher Vorplatz) - Friedrichstr. - Unter den Linden - Wilhelmstr. - Dorotheenstr.- Dorotheenstr./ Friedrich-Ebert-Platz - Neu: S-Bhf. Friedrichstr. (nördlicher Vorplatz) - Friedrichstr. - Unter den Linden - Wilhelmstr. - Marshallbrücke- Marshallbrücke/Luisenstr. (EK)",
-    "way_points": [
-      "S-Bhf. Friedrichstr.",
-      "Friedrichstr.",
-      "Unter den Linden",
-      "Wilhelmstr.",
-      "MarshallbrückeMarshallbrücke/Luisenstr."
-    ]
-  },
-  {
-    "date": [
-      "15.06.2025",
-      "22.06.2025",
-      "29.06.2025",
-      "06.07.2025",
-      "13.07.2025",
-      "20.07.2025",
-      "27.07.2025",
-      "03.08.2025",
-      "10.08.2025",
-      "17.08.2025",
-      "24.08.2025",
-      "31.08.2025"
-    ],
-    "time": "15:00 - 17:00",
-    "thema": "Krieg ist nie die einzige Wahl, aber immer die schlechteste. Mittels Flashmob bringen wir den Schrecken jeden Krieges zurück in die Öffentlichkeit und wollen zum Nachdenken und Gesprächen anregen. (vom 01.06. bis 31.08.2025 - jeweils So.)",
-    "location": "Pariser Platz 10117",
-    "way_points": [
-      "Pariser Platz 10117"
-    ]
-  },
-  {
-    "date": [
-      "15.06.2025"
-    ],
-    "time": "15:00 - 18:00",
-    "thema": "Autokorso zur Aufhebung der Blockade gegen Gaza",
-    "location": "-> ortsfeste Kundgebung Brandenbu- rger Tor - Straße 17. Juni - Hofjägerallee - Stülerstr. - Budapester Str. - Joachimsthaler Str. - Tauentzienstr. - An der Urania - Kleiststr. - Potsdamer Str. - Potsdamer Platz - Stresemannstr. - Anhalter Bhf. - Anhalter Str. - Wilhelmstr. - Kochstr./ Rudi-Dutschke-Str. - Lindenstr.",
-    "way_points": [
-      "-> ortsfeste Kundgebung Brandenburger Tor",
-      "Straße 17. Juni",
-      "Hofjägerallee",
-      "Stülerstr.",
-      "Budapester Str.",
-      "Joachimsthaler Str.",
-      "Tauentzienstr.",
-      "An der Urania",
-      "Kleiststr.",
-      "Potsdamer Str.",
-      "Potsdamer Platz",
-      "Stresemannstr.",
-      "Anhalter Bhf.",
-      "Anhalter Str.",
-      "Wilhelmstr.",
-      "Kochstr./ Rudi-Dutschke-Str.",
-      "Lindenstr."
-    ]
-  },
-  {
-    "date": [
-      "15.06.2025"
-    ],
-    "time": "17:00 - 18:00",
-    "thema": "Wir werden ein stille Mahnwache abhalten, um der Kinder zu gedenken, die im Gaza-Israel-Krieg ihr Leben verloren haben. Die Teilnehmenden werden mit Kerzen sitzen und Fotos der Kinder zeigen, auf denen ihre Namen auf Deutsch, Englisch und Hebräisch geschrieben sind.",
-    "location": "Schloßplatz 10178",
-    "way_points": [
-      "Schloßplatz 10178"
-    ]
-  },
-  {
-    "date": [
-      "15.06.2025",
-      "22.06.2025",
-      "29.06.2025"
-    ],
-    "time": "18:00 - 18:30",
-    "thema": "Lichterkette für Demokratie und Vielfalt - Unser Dorf bleibt hell und bunt (vom 05.01. bis 29.06.2025 - jeweils So.)",
-    "location": "Alt-Blankenburg 12 13129",
-    "way_points": [
-      "Alt-Blankenburg 12 13129"
-    ]
-  },
-  {
-    "date": [
-      "15.06.2025"
-    ],
-    "time": "18:00 - 20:00",
-    "thema": "Protest gegen die Hinrichtungen im Iran – Aufruf an die Bundesregierung und das Auswärtige Amt, eine entschlossene und wirksame Haltung gegenüber den staatlichen Hinrichtungen durch das islamische Regime im Iran einzunehmen.",
-    "location": "Joachimsthaler Str. 1 10623",
-    "way_points": [
-      "Joachimsthaler Str. 1 10623"
-    ]
-  },
-  {
-    "date": [
-      "16.06.2025",
-      "23.06.2025",
-      "30.06.2025",
-      "07.07.2025",
-      "14.07.2025",
-      "21.07.2025"
-    ],
-    "time": "00:00 - 00:00",
-    "thema": "Stoppt den Krieg! Frieden und Freiheit für die Ukraine! JETZT! (vom 07.04. bis 21.07.2025 - jeweils montags)",
-    "location": "Alt-Müggelheim 22 12559",
-    "way_points": [
-      "Alt-Müggelheim 22 12559"
-    ]
-  },
-  {
-    "date": [
-      "16.06.2025"
-    ],
-    "time": "10:00 - 13:00",
-    "thema": "Kundgebung gegen die Eröffnung des Amazon-Towers",
-    "location": "Warschauer Brücke 10245",
-    "way_points": [
-      "Warschauer Brücke 10245"
-    ]
-  },
-  {
-    "date": [
-      "16.06.2025"
-    ],
-    "time": "10:30 - 12:30",
-    "thema": "Ehrung zum 80. Todestag E. Bersarin",
-    "location": "Alfred-Kowalke-Str. 10315",
-    "way_points": [
-      "Alfred-Kowalke-Str. 10315"
-    ]
-  },
-  {
-    "date": [
-      "16.06.2025"
-    ],
-    "time": "11:00 - 14:00",
-    "thema": "Die Aktion zur Elektrohypersensibilität EHS wurde von der französischen Organisation Coeurs de EHS ins Leben gerufen. Ihr Symbol ist ein gelbes Herz. Inspiriert von Kanarienvögeln, die früher im Bergbau als Frühwarnsystem für giftiges Gas dienten. Ähnlich gelten Elektrohypersensible he- ute als Frühindikatoren für elektromagnetische Strahlung, doch staatliche Vorsorgemaßnahmen bleiben aus.",
-    "location": "Willy-Brandt-Str. 10557",
-    "way_points": [
-      "Willy-Brandt-Str. 10557"
-    ]
-  },
-  {
-    "date": [
-      "16.06.2025",
-      "23.06.2025",
-      "30.06.2025",
-      "07.07.2025",
-      "14.07.2025",
-      "21.07.2025",
-      "28.07.2025",
-      "04.08.2025",
-      "11.08.2025",
-      "18.08.2025",
-      "25.08.2025"
-    ],
-    "time": "12:00 - 14:00",
-    "thema": "Mahnwache vor dem RKI. Kritisiert wird die Rolle des RKI im Zusammenhang mit der Corona-Hysterie und den dadurch begründeten Menschenrec- htsverletzungen. Es besteht weiterhin die Forderung nach Erfüllung der Informationspflicht als Regierungsbehörde. Ferner ist bislang keinerlei Bemühung um Aufarbeitung der begangenen Rechtsbrüche zu erkennen. Da zudem längst Vorbereitungen für die nächste Pandemiesimulation angelaufen sind, ist ein Ende der Notwendigkeit der Mahnwache nicht abzusehen. (vom 04.11.2024 bis 25.08.2025 - jeweils Mo.)",
-    "location": "Nordufer 20 13353",
-    "way_points": [
-      "Nordufer 20 13353"
+      "Am Treptower Park 12435"
     ]
   },
   {
@@ -1667,6 +1018,42 @@
   },
   {
     "date": [
+      "17.06.2025"
+    ],
+    "time": "15:00 - 16:00",
+    "thema": "Freiheit für das Awame Action Comitee",
+    "location": "Schaperstr. 29 10719",
+    "way_points": [
+      "Schaperstr. 29 10719"
+    ]
+  },
+  {
+    "date": [
+      "17.06.2025",
+      "18.06.2025",
+      "19.06.2025"
+    ],
+    "time": "15:00 - 19:00",
+    "thema": "Eine Ausstellung gegen Hinrichtungen im Iran und die Unterstützung der Menschen, die täglich unter der Unterdrückung der diktatorischen Regierung der Mullahs im Iran stehen.Eine Ausstellung gegen Hinrichtungen im Iran und die Unterstützung des unterdrückten Volkes im Iran",
+    "location": "Goethestr. 42 10625",
+    "way_points": [
+      "Goethestr. 42 10625"
+    ]
+  },
+  {
+    "date": [
+      "17.06.2025",
+      "24.06.2025"
+    ],
+    "time": "16:30 - 18:30",
+    "thema": "Bürger wollen mit Passanten sprechen Thema Frieden und Aufklärung.",
+    "location": "Luisenhain 12555",
+    "way_points": [
+      "Luisenhain 12555"
+    ]
+  },
+  {
+    "date": [
       "17.06.2025",
       "19.06.2025",
       "24.06.2025",
@@ -1807,6 +1194,33 @@
   {
     "date": [
       "18.06.2025",
+      "21.06.2025",
+      "22.06.2025",
+      "25.06.2025",
+      "28.06.2025",
+      "29.06.2025",
+      "02.07.2025",
+      "05.07.2025",
+      "06.07.2025",
+      "09.07.2025",
+      "12.07.2025",
+      "13.07.2025",
+      "16.07.2025",
+      "19.07.2025",
+      "20.07.2025",
+      "23.07.2025",
+      "26.07.2025"
+    ],
+    "time": "10:00 - 18:00",
+    "thema": "Gegen Mieterverdrängung durch sogenannte energetische Sanierung und Luxus-Sanierung für unverfälschte Denkmalpflege. Verstoß gegen den Kaufvertrag (vom 27.04. bis 26.07.2025 - jeweils Mi.,Sa.,So.)",
+    "location": "An der Heide 13509",
+    "way_points": [
+      "An der Heide 13509"
+    ]
+  },
+  {
+    "date": [
+      "18.06.2025",
       "18.06.2025",
       "19.06.2025",
       "21.06.2025",
@@ -1836,11 +1250,22 @@
     "date": [
       "18.06.2025"
     ],
-    "time": "13:00 - 17:00",
+    "time": "13:30 - 16:00",
     "thema": "Kundgebung gegen die Hochschulkürzungen des Senats.",
     "location": "Straße des 17. Juni 135 10623",
     "way_points": [
       "Straße des 17. Juni 135 10623"
+    ]
+  },
+  {
+    "date": [
+      "18.06.2025"
+    ],
+    "time": "14:00 - 16:00",
+    "thema": "Stille Demo zum Gedenken der Euthanasieopfer aus der NS Zeit",
+    "location": "Gerichtstr. 35 13347",
+    "way_points": [
+      "Gerichtstr. 35 13347"
     ]
   },
   {
@@ -1852,6 +1277,17 @@
     "location": "Stauffenbergstr./ Tiergartenstr 7 10785",
     "way_points": [
       "Stauffenbergstr./ Tiergartenstr 7 10785"
+    ]
+  },
+  {
+    "date": [
+      "18.06.2025"
+    ],
+    "time": "17:30 - 17:50",
+    "thema": "Kiezblock für den KungerKiez - Anwohner:innen sprechen sich für eine breite Mehrheit in der BVV für dessen Umsetzung aus",
+    "location": "Neue Krugallee 2 12435",
+    "way_points": [
+      "Neue Krugallee 2 12435"
     ]
   },
   {
@@ -2089,7 +1525,9 @@
     "date": [
       "19.06.2025",
       "25.06.2025",
-      "28.06.2025"
+      "28.06.2025",
+      "02.07.2025",
+      "05.07.2025"
     ],
     "time": "18:00 - 20:00",
     "thema": "Solidarität mit Palästina Stoppt den Gaza Genozid Keine Waffenlieferungen an Israel",
@@ -2228,17 +1666,6 @@
   },
   {
     "date": [
-      "20.06.2025"
-    ],
-    "time": "12:30 - 18:00",
-    "thema": "Protest und Demonstration vor der jemenitischen Botschaft gegen die Verzögerung bei der Auszahlung von Studiengebühren und Stipendien.",
-    "location": "Schmidt-Ott-Str. 7 12165",
-    "way_points": [
-      "Schmidt-Ott-Str. 7 12165"
-    ]
-  },
-  {
-    "date": [
       "20.06.2025",
       "27.06.2025",
       "04.07.2025",
@@ -2311,6 +1738,27 @@
     "location": "Holsteiner Ufer 18 10557",
     "way_points": [
       "Holsteiner Ufer 18 10557"
+    ]
+  },
+  {
+    "date": [
+      "20.06.2025"
+    ],
+    "time": "17:30 - 20:00",
+    "thema": "Free Maja - Demonstration in Solidarität mit Antifaschist*in Maja. Maja wurde rechtswidrig nach Ungarn ausgeliefert und erfährt in Budapest Haftbedingungen, wie Isolationshaft, die gegen Menschenrechte verstoßen. Maja ist in den Hungerstreik getreten, um die Rückführung nach Deutschland zu erwirken. Wir protestieren um zu zeigen: Antifaschismus ist notwendig!",
+    "location": "Pariser Platz - Unter den Linden - Unter den Linden 76 (ZK) - Unter den Linden - Friedrichstr. - Mohrenstr. -Mohrenstr. 37 (ZK) - Hausvogteiplatz - Oberwallstr. - Jägerstr. - Kurstr. - Werderscher Markt",
+    "way_points": [
+      "Pariser Platz",
+      "Unter den Linden",
+      "Unter den Linden 76",
+      "Unter den Linden",
+      "Friedrichstr.",
+      "Mohrenstr. -Mohrenstr. 37",
+      "Hausvogteiplatz",
+      "Oberwallstr.",
+      "Jägerstr.",
+      "Kurstr.",
+      "Werderscher Markt"
     ]
   },
   {
@@ -2420,6 +1868,44 @@
     "location": "Seddiner Str. 10315",
     "way_points": [
       "Seddiner Str. 10315"
+    ]
+  },
+  {
+    "date": [
+      "21.06.2025",
+      "28.06.2025",
+      "05.07.2025",
+      "12.07.2025",
+      "19.07.2025",
+      "26.07.2025",
+      "02.08.2025",
+      "09.08.2025",
+      "16.08.2025",
+      "23.08.2025",
+      "30.08.2025",
+      "06.09.2025",
+      "13.09.2025",
+      "20.09.2025",
+      "27.09.2025",
+      "04.10.2025",
+      "11.10.2025",
+      "18.10.2025",
+      "25.10.2025",
+      "01.11.2025",
+      "08.11.2025",
+      "15.11.2025",
+      "22.11.2025",
+      "29.11.2025",
+      "06.12.2025",
+      "13.12.2025",
+      "20.12.2025",
+      "27.12.2025"
+    ],
+    "time": "12:00 - 15:00",
+    "thema": "Ohne JESUS kein Frieden (vom 15.02. bis 27.12.2025 - jeweils Sa.)",
+    "location": "Jebensstr. 7 10623",
+    "way_points": [
+      "Jebensstr. 7 10623"
     ]
   },
   {
@@ -2786,17 +2272,6 @@
     "date": [
       "21.06.2025"
     ],
-    "time": "13:00 - 22:00",
-    "thema": "Kunst und Kultur sind ein must have - kein nice to have! Mehr Support für Berliner Clubs Finanzierung von Kunst und Kultur von der Straße Entkriminalisierung von Graffiti Solidarität mit Artists in Congo, Sudan, Palästina, Iran, Haiti, etc...",
-    "location": "Lausitzer Platz 10997",
-    "way_points": [
-      "Lausitzer Platz 10997"
-    ]
-  },
-  {
-    "date": [
-      "21.06.2025"
-    ],
     "time": "13:00 - 23:00",
     "thema": "Kundgebung für den Erhalt der kulturellen Kiezkultur",
     "location": "Liebigstr. 34 10247",
@@ -2846,28 +2321,65 @@
     ],
     "time": "14:00 - 18:00",
     "thema": "FREEDOM IS OUR RELIGION Gegen die Abschaffung der Vereinsfreiheit durch die Änderung des VereinsG im Jahre 2017 durch das sog. Kuttenverbot",
-    "location": "B1-Alt-Mahlsdorf - B1-Alt-Kaulsdorf - B1-Alt-Biesdorf - B1-Alt-Friedrichsfelde - B1-Karl Marx Allee - Platz der Vereinigten Nationen - Mollstr. - Torstr. - Brunnenstr. - Badstr. - Schwedenstr. - Holländerstr. - Residenzstr. - Lindauer Allee - Waldstr. - Karolinstr. - Berliner Str. - Wittestr. - Heiligenseestr. - Städtischer Friedhof Heiligensee",
+    "location": "B1/5 - Landesgrenze BB/BE - Alt-Mahlsdorf - Alt-Kaulsdorf - Alt-Biesdorf - Alt-Friedrichsfelde - Frankfurter Allee - Karl-Marx-Allee - Strausberger Platz - Lichtenberger Str. - Platz der Vereinigten Nationen - Mollstr. - Torstr. - Brunnenstr. - Badstr. - Schwedenstr. - Residenzstr. - Holländerstr. - Markstr. - Residenzstr. - Lindauer Allee - Waldstr. - Wittestr. - Berliner Str. - Karolinstr. - Heiligenseestr. - Alt-Heiligensee - Sandhauser Str. - Sandhauser Str. 130 (ZK, Städtischer Friedhof Heiligensee) - Sandhauser Str. - Alt-Heiligensee - Heiligenseestr. - Karolinstr. - Berliner Str. - Wittestr. - Waldstr. - Lindauer Allee - Residenzstr. - Markstr. - Holländerstr. - Residenzstr. - Schwedenstr. - Badstr. - Brunnenstr. - Torstr. - Mollstr. - Platz der Vereinten Nationen - Lichtenberger Str. - Strausberger Platz - Karl-Marx-Allee - Frankfurter Allee - Alt-Friedrichsfelde - Alt-Biesdorf - Alt-Kaulsdorf - Alt-Mahlsdorf - Landesgrenze BE/BB - B1/5",
     "way_points": [
-      "B1-Alt-Mahlsdorf",
-      "B1-Alt-Kaulsdorf",
-      "B1-Alt-Biesdorf",
-      "B1-Alt-Friedrichsfelde",
-      "B1-Karl Marx Allee",
+      "B1/5",
+      "Landesgrenze BB/BE",
+      "Alt-Mahlsdorf",
+      "Alt-Kaulsdorf",
+      "Alt-Biesdorf",
+      "Alt-Friedrichsfelde",
+      "Frankfurter Allee",
+      "Karl-Marx-Allee",
+      "Strausberger Platz",
+      "Lichtenberger Str.",
       "Platz der Vereinigten Nationen",
       "Mollstr.",
       "Torstr.",
       "Brunnenstr.",
       "Badstr.",
       "Schwedenstr.",
+      "Residenzstr.",
       "Holländerstr.",
+      "Markstr.",
       "Residenzstr.",
       "Lindauer Allee",
       "Waldstr.",
+      "Wittestr.",
+      "Berliner Str.",
+      "Karolinstr.",
+      "Heiligenseestr.",
+      "Alt-Heiligensee",
+      "Sandhauser Str.",
+      "Sandhauser Str. 130",
+      "Sandhauser Str.",
+      "Alt-Heiligensee",
+      "Heiligenseestr.",
       "Karolinstr.",
       "Berliner Str.",
       "Wittestr.",
-      "Heiligenseestr.",
-      "Städtischer Friedhof Heiligensee"
+      "Waldstr.",
+      "Lindauer Allee",
+      "Residenzstr.",
+      "Markstr.",
+      "Holländerstr.",
+      "Residenzstr.",
+      "Schwedenstr.",
+      "Badstr.",
+      "Brunnenstr.",
+      "Torstr.",
+      "Mollstr.",
+      "Platz der Vereinten Nationen",
+      "Lichtenberger Str.",
+      "Strausberger Platz",
+      "Karl-Marx-Allee",
+      "Frankfurter Allee",
+      "Alt-Friedrichsfelde",
+      "Alt-Biesdorf",
+      "Alt-Kaulsdorf",
+      "Alt-Mahlsdorf",
+      "Landesgrenze BE/BB",
+      "B1/5"
     ]
   },
   {
@@ -2922,11 +2434,34 @@
     "date": [
       "21.06.2025"
     ],
+    "time": "14:00 - 22:00",
+    "thema": "Protest gegen die A100-Erweiterung – Schutz lokaler Unternehmen",
+    "location": "Markgrafendamm 35 10245",
+    "way_points": [
+      "Markgrafendamm 35 10245"
+    ]
+  },
+  {
+    "date": [
+      "21.06.2025"
+    ],
     "time": "15:00 - 16:00",
     "thema": "Gedenken anlässlich des 80. Todestages von Julius Fromm",
     "location": "Käthe-Niederkirchner-Str. 23 10407",
     "way_points": [
       "Käthe-Niederkirchner-Str. 23 10407"
+    ]
+  },
+  {
+    "date": [
+      "21.06.2025",
+      "28.06.2025"
+    ],
+    "time": "15:00 - 17:00",
+    "thema": "Frieden Freiheit Souveränität (vom 07.06. bis 28.06.2025 - jeweils Sa.)",
+    "location": "Pariser Platz 1 10117",
+    "way_points": [
+      "Pariser Platz 1 10117"
     ]
   },
   {
@@ -2946,15 +2481,15 @@
     ],
     "time": "15:00 - 20:00",
     "thema": "United 4 Gaza!",
-    "location": "NEU: Brandenburger Tor - Dorotheenstraße - Wilhelmstraße -ZK: EU Botschaft - Unter den Linden - ZK: Humboldt-Uni - Karl Liebknecht Strasse - Alexanderplatz (Rathausplatz) ALT: - Brandenburger Tor - Bundestag - Bundeskanzleramt",
+    "location": "NEU: Platz der Republik- Scheidemannstr. - Dorotheenstr. - Wilhelmstr. - Reichstagsufer - Friedrichstr. - Leipziger Str. - Potsdamer Platz ALT: Brandenburger Tor - Dorotheenstraße - Wilhelmstraße -ZK: EU Botschaft - Unter den Linden - ZK: Humboldt-Uni - Karl Liebknecht Strasse - Alexanderplatz (Rathausplatz) ALT: - Brandenburger Tor - Bundestag - Bundeskanzleramt",
     "way_points": [
-      "Brandenburger Tor",
-      "Dorotheenstraße",
-      "Wilhelmstraße -ZK: EU Botschaft",
-      "Unter den Linden",
-      "ZK: Humboldt-Uni",
-      "Karl Liebknecht Strasse",
-      "Alexanderplatz"
+      "Platz der RepublikScheidemannstr.",
+      "Dorotheenstr.",
+      "Wilhelmstr.",
+      "Reichstagsufer",
+      "Friedrichstr.",
+      "Leipziger Str.",
+      "Potsdamer Platz"
     ]
   },
   {
@@ -3047,6 +2582,22 @@
   },
   {
     "date": [
+      "22.06.2025",
+      "29.06.2025",
+      "06.07.2025",
+      "13.07.2025",
+      "20.07.2025",
+      "27.07.2025"
+    ],
+    "time": "12:00 - 18:00",
+    "thema": "Stoppt den Genozid in Gaza! Wir sammeln Unterschriften für ein sofortiges Ende der Waffenlieferungen an Israel und die Aufhebung der Hilfsblockade und informieren über die Situation in Gaza. Deutschland ist zweitgrößter Waffenlieferant Israels und muss sich vor dem Internationalen Gerichtshof wegen Beihilfe zum Völkermord verantworten... (vom 01.06. bis 27.07.2025 - jeweils So.)",
+    "location": "Grünberger Str. 71 10245",
+    "way_points": [
+      "Grünberger Str. 71 10245"
+    ]
+  },
+  {
+    "date": [
       "22.06.2025"
     ],
     "time": "14:00 - 17:00",
@@ -3119,6 +2670,50 @@
       "Mühlenstr.",
       "Warschauer Str.",
       "Revalerstr."
+    ]
+  },
+  {
+    "date": [
+      "22.06.2025",
+      "29.06.2025",
+      "06.07.2025",
+      "13.07.2025",
+      "20.07.2025",
+      "27.07.2025",
+      "03.08.2025",
+      "10.08.2025",
+      "17.08.2025",
+      "24.08.2025",
+      "31.08.2025"
+    ],
+    "time": "15:00 - 17:00",
+    "thema": "Krieg ist nie die einzige Wahl, aber immer die schlechteste. Mittels Flashmob bringen wir den Schrecken jeden Krieges zurück in die Öffentlichkeit und wollen zum Nachdenken und Gesprächen anregen. (vom 01.06. bis 31.08.2025 - jeweils So.)",
+    "location": "Pariser Platz 10117",
+    "way_points": [
+      "Pariser Platz 10117"
+    ]
+  },
+  {
+    "date": [
+      "22.06.2025"
+    ],
+    "time": "15:00 - 18:00",
+    "thema": "Animal Rights Square: Video-Aktion zur Aufklärung über die Tierindustrie",
+    "location": "Pariser Platz 10117",
+    "way_points": [
+      "Pariser Platz 10117"
+    ]
+  },
+  {
+    "date": [
+      "22.06.2025",
+      "29.06.2025"
+    ],
+    "time": "18:00 - 18:30",
+    "thema": "Lichterkette für Demokratie und Vielfalt - Unser Dorf bleibt hell und bunt (vom 05.01. bis 29.06.2025 - jeweils So.)",
+    "location": "Alt-Blankenburg 12 13129",
+    "way_points": [
+      "Alt-Blankenburg 12 13129"
     ]
   },
   {
@@ -3406,6 +3001,17 @@
     "date": [
       "27.06.2025"
     ],
+    "time": "12:30 - 18:00",
+    "thema": "Protest und Demonstration vor der jemenitischen Botschaft gegen die Verzögerung bei der Auszahlung von Studiengebühren und Stipendien.",
+    "location": "Schmidt-Ott-Str. 14 12165",
+    "way_points": [
+      "Schmidt-Ott-Str. 14 12165"
+    ]
+  },
+  {
+    "date": [
+      "27.06.2025"
+    ],
     "time": "18:00 - 21:00",
     "thema": "Lesben Demo Walk with Pride",
     "location": "neu: Pannierstr. 47 - Pannierstr. - Thielenbrücke - Glogauer Str. - Reichenberger Str. - Lausitzer Str. - Wiener Str. - Audre-Lorde-Str. - Muskauer Str. - Mariannenplatz alt: - Nollendorfplatz/Motzstr (vor dem Metropol) - Rathaus Schöneberg",
@@ -3458,6 +3064,17 @@
   },
   {
     "date": [
+      "28.06.2025"
+    ],
+    "time": "12:00 - 14:30",
+    "thema": "WIR STEHEN STABIL AN DER SEITE ALLER OPFER ANTISEMITISCHER ANGRIFFE UND AUCH FÜR DIE OPFER VON GEWALT BEI ISLAMISITISCHEN PROTESTEN AUF SEITE DER POLIZEI BERLIN! KEINE GEWALT GEGEN EINSATZKRÄFTE ! Gedenken an den getöteten Polizisten Rouven Laur und den schwer verletzen Polizisten beim Nakba Marsch Berlin 2025.",
+    "location": "Oranienplatz 10999",
+    "way_points": [
+      "Oranienplatz 10999"
+    ]
+  },
+  {
+    "date": [
       "28.06.2025",
       "26.07.2025",
       "30.08.2025"
@@ -3467,6 +3084,19 @@
     "location": "Alexanderplatz 1 10178",
     "way_points": [
       "Alexanderplatz 1 10178"
+    ]
+  },
+  {
+    "date": [
+      "28.06.2025",
+      "12.07.2025",
+      "26.07.2025"
+    ],
+    "time": "14:00 - 16:00",
+    "thema": "100 Städte, eine Stimme mit Kronprinz Reza Pahlavi, maximaler Druck auf die Islamische Republik und maximale Unterstützung für das iranische Volk zur Überwindung des unterdrückerischen, theokratischen Regimes und zur Errichtung eines demokratischen, säkularen Iran!",
+    "location": "Konrad-Adenauer-Str. 1 10557",
+    "way_points": [
+      "Konrad-Adenauer-Str. 1 10557"
     ]
   },
   {
@@ -3509,16 +3139,18 @@
     ],
     "time": "14:00 - 19:00",
     "thema": "Die Pläne der WHO und Deutschlands fatale Schlüsselrolle",
-    "location": "Alexanderplatz - Karl-Liebknecht-Str. - Dircksenstr. An der Spandauer Brücke - Oranienburger Str. - Friedrichstr. - Unter den Linden - Karl-Liebknecht-Str. - Alexanderplatz",
+    "location": "Alexanderplatz 1 (AP) - Alexanderplatz/Gleisquerung Tram Alexanderstr. - Karl-Liebknecht-Str. - Dircksenstr. An der Spandauer Brücke - Oranienburger Str. - Friedrichstr. - Unter den Linden - Karl-Liebknecht-Str. - Dircksenstr. - Alexanderplatz 1 (EP)",
     "way_points": [
-      "Alexanderplatz",
+      "Alexanderplatz 1",
+      "Alexanderplatz/Gleisquerung Tram Alexanderstr.",
       "Karl-Liebknecht-Str.",
       "Dircksenstr. An der Spandauer Brücke",
       "Oranienburger Str.",
       "Friedrichstr.",
       "Unter den Linden",
       "Karl-Liebknecht-Str.",
-      "Alexanderplatz"
+      "Dircksenstr.",
+      "Alexanderplatz 1"
     ]
   },
   {
@@ -3549,6 +3181,33 @@
     "location": "Alexanderplatz 10178",
     "way_points": [
       "Alexanderplatz 10178"
+    ]
+  },
+  {
+    "date": [
+      "28.06.2025",
+      "05.07.2025",
+      "12.07.2025",
+      "19.07.2025",
+      "26.07.2025",
+      "02.08.2025",
+      "09.08.2025",
+      "16.08.2025",
+      "23.08.2025",
+      "30.08.2025",
+      "06.09.2025",
+      "13.09.2025",
+      "20.09.2025",
+      "27.09.2025",
+      "04.10.2025",
+      "11.10.2025",
+      "18.10.2025"
+    ],
+    "time": "14:45 - 18:00",
+    "thema": "Tierrecht /Veganismus, CUBE OF TRUTH (vom 05.04. bis 18.10.2025 - jeweils Sa.)",
+    "location": "Pariser Platz 10117",
+    "way_points": [
+      "Pariser Platz 10117"
     ]
   },
   {
@@ -3877,6 +3536,23 @@
     "location": "Markt 13597",
     "way_points": [
       "Markt 13597"
+    ]
+  },
+  {
+    "date": [
+      "05.07.2025",
+      "19.07.2025",
+      "02.08.2025",
+      "16.08.2025",
+      "23.08.2025",
+      "30.08.2025",
+      "13.09.2025"
+    ],
+    "time": "12:00 - 14:30",
+    "thema": "NEON-Protest für die Befreiung der Tierheit",
+    "location": "Pariser Platz 10117",
+    "way_points": [
+      "Pariser Platz 10117"
     ]
   },
   {
@@ -4282,6 +3958,20 @@
     "location": "Luckenwalder Str. 10963",
     "way_points": [
       "Luckenwalder Str. 10963"
+    ]
+  },
+  {
+    "date": [
+      "12.07.2025",
+      "19.07.2025",
+      "20.07.2025",
+      "26.07.2025"
+    ],
+    "time": "15:30 - 22:00",
+    "thema": "Versammlung mit politischen und sozialen Hintergrund. Zur Erinnerung und Klarstellung der christlichen Werte. Der Weg zur Ewigkeit welcher nur durch Jesus Christus führt.",
+    "location": "Straße des 17. Juni 10557",
+    "way_points": [
+      "Straße des 17. Juni 10557"
     ]
   },
   {
@@ -4870,6 +4560,17 @@
   },
   {
     "date": [
+      "22.08.2025"
+    ],
+    "time": "12:00 - 14:00",
+    "thema": "80 Jahre nach dem Überfall auf die Sowjetunion",
+    "location": "S-Bhf. Treptower Park 12435",
+    "way_points": [
+      "S-Bhf. Treptower Park 12435"
+    ]
+  },
+  {
+    "date": [
       "24.08.2025"
     ],
     "time": "07:00 - 15:45",
@@ -5069,6 +4770,17 @@
     "location": "Niederkirchnerstr. 5 10117",
     "way_points": [
       "Niederkirchnerstr. 5 10117"
+    ]
+  },
+  {
+    "date": [
+      "11.09.2025"
+    ],
+    "time": "16:00 - 23:59",
+    "thema": "Mahnwache zum Tag der Wohnungslosen & Protest gegen Obdachlosfeindichen Umbau des Bahnhof Berlin- Alexanderplatz",
+    "location": "Panoramastr. 1A 10178",
+    "way_points": [
+      "Panoramastr. 1A 10178"
     ]
   },
   {
@@ -5361,6 +5073,27 @@
     "location": "Platz des 18. März 10117",
     "way_points": [
       "Platz des 18. März 10117"
+    ]
+  },
+  {
+    "date": [
+      "22.09.2025"
+    ],
+    "time": "16:00 - 20:00",
+    "thema": "Fahrrad-Demo am Montag, 22.09.2025 durch Treptow- Köpenick The- ma: „Mix and Move! – klimafreundlich mobil“ Im Rahmen der 23. Europäischen Mobilitätswoche",
+    "location": "Neue Krugallee 4 (AP) - Neue Krugallee - Baumschulenstr. - Köpenicker Landstr. - Sterndamm - Königsheideweg - Baumschulenstr. - Kiefholzstr. - Elsenstr. - Puschkinallee - Neue Krugallee 4 (EP)",
+    "way_points": [
+      "Neue Krugallee 4",
+      "Neue Krugallee",
+      "Baumschulenstr.",
+      "Köpenicker Landstr.",
+      "Sterndamm",
+      "Königsheideweg",
+      "Baumschulenstr.",
+      "Kiefholzstr.",
+      "Elsenstr.",
+      "Puschkinallee",
+      "Neue Krugallee 4"
     ]
   },
   {

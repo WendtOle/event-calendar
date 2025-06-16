@@ -60706,5 +60706,2590 @@
         "13.4070356"
       ]
     }
+  ],
+  "S-Bhf. Treptower Park 12435": [],
+  "Landesgrenze BB/BE": [],
+  "Neue Krugallee": [
+    {
+      "place_id": 587012,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 155594970,
+      "lat": "52.47291029251153",
+      "lon": "13.489898697510185",
+      "class": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Neue Krugallee",
+      "display_name": "Neue Krugallee, Baumschulenweg, Treptow-Köpenick, Berlin, Brandenburg, 12437, Deutschland",
+      "boundingbox": [
+        "52.4701654",
+        "52.4756551",
+        "13.4874401",
+        "13.4923572"
+      ]
+    },
+    {
+      "place_id": 600020,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 37077530,
+      "lat": "52.4813291525266",
+      "lon": "13.482345752816803",
+      "class": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Neue Krugallee",
+      "display_name": "Neue Krugallee, Plänterwald, Treptow-Köpenick, Berlin, Brandenburg, 12435, Deutschland",
+      "boundingbox": [
+        "52.4801913",
+        "52.4824670",
+        "13.4813249",
+        "13.4833666"
+      ]
+    },
+    {
+      "place_id": 597765,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 899453865,
+      "lat": "52.47896042164174",
+      "lon": "13.484473674071387",
+      "class": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Neue Krugallee",
+      "display_name": "Neue Krugallee, Plänterwald, Treptow-Köpenick, Berlin, Brandenburg, 12437, Deutschland",
+      "boundingbox": [
+        "52.4779509",
+        "52.4799699",
+        "13.4835661",
+        "13.4853812"
+      ]
+    },
+    {
+      "place_id": 599043,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 145795402,
+      "lat": "52.46910549001952",
+      "lon": "13.49331100822024",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Neue Krugallee",
+      "display_name": "Neue Krugallee, Baumschulenweg, Treptow-Köpenick, Berlin, Brandenburg, 12437, Deutschland",
+      "boundingbox": [
+        "52.4683184",
+        "52.4698901",
+        "13.4925962",
+        "13.4940231"
+      ]
+    },
+    {
+      "place_id": 586999,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 54630365,
+      "lat": "52.474091398221475",
+      "lon": "13.487728193220233",
+      "class": "highway",
+      "type": "service",
+      "place_rank": 27,
+      "importance": 0.04000999999999999,
+      "addresstype": "road",
+      "name": "Neue Krugallee",
+      "display_name": "Neue Krugallee, Baumschulenweg, Treptow-Köpenick, Berlin, Brandenburg, 12437, Deutschland",
+      "boundingbox": [
+        "52.4737322",
+        "52.4744300",
+        "13.4873989",
+        "13.4879984"
+      ]
+    }
+  ],
+  "Alt-Kaulsdorf": [
+    {
+      "place_id": 460138,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 31578378,
+      "lat": "52.50506433885694",
+      "lon": "13.584339526341278",
+      "class": "highway",
+      "type": "primary",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Alt-Kaulsdorf",
+      "display_name": "Alt-Kaulsdorf, Kaulsdorf, Marzahn-Hellersdorf, Berlin, Brandenburg, 12621, Deutschland",
+      "boundingbox": [
+        "52.5050298",
+        "52.5050854",
+        "13.5819386",
+        "13.5867403"
+      ]
+    },
+    {
+      "place_id": 467189,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 4702398,
+      "lat": "52.505102207529106",
+      "lon": "13.579367147691134",
+      "class": "highway",
+      "type": "primary",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Alt-Kaulsdorf",
+      "display_name": "Alt-Kaulsdorf, Biesdorf, Marzahn-Hellersdorf, Berlin, Brandenburg, 12621, Deutschland",
+      "boundingbox": [
+        "52.5050815",
+        "52.5051293",
+        "13.5786951",
+        "13.5800394"
+      ]
+    }
+  ],
+  "Kurstr.": [
+    {
+      "place_id": 833251,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 4484208,
+      "lat": "52.430253541965364",
+      "lon": "13.217491870717863",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Kurstraße",
+      "display_name": "Kurstraße, Schlachtensee, Steglitz-Zehlendorf, Berlin, Brandenburg, 14129, Deutschland",
+      "boundingbox": [
+        "52.4285026",
+        "52.4320106",
+        "13.2165159",
+        "13.2184787"
+      ]
+    },
+    {
+      "place_id": 216955,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 15973619,
+      "lat": "52.51348191257833",
+      "lon": "13.399033440374726",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Kurstraße",
+      "display_name": "Kurstraße, Friedrichswerder, Mitte, Berlin, Brandenburg, 10117, Deutschland",
+      "boundingbox": [
+        "52.5129218",
+        "52.5144883",
+        "13.3984480",
+        "13.4000272"
+      ]
+    },
+    {
+      "place_id": 123701,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 4804156,
+      "lat": "52.54825476327906",
+      "lon": "13.208217843109622",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Kurstraße",
+      "display_name": "Kurstraße, Spandau, Berlin, Brandenburg, 13585, Deutschland",
+      "boundingbox": [
+        "52.5476256",
+        "52.5488892",
+        "13.2079934",
+        "13.2084165"
+      ]
+    },
+    {
+      "place_id": 834905,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 4609224,
+      "lat": "52.428323750000004",
+      "lon": "13.2185846",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Kurstraße",
+      "display_name": "Kurstraße, Nikolassee, Steglitz-Zehlendorf, Berlin, Brandenburg, 14129, Deutschland",
+      "boundingbox": [
+        "52.4282406",
+        "52.4284069",
+        "13.2185354",
+        "13.2186338"
+      ]
+    },
+    {
+      "place_id": 833308,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 390271435,
+      "lat": "52.42836505",
+      "lon": "13.2181264",
+      "class": "highway",
+      "type": "platform",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "highway",
+      "name": "Kurstraße",
+      "display_name": "Kurstraße, Potsdamer Chaussee, Nikolassee, Steglitz-Zehlendorf, Berlin, Brandenburg, 14129, Deutschland",
+      "boundingbox": [
+        "52.4283431",
+        "52.4283870",
+        "13.2180315",
+        "13.2182213"
+      ]
+    },
+    {
+      "place_id": 833316,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 358578557,
+      "lat": "52.4280614",
+      "lon": "13.2180873",
+      "class": "highway",
+      "type": "bus_stop",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "highway",
+      "name": "Kurstraße",
+      "display_name": "Kurstraße, Potsdamer Chaussee, Nikolassee, Steglitz-Zehlendorf, Berlin, Brandenburg, 14129, Deutschland",
+      "boundingbox": [
+        "52.4280114",
+        "52.4281114",
+        "13.2180373",
+        "13.2181373"
+      ]
+    }
+  ],
+  "Königsheideweg": [
+    {
+      "place_id": 668367,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 25368900,
+      "lat": "52.4496225573105",
+      "lon": "13.493416870899036",
+      "class": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Königsheideweg",
+      "display_name": "Königsheideweg, Baumschulenweg, Treptow-Köpenick, Berlin, Brandenburg, 12437, Deutschland",
+      "boundingbox": [
+        "52.4485054",
+        "52.4508529",
+        "13.4895850",
+        "13.4972876"
+      ]
+    },
+    {
+      "place_id": 576103,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 25368898,
+      "lat": "52.4455641781023",
+      "lon": "13.508586490260681",
+      "class": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Königsheideweg",
+      "display_name": "Königsheideweg, Johannisthal, Treptow-Köpenick, Berlin, Brandenburg, 12487, Deutschland",
+      "boundingbox": [
+        "52.4445900",
+        "52.4465210",
+        "13.5066342",
+        "13.5105308"
+      ]
+    },
+    {
+      "place_id": 664657,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 431573846,
+      "lat": "52.45605786013315",
+      "lon": "13.47574315539115",
+      "class": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Königsheideweg",
+      "display_name": "Königsheideweg, Johannisthal, Treptow-Köpenick, Berlin, Brandenburg, 12437, Deutschland",
+      "boundingbox": [
+        "52.4558924",
+        "52.4562233",
+        "13.4754322",
+        "13.4760541"
+      ]
+    },
+    {
+      "place_id": 575942,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 54633609,
+      "lat": "52.44757873850111",
+      "lon": "13.503256952616313",
+      "class": "highway",
+      "type": "service",
+      "place_rank": 27,
+      "importance": 0.04000999999999999,
+      "addresstype": "road",
+      "name": "Königsheideweg",
+      "display_name": "Königsheideweg, Johannisthal, Treptow-Köpenick, Berlin, Brandenburg, 12487, Deutschland",
+      "boundingbox": [
+        "52.4471298",
+        "52.4480209",
+        "13.5030056",
+        "13.5035218"
+      ]
+    }
+  ],
+  "Reichstagsufer": [],
+  "Oberwallstr.": [
+    {
+      "place_id": 213061,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 4611713,
+      "lat": "52.513829599999994",
+      "lon": "13.3970847",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Oberwallstraße",
+      "display_name": "Oberwallstraße, Friedrichswerder, Mitte, Berlin, Brandenburg, 10117, Deutschland",
+      "boundingbox": [
+        "52.5133101",
+        "52.5143491",
+        "13.3969553",
+        "13.3972141"
+      ]
+    }
+  ],
+  "Mohrenstr. -Mohrenstr. 37": [
+    {
+      "place_id": 218617,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 41779671,
+      "lat": "52.51215435",
+      "lon": "13.395519601253374",
+      "class": "office",
+      "type": "government",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "office",
+      "name": "Bundesministerium der Justiz und für Verbraucherschutz",
+      "display_name": "Bundesministerium der Justiz und für Verbraucherschutz, 37, Mohrenstraße, Friedrichswerder, Mitte, Berlin, Brandenburg, 10117, Deutschland",
+      "boundingbox": [
+        "52.5116224",
+        "52.5124229",
+        "13.3946289",
+        "13.3964445"
+      ]
+    },
+    {
+      "place_id": 212200,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 515104350,
+      "lat": "52.512357",
+      "lon": "13.3953146",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "37, Mohrenstraße, Friedrichswerder, Mitte, Berlin, Brandenburg, 10117, Deutschland",
+      "boundingbox": [
+        "52.5123070",
+        "52.5124070",
+        "13.3952646",
+        "13.3953646"
+      ]
+    }
+  ],
+  "Alexanderplatz 1": [
+    {
+      "place_id": 226696,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 23723113,
+      "lat": "52.52150585",
+      "lon": "13.412380949017187",
+      "class": "building",
+      "type": "office",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "building",
+      "name": "Berolinahaus",
+      "display_name": "Berolinahaus, 1, Alexanderplatz, Mitte, Berlin, Brandenburg, 10178, Deutschland",
+      "boundingbox": [
+        "52.5211997",
+        "52.5218179",
+        "13.4118847",
+        "13.4128400"
+      ]
+    },
+    {
+      "place_id": 226469,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 382905021,
+      "lat": "52.5213562",
+      "lon": "13.4127003",
+      "class": "shop",
+      "type": "chemist",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "shop",
+      "name": "dm",
+      "display_name": "dm, 1, Alexanderplatz, Mitte, Berlin, Brandenburg, 10178, Deutschland",
+      "boundingbox": [
+        "52.5213062",
+        "52.5214062",
+        "13.4126503",
+        "13.4127503"
+      ]
+    },
+    {
+      "place_id": 226769,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 4546552501,
+      "lat": "52.5214652",
+      "lon": "13.4124592",
+      "class": "office",
+      "type": "association",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "office",
+      "name": "Deutsches Forschungsnetz",
+      "display_name": "Deutsches Forschungsnetz, 1, Alexanderplatz, Mitte, Berlin, Brandenburg, 10178, Deutschland",
+      "boundingbox": [
+        "52.5214152",
+        "52.5215152",
+        "13.4124092",
+        "13.4125092"
+      ]
+    },
+    {
+      "place_id": 228359,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 10802640715,
+      "lat": "52.5212694",
+      "lon": "13.412599",
+      "class": "amenity",
+      "type": "dentist",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "amenity",
+      "name": "alexeins",
+      "display_name": "alexeins, 1, Alexanderplatz, Mitte, Berlin, Brandenburg, 10178, Deutschland",
+      "boundingbox": [
+        "52.5212194",
+        "52.5213194",
+        "13.4125490",
+        "13.4126490"
+      ]
+    },
+    {
+      "place_id": 232994,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 2777153586,
+      "lat": "52.5216825",
+      "lon": "13.4119293",
+      "class": "railway",
+      "type": "subway_entrance",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "railway",
+      "name": "Alexanderplatz",
+      "display_name": "Alexanderplatz, 1, Alexanderplatz, Mitte, Berlin, Brandenburg, 10178, Deutschland",
+      "boundingbox": [
+        "52.5216325",
+        "52.5217325",
+        "13.4118793",
+        "13.4119793"
+      ]
+    },
+    {
+      "place_id": 231395,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 2840691647,
+      "lat": "52.5212701",
+      "lon": "13.412683",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "1, Alexanderplatz, Mitte, Berlin, Brandenburg, 10178, Deutschland",
+      "boundingbox": [
+        "52.5212201",
+        "52.5213201",
+        "13.4126330",
+        "13.4127330"
+      ]
+    }
+  ],
+  "Hausvogteiplatz": [
+    {
+      "place_id": 213109,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 264573135,
+      "lat": "52.51294265",
+      "lon": "13.396546820868927",
+      "class": "place",
+      "type": "square",
+      "place_rank": 25,
+      "importance": 0.06667666666666666,
+      "addresstype": "square",
+      "name": "Hausvogteiplatz",
+      "display_name": "Hausvogteiplatz, Friedrichswerder, Mitte, Berlin, Brandenburg, 10117, Deutschland",
+      "boundingbox": [
+        "52.5127643",
+        "52.5132736",
+        "13.3963021",
+        "13.3969851"
+      ]
+    },
+    {
+      "place_id": 215589,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 4611711,
+      "lat": "52.5129021047981",
+      "lon": "13.396769579254688",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Hausvogteiplatz",
+      "display_name": "Hausvogteiplatz, Friedrichswerder, Mitte, Berlin, Brandenburg, 10117, Deutschland",
+      "boundingbox": [
+        "52.5125133",
+        "52.5132895",
+        "13.3964393",
+        "13.3970848"
+      ]
+    },
+    {
+      "place_id": 212223,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 391559411,
+      "lat": "52.5133041",
+      "lon": "13.395829454254148",
+      "class": "railway",
+      "type": "platform",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "railway",
+      "name": "Hausvogteiplatz",
+      "display_name": "Hausvogteiplatz, Friedrichswerder, Mitte, Berlin, Brandenburg, 10117, Deutschland",
+      "boundingbox": [
+        "52.5131961",
+        "52.5133939",
+        "13.3946738",
+        "13.3962696"
+      ]
+    },
+    {
+      "place_id": 213557,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 29495041,
+      "lat": "52.5133073",
+      "lon": "13.3955568",
+      "class": "railway",
+      "type": "stop",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "railway",
+      "name": "Hausvogteiplatz",
+      "display_name": "Hausvogteiplatz, Taubenstraße, Friedrichswerder, Mitte, Berlin, Brandenburg, 10117, Deutschland",
+      "boundingbox": [
+        "52.5132573",
+        "52.5133573",
+        "13.3955068",
+        "13.3956068"
+      ]
+    },
+    {
+      "place_id": 215039,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 3947836158,
+      "lat": "52.5133502",
+      "lon": "13.395591",
+      "class": "railway",
+      "type": "station",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "railway",
+      "name": "Hausvogteiplatz",
+      "display_name": "Hausvogteiplatz, Friedrichswerder, Mitte, Berlin, Brandenburg, 10117, Deutschland",
+      "boundingbox": [
+        "52.5083502",
+        "52.5183502",
+        "13.3905910",
+        "13.4005910"
+      ]
+    }
+  ],
+  "Luisenhain 12555": [
+    {
+      "place_id": 556162,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 51870754,
+      "lat": "52.44598715",
+      "lon": "13.57368351394291",
+      "class": "leisure",
+      "type": "park",
+      "place_rank": 24,
+      "importance": 0.08000999999999997,
+      "addresstype": "park",
+      "name": "Luisenhain",
+      "display_name": "Luisenhain, Altstadt Köpenick, Köpenick, Treptow-Köpenick, Berlin, Brandenburg, 12555, Deutschland",
+      "boundingbox": [
+        "52.4445356",
+        "52.4474785",
+        "13.5728022",
+        "13.5747919"
+      ]
+    },
+    {
+      "place_id": 556165,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 198743872,
+      "lat": "52.4459522",
+      "lon": "13.57332815782557",
+      "class": "man_made",
+      "type": "pier",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "man_made",
+      "name": "Anlegestelle Köpenick / Luisenhain",
+      "display_name": "Anlegestelle Köpenick / Luisenhain, Alt-Köpenick, Altstadt Köpenick, Köpenick, Treptow-Köpenick, Berlin, Brandenburg, 12555, Deutschland",
+      "boundingbox": [
+        "52.4459126",
+        "52.4459919",
+        "13.5732333",
+        "13.5734230"
+      ]
+    },
+    {
+      "place_id": 563315,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 180255994,
+      "lat": "52.4452618",
+      "lon": "13.572958550000019",
+      "class": "man_made",
+      "type": "pier",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "man_made",
+      "name": "Station Köpenick/Luisenhain 2",
+      "display_name": "Station Köpenick/Luisenhain 2, Müggelheimer Straße, Altstadt Köpenick, Köpenick, Treptow-Köpenick, Berlin, Brandenburg, 12555, Deutschland",
+      "boundingbox": [
+        "52.4452331",
+        "52.4452905",
+        "13.5728710",
+        "13.5730461"
+      ]
+    },
+    {
+      "place_id": 564114,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 2088436820,
+      "lat": "52.4448684",
+      "lon": "13.5728015",
+      "class": "leisure",
+      "type": "marina",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "leisure",
+      "name": "Köpenick / Luisenhain - Stern und Und Kreisschiffahrt GmbH",
+      "display_name": "Köpenick / Luisenhain - Stern und Und Kreisschiffahrt GmbH, Müggelheimer Straße, Altstadt Köpenick, Köpenick, Treptow-Köpenick, Berlin, Brandenburg, 12555, Deutschland",
+      "boundingbox": [
+        "52.4448184",
+        "52.4449184",
+        "13.5727515",
+        "13.5728515"
+      ]
+    },
+    {
+      "place_id": 564712,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 4303162845,
+      "lat": "52.4459701",
+      "lon": "13.5732464",
+      "class": "amenity",
+      "type": "ferry_terminal",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "amenity",
+      "name": "Köpenick / Luisenhain",
+      "display_name": "Köpenick / Luisenhain, Alt-Köpenick, Altstadt Köpenick, Köpenick, Treptow-Köpenick, Berlin, Brandenburg, 12555, Deutschland",
+      "boundingbox": [
+        "52.4459201",
+        "52.4460201",
+        "13.5731964",
+        "13.5732964"
+      ]
+    }
+  ],
+  "Schaperstr. 29 10719": [
+    {
+      "place_id": 780349,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 2609583654,
+      "lat": "52.4993092",
+      "lon": "13.3316636",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "29, Schaperstraße, Wilmersdorf, Charlottenburg-Wilmersdorf, Berlin, Brandenburg, 10719, Deutschland",
+      "boundingbox": [
+        "52.4992592",
+        "52.4993592",
+        "13.3316136",
+        "13.3317136"
+      ]
+    }
+  ],
+  "Unter den Linden 76": [
+    {
+      "place_id": 217641,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 2076190697,
+      "lat": "52.5168",
+      "lon": "13.381121",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "76, Unter den Linden, Dorotheenstadt, Mitte, Berlin, Brandenburg, 10117, Deutschland",
+      "boundingbox": [
+        "52.5167500",
+        "52.5168500",
+        "13.3810710",
+        "13.3811710"
+      ]
+    },
+    {
+      "place_id": 218365,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 514875101,
+      "lat": "52.5168286",
+      "lon": "13.3810657",
+      "class": "office",
+      "type": "diplomatic",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "office",
+      "name": "Botschaft von Ungarn",
+      "display_name": "Botschaft von Ungarn, 76, Unter den Linden, Dorotheenstadt, Mitte, Berlin, Brandenburg, 10117, Deutschland",
+      "boundingbox": [
+        "52.5167786",
+        "52.5168786",
+        "13.3810157",
+        "13.3811157"
+      ]
+    }
+  ],
+  "Werderscher Markt": [
+    {
+      "place_id": 214727,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 575206709,
+      "lat": "52.51555545",
+      "lon": "13.398169617900997",
+      "class": "place",
+      "type": "square",
+      "place_rank": 25,
+      "importance": 0.06667666666666666,
+      "addresstype": "square",
+      "name": "Werderscher Markt",
+      "display_name": "Werderscher Markt, Friedrichswerder, Mitte, Berlin, Brandenburg, 10117, Deutschland",
+      "boundingbox": [
+        "52.5153025",
+        "52.5158151",
+        "13.3975224",
+        "13.3988182"
+      ]
+    },
+    {
+      "place_id": 223226,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 4611696,
+      "lat": "52.51559917146",
+      "lon": "13.398796006289992",
+      "class": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Werderscher Markt",
+      "display_name": "Werderscher Markt, Friedrichswerder, Mitte, Berlin, Brandenburg, 10117, Deutschland",
+      "boundingbox": [
+        "52.5154110",
+        "52.5158150",
+        "13.3979269",
+        "13.3996587"
+      ]
+    },
+    {
+      "place_id": 218411,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 831860725,
+      "lat": "52.5151176911931",
+      "lon": "13.398091684217887",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Werderscher Markt",
+      "display_name": "Werderscher Markt, Friedrichswerder, Mitte, Berlin, Brandenburg, 10117, Deutschland",
+      "boundingbox": [
+        "52.5148244",
+        "52.5154110",
+        "13.3979269",
+        "13.3982565"
+      ]
+    },
+    {
+      "place_id": 213384,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 383624908,
+      "lat": "52.51523215",
+      "lon": "13.39724035",
+      "class": "highway",
+      "type": "platform",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "highway",
+      "name": "Werderscher Markt",
+      "display_name": "Werderscher Markt, Friedrichswerder, Mitte, Berlin, Brandenburg, 10117, Deutschland",
+      "boundingbox": [
+        "52.5152167",
+        "52.5152476",
+        "13.3971527",
+        "13.3973280"
+      ]
+    },
+    {
+      "place_id": 213031,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 383624907,
+      "lat": "52.515359849999996",
+      "lon": "13.39727755",
+      "class": "highway",
+      "type": "platform",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "highway",
+      "name": "Werderscher Markt",
+      "display_name": "Werderscher Markt, Falkoniergasse, Friedrichswerder, Mitte, Berlin, Brandenburg, 10117, Deutschland",
+      "boundingbox": [
+        "52.5153451",
+        "52.5153746",
+        "13.3971933",
+        "13.3973618"
+      ]
+    },
+    {
+      "place_id": 213028,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 365714322,
+      "lat": "52.5152476",
+      "lon": "13.397328",
+      "class": "highway",
+      "type": "bus_stop",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "highway",
+      "name": "Werderscher Markt",
+      "display_name": "Werderscher Markt, Friedrichswerder, Mitte, Berlin, Brandenburg, 10117, Deutschland",
+      "boundingbox": [
+        "52.5151976",
+        "52.5152976",
+        "13.3972780",
+        "13.3973780"
+      ]
+    }
+  ],
+  "Alt-Heiligensee": [
+    {
+      "place_id": 101467,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 223736071,
+      "lat": "52.608575304061006",
+      "lon": "13.212844676061954",
+      "class": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Alt-Heiligensee",
+      "display_name": "Alt-Heiligensee, Heiligensee, Reinickendorf, Berlin, Brandenburg, 13503, Deutschland",
+      "boundingbox": [
+        "52.6070390",
+        "52.6102171",
+        "13.2107754",
+        "13.2148234"
+      ]
+    },
+    {
+      "place_id": 102779,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 201678613,
+      "lat": "52.60618997252895",
+      "lon": "13.211574768295867",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Alt-Heiligensee",
+      "display_name": "Alt-Heiligensee, Heiligensee, Reinickendorf, Berlin, Brandenburg, 13503, Deutschland",
+      "boundingbox": [
+        "52.6051407",
+        "52.6075051",
+        "13.2096332",
+        "13.2133678"
+      ]
+    },
+    {
+      "place_id": 102122,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 223738911,
+      "lat": "52.606075609460014",
+      "lon": "13.210983854641597",
+      "class": "highway",
+      "type": "service",
+      "place_rank": 27,
+      "importance": 0.04000999999999999,
+      "addresstype": "road",
+      "name": "Alt-Heiligensee",
+      "display_name": "Alt-Heiligensee, Heiligensee, Reinickendorf, Berlin, Brandenburg, 13503, Deutschland",
+      "boundingbox": [
+        "52.6060728",
+        "52.6062804",
+        "13.2104746",
+        "13.2114823"
+      ]
+    },
+    {
+      "place_id": 103176,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 268835014,
+      "lat": "52.6070104",
+      "lon": "13.2110808",
+      "class": "highway",
+      "type": "bus_stop",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "highway",
+      "name": "Alt-Heiligensee",
+      "display_name": "Alt-Heiligensee, Heiligensee, Reinickendorf, Berlin, Brandenburg, 13503, Deutschland",
+      "boundingbox": [
+        "52.6069604",
+        "52.6070604",
+        "13.2110308",
+        "13.2111308"
+      ]
+    }
+  ],
+  "Kiefholzstr.": [
+    {
+      "place_id": 602098,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 23859441,
+      "lat": "52.4792481086275",
+      "lon": "13.467744661825396",
+      "class": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Kiefholzstraße",
+      "display_name": "Kiefholzstraße, Plänterwald, Treptow-Köpenick, Berlin, Brandenburg, 12435, Deutschland",
+      "boundingbox": [
+        "52.4766730",
+        "52.4818051",
+        "13.4641413",
+        "13.4713349"
+      ]
+    },
+    {
+      "place_id": 598665,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 4859913,
+      "lat": "52.469448966099456",
+      "lon": "13.4816161118019",
+      "class": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Kiefholzstraße",
+      "display_name": "Kiefholzstraße, Baumschulenweg, Treptow-Köpenick, Berlin, Brandenburg, 12437, Deutschland",
+      "boundingbox": [
+        "52.4678022",
+        "52.4710957",
+        "13.4792870",
+        "13.4839452"
+      ]
+    },
+    {
+      "place_id": 587204,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 306410005,
+      "lat": "52.47288159102112",
+      "lon": "13.476730388406088",
+      "class": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Kiefholzstraße",
+      "display_name": "Kiefholzstraße, Plänterwald, Treptow-Köpenick, Berlin, Brandenburg, 12437, Deutschland",
+      "boundingbox": [
+        "52.4719754",
+        "52.4737878",
+        "13.4754481",
+        "13.4780127"
+      ]
+    },
+    {
+      "place_id": 596786,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1120408015,
+      "lat": "52.49085985403521",
+      "lon": "13.451252017085999",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Kiefholzstraße",
+      "display_name": "Kiefholzstraße, Kungerkiez, Alt-Treptow, Treptow-Köpenick, Berlin, Brandenburg, 12435, Deutschland",
+      "boundingbox": [
+        "52.4902668",
+        "52.4914543",
+        "13.4504164",
+        "13.4520886"
+      ]
+    },
+    {
+      "place_id": 598640,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1193078451,
+      "lat": "52.488698693018925",
+      "lon": "13.454331116417709",
+      "class": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Kiefholzstraße",
+      "display_name": "Kiefholzstraße, Kungerkiez, Alt-Treptow, Treptow-Köpenick, Berlin, Brandenburg, 12435, Deutschland",
+      "boundingbox": [
+        "52.4884531",
+        "52.4889441",
+        "13.4539858",
+        "13.4546763"
+      ]
+    }
+  ],
+  "Platz der RepublikScheidemannstr.": [],
+  "Boltzmannstr. 3 14195": [
+    {
+      "place_id": 741327,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 29977767,
+      "lat": "52.44806595",
+      "lon": "13.2805976",
+      "class": "building",
+      "type": "university",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "building",
+      "name": "FB Rechtswissenschaft",
+      "display_name": "FB Rechtswissenschaft, 3, Boltzmannstraße, Dahlem, Steglitz-Zehlendorf, Berlin, Brandenburg, 14195, Deutschland",
+      "boundingbox": [
+        "52.4479200",
+        "52.4482199",
+        "13.2801460",
+        "13.2810015"
+      ]
+    }
+  ],
+  "Neue Krugallee 4": [
+    {
+      "place_id": 587012,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 155594970,
+      "lat": "52.47291029251153",
+      "lon": "13.489898697510185",
+      "class": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Neue Krugallee",
+      "display_name": "Neue Krugallee, Baumschulenweg, Treptow-Köpenick, Berlin, Brandenburg, 12437, Deutschland",
+      "boundingbox": [
+        "52.4701654",
+        "52.4756551",
+        "13.4874401",
+        "13.4923572"
+      ]
+    },
+    {
+      "place_id": 600020,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 37077530,
+      "lat": "52.4813291525266",
+      "lon": "13.482345752816803",
+      "class": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Neue Krugallee",
+      "display_name": "Neue Krugallee, Plänterwald, Treptow-Köpenick, Berlin, Brandenburg, 12435, Deutschland",
+      "boundingbox": [
+        "52.4801913",
+        "52.4824670",
+        "13.4813249",
+        "13.4833666"
+      ]
+    },
+    {
+      "place_id": 597765,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 899453865,
+      "lat": "52.47896042164174",
+      "lon": "13.484473674071387",
+      "class": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Neue Krugallee",
+      "display_name": "Neue Krugallee, Plänterwald, Treptow-Köpenick, Berlin, Brandenburg, 12437, Deutschland",
+      "boundingbox": [
+        "52.4779509",
+        "52.4799699",
+        "13.4835661",
+        "13.4853812"
+      ]
+    },
+    {
+      "place_id": 599043,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 145795402,
+      "lat": "52.46910549001952",
+      "lon": "13.49331100822024",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Neue Krugallee",
+      "display_name": "Neue Krugallee, Baumschulenweg, Treptow-Köpenick, Berlin, Brandenburg, 12437, Deutschland",
+      "boundingbox": [
+        "52.4683184",
+        "52.4698901",
+        "13.4925962",
+        "13.4940231"
+      ]
+    },
+    {
+      "place_id": 586999,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 54630365,
+      "lat": "52.474091398221475",
+      "lon": "13.487728193220233",
+      "class": "highway",
+      "type": "service",
+      "place_rank": 27,
+      "importance": 0.04000999999999999,
+      "addresstype": "road",
+      "name": "Neue Krugallee",
+      "display_name": "Neue Krugallee, Baumschulenweg, Treptow-Köpenick, Berlin, Brandenburg, 12437, Deutschland",
+      "boundingbox": [
+        "52.4737322",
+        "52.4744300",
+        "13.4873989",
+        "13.4879984"
+      ]
+    }
+  ],
+  "Markgrafendamm 35 10245": [
+    {
+      "place_id": 610746,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 773212203,
+      "lat": "52.4980705",
+      "lon": "13.4648339",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "35, Markgrafendamm, Stralau, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10245, Deutschland",
+      "boundingbox": [
+        "52.4980205",
+        "52.4981205",
+        "13.4647839",
+        "13.4648839"
+      ]
+    },
+    {
+      "place_id": 610749,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 8442976872,
+      "lat": "52.4980887",
+      "lon": "13.4648382",
+      "class": "amenity",
+      "type": "post_office",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "amenity",
+      "name": "GSL Paketshop",
+      "display_name": "GSL Paketshop, 35, Markgrafendamm, Stralau, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10245, Deutschland",
+      "boundingbox": [
+        "52.4980387",
+        "52.4981387",
+        "13.4647882",
+        "13.4648882"
+      ]
+    }
+  ],
+  "Goethestr. 42 10625": [
+    {
+      "place_id": 154913,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 370454243,
+      "lat": "52.5087402",
+      "lon": "13.306415",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "42, Goethestraße, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, Brandenburg, 10625, Deutschland",
+      "boundingbox": [
+        "52.5086902",
+        "52.5087902",
+        "13.3063650",
+        "13.3064650"
+      ]
+    },
+    {
+      "place_id": 689712,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 2823311393,
+      "lat": "52.4026311",
+      "lon": "13.3938273",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "42, Goethestraße, Lichtenrade, Tempelhof-Schöneberg, Berlin, Brandenburg, 12305, Deutschland",
+      "boundingbox": [
+        "52.4025811",
+        "52.4026811",
+        "13.3937773",
+        "13.3938773"
+      ]
+    },
+    {
+      "place_id": 281250,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 3048781545,
+      "lat": "52.5533218",
+      "lon": "13.4379445",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "42, Goethestraße, Weißensee, Pankow, Berlin, Brandenburg, 13086, Deutschland",
+      "boundingbox": [
+        "52.5532718",
+        "52.5533718",
+        "13.4378945",
+        "13.4379945"
+      ]
+    },
+    {
+      "place_id": 364986,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 2964524373,
+      "lat": "52.5873994",
+      "lon": "13.3610257",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "42, Goethestraße, Wilhelmsruh, Pankow, Berlin, Brandenburg, 13158, Deutschland",
+      "boundingbox": [
+        "52.5873494",
+        "52.5874494",
+        "13.3609757",
+        "13.3610757"
+      ]
+    },
+    {
+      "place_id": 815321,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 118204655,
+      "lat": "52.44370275",
+      "lon": "13.235356782140153",
+      "class": "building",
+      "type": "yes",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "building",
+      "name": "",
+      "display_name": "42, Goethestraße, Zehlendorf, Steglitz-Zehlendorf, Berlin, Brandenburg, 14163, Deutschland",
+      "boundingbox": [
+        "52.4435819",
+        "52.4438247",
+        "13.2351981",
+        "13.2355646"
+      ]
+    },
+    {
+      "place_id": 578522,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 3883129232,
+      "lat": "52.4622323",
+      "lon": "13.5182895",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "42, Goethestraße, Oberschöneweide, Treptow-Köpenick, Berlin, Brandenburg, 12459, Deutschland",
+      "boundingbox": [
+        "52.4621823",
+        "52.4622823",
+        "13.5182395",
+        "13.5183395"
+      ]
+    },
+    {
+      "place_id": 415956,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 11964103999,
+      "lat": "52.6271944",
+      "lon": "13.511794",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "42, Goethestraße, Schwanebeck West, 16341, Deutschland",
+      "boundingbox": [
+        "52.6271444",
+        "52.6272444",
+        "13.5117440",
+        "13.5118440"
+      ]
+    },
+    {
+      "place_id": 816179,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 190869251,
+      "lat": "52.39644555",
+      "lon": "13.109257524426855",
+      "class": "building",
+      "type": "detached",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "building",
+      "name": "",
+      "display_name": "42, Goethestraße, Neubabelsberg, 14482, Deutschland",
+      "boundingbox": [
+        "52.3963987",
+        "52.3964924",
+        "13.1091488",
+        "13.1093662"
+      ]
+    },
+    {
+      "place_id": 534980,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 303943666,
+      "lat": "52.46909685",
+      "lon": "13.701319174404599",
+      "class": "building",
+      "type": "residential",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "building",
+      "name": "",
+      "display_name": "42, Goethestraße, 15566, Deutschland",
+      "boundingbox": [
+        "52.4690498",
+        "52.4691438",
+        "13.7012306",
+        "13.7014078"
+      ]
+    }
+  ],
+  "Markstr.": [
+    {
+      "place_id": 183185,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 27848138,
+      "lat": "52.56015248180199",
+      "lon": "13.365070497723089",
+      "class": "highway",
+      "type": "primary",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Markstraße",
+      "display_name": "Markstraße, Reinickendorf, Berlin, Brandenburg, 13409, Deutschland",
+      "boundingbox": [
+        "52.5583722",
+        "52.5619375",
+        "13.3647493",
+        "13.3654174"
+      ]
+    },
+    {
+      "place_id": 176978,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 4610040,
+      "lat": "52.55868829039149",
+      "lon": "13.364945977920334",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Markstraße",
+      "display_name": "Markstraße, Wedding, Mitte, Berlin, Brandenburg, 13409, Deutschland",
+      "boundingbox": [
+        "52.5580044",
+        "52.5593305",
+        "13.3647424",
+        "13.3649967"
+      ]
+    }
+  ],
+  "Baumschulenstr.": [
+    {
+      "place_id": 532496,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 24966877,
+      "lat": "52.450466265466666",
+      "lon": "13.747818344744033",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Baumschulenstraße",
+      "display_name": "Baumschulenstraße, Am Eichberg, 15569, Deutschland",
+      "boundingbox": [
+        "52.4488882",
+        "52.4520441",
+        "13.7474157",
+        "13.7482203"
+      ]
+    },
+    {
+      "place_id": 599108,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 155594912,
+      "lat": "52.470727338432155",
+      "lon": "13.49328505630625",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Baumschulenstraße",
+      "display_name": "Baumschulenstraße, Baumschulenweg, Treptow-Köpenick, Berlin, Brandenburg, 12437, Deutschland",
+      "boundingbox": [
+        "52.4700518",
+        "52.4714146",
+        "13.4924462",
+        "13.4941145"
+      ]
+    },
+    {
+      "place_id": 650000,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 936928424,
+      "lat": "52.462501830302116",
+      "lon": "13.483331824081827",
+      "class": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Baumschulenstraße",
+      "display_name": "Baumschulenstraße, Baumschulenweg, Treptow-Köpenick, Berlin, Brandenburg, 12437, Deutschland",
+      "boundingbox": [
+        "52.4619036",
+        "52.4631029",
+        "13.4826054",
+        "13.4840559"
+      ]
+    },
+    {
+      "place_id": 597896,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 383023440,
+      "lat": "52.469947629169056",
+      "lon": "13.492326218068039",
+      "class": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Baumschulenstraße",
+      "display_name": "Baumschulenstraße, Baumschulenweg, Treptow-Köpenick, Berlin, Brandenburg, 12437, Deutschland",
+      "boundingbox": [
+        "52.4698435",
+        "52.4700518",
+        "13.4922062",
+        "13.4924462"
+      ]
+    }
+  ],
+  "Sandhauser Str.": [
+    {
+      "place_id": 109820,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 231266937,
+      "lat": "52.589911344971355",
+      "lon": "13.224516758429948",
+      "class": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Sandhauser Straße",
+      "display_name": "Sandhauser Straße, Konradshöhe, Reinickendorf, Berlin, Brandenburg, 13505, Deutschland",
+      "boundingbox": [
+        "52.5873327",
+        "52.5925324",
+        "13.2233547",
+        "13.2260444"
+      ]
+    },
+    {
+      "place_id": 102440,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 208373014,
+      "lat": "52.59836719184952",
+      "lon": "13.21545953774242",
+      "class": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Sandhauser Straße",
+      "display_name": "Sandhauser Straße, Heiligensee, Reinickendorf, Berlin, Brandenburg, 13505, Deutschland",
+      "boundingbox": [
+        "52.5971229",
+        "52.5996200",
+        "13.2133328",
+        "13.2175874"
+      ]
+    },
+    {
+      "place_id": 101718,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 94712497,
+      "lat": "52.60060009452886",
+      "lon": "13.211829977262392",
+      "class": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Sandhauser Straße",
+      "display_name": "Sandhauser Straße, Heiligensee, Reinickendorf, Berlin, Brandenburg, 13503, Deutschland",
+      "boundingbox": [
+        "52.5996200",
+        "52.6015724",
+        "13.2103251",
+        "13.2133328"
+      ]
+    }
+  ],
+  "Jebensstr. 7 10623": [
+    {
+      "place_id": 201727,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 3037805714,
+      "lat": "52.5081243",
+      "lon": "13.3326152",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "7, Jebensstraße, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, Brandenburg, 10623, Deutschland",
+      "boundingbox": [
+        "52.5080743",
+        "52.5081743",
+        "13.3325652",
+        "13.3326652"
+      ]
+    }
+  ],
+  "Sandhauser Str. 130": [
+    {
+      "place_id": 109820,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 231266937,
+      "lat": "52.589911344971355",
+      "lon": "13.224516758429948",
+      "class": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Sandhauser Straße",
+      "display_name": "Sandhauser Straße, Konradshöhe, Reinickendorf, Berlin, Brandenburg, 13505, Deutschland",
+      "boundingbox": [
+        "52.5873327",
+        "52.5925324",
+        "13.2233547",
+        "13.2260444"
+      ]
+    },
+    {
+      "place_id": 102440,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 208373014,
+      "lat": "52.59836719184952",
+      "lon": "13.21545953774242",
+      "class": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Sandhauser Straße",
+      "display_name": "Sandhauser Straße, Heiligensee, Reinickendorf, Berlin, Brandenburg, 13505, Deutschland",
+      "boundingbox": [
+        "52.5971229",
+        "52.5996200",
+        "13.2133328",
+        "13.2175874"
+      ]
+    },
+    {
+      "place_id": 101718,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 94712497,
+      "lat": "52.60060009452886",
+      "lon": "13.211829977262392",
+      "class": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Sandhauser Straße",
+      "display_name": "Sandhauser Straße, Heiligensee, Reinickendorf, Berlin, Brandenburg, 13503, Deutschland",
+      "boundingbox": [
+        "52.5996200",
+        "52.6015724",
+        "13.2103251",
+        "13.2133328"
+      ]
+    },
+    {
+      "place_id": 100998,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 7658638889,
+      "lat": "52.5995178",
+      "lon": "13.2136471",
+      "class": "amenity",
+      "type": "post_box",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "amenity",
+      "name": "Sandhauser Str. 130, 13505 Berlin",
+      "display_name": "Sandhauser Str. 130, 13505 Berlin, Sandhauser Straße, Heiligensee, Reinickendorf, Berlin, Brandenburg, 13503, Deutschland",
+      "boundingbox": [
+        "52.5994678",
+        "52.5995678",
+        "13.2135971",
+        "13.2136971"
+      ]
+    }
+  ],
+  "Alexanderplatz/Gleisquerung Tram Alexanderstr.": [],
+  "Rudower Chaussee 29 12489": [
+    {
+      "place_id": 493620,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 850224584,
+      "lat": "52.428976500000005",
+      "lon": "13.529077571190495",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "29, Rudower Chaussee, Adlershof, Treptow-Köpenick, Berlin, Brandenburg, 12489, Deutschland",
+      "boundingbox": [
+        "52.4288265",
+        "52.4291344",
+        "13.5288206",
+        "13.5293221"
+      ]
+    },
+    {
+      "place_id": 500698,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 4335662634,
+      "lat": "52.4287643",
+      "lon": "13.5285457",
+      "class": "office",
+      "type": "coworking",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "office",
+      "name": "Leap - Quantum Technology Hub Berlin",
+      "display_name": "Leap - Quantum Technology Hub Berlin, 29, Rudower Chaussee, Adlershof, Treptow-Köpenick, Berlin, Brandenburg, 12489, Deutschland",
+      "boundingbox": [
+        "52.4287143",
+        "52.4288143",
+        "13.5284957",
+        "13.5285957"
+      ]
+    },
+    {
+      "place_id": 502912,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 12586153594,
+      "lat": "52.4290021",
+      "lon": "13.529186",
+      "class": "office",
+      "type": "company",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "office",
+      "name": "Cantaloupe GmbH",
+      "display_name": "Cantaloupe GmbH, 29, Rudower Chaussee, Adlershof, Treptow-Köpenick, Berlin, Brandenburg, 12489, Deutschland",
+      "boundingbox": [
+        "52.4289521",
+        "52.4290521",
+        "13.5291360",
+        "13.5292360"
+      ]
+    },
+    {
+      "place_id": 505460,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 2820028432,
+      "lat": "52.4288824",
+      "lon": "13.5284808",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "29, Rudower Chaussee, Adlershof, Treptow-Köpenick, Berlin, Brandenburg, 12489, Deutschland",
+      "boundingbox": [
+        "52.4288324",
+        "52.4289324",
+        "13.5284308",
+        "13.5285308"
+      ]
+    },
+    {
+      "place_id": 505469,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 2327232996,
+      "lat": "52.4289834",
+      "lon": "13.5290942",
+      "class": "information",
+      "type": "board",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "information",
+      "name": "Laserstrahl",
+      "display_name": "Laserstrahl, 29, Rudower Chaussee, Adlershof, Treptow-Köpenick, Berlin, Brandenburg, 12489, Deutschland",
+      "boundingbox": [
+        "52.4289334",
+        "52.4290334",
+        "13.5290442",
+        "13.5291442"
+      ]
+    }
+  ],
+  "B1/5": [
+    {
+      "place_id": 472679,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 151465263,
+      "lat": "52.50515075",
+      "lon": "13.624774128442665",
+      "class": "landuse",
+      "type": "commercial",
+      "place_rank": 22,
+      "importance": 0.10667666666666664,
+      "addresstype": "commercial",
+      "name": "B1 Business Park",
+      "display_name": "B1 Business Park, 217-267, Mahlsdorf, Marzahn-Hellersdorf, Berlin, Brandenburg, 12623, Deutschland",
+      "boundingbox": [
+        "52.5035749",
+        "52.5071055",
+        "13.6207956",
+        "13.6288960"
+      ]
+    },
+    {
+      "place_id": 464182,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 3782185836,
+      "lat": "52.5049527",
+      "lon": "13.5817183",
+      "class": "tourism",
+      "type": "hotel",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "tourism",
+      "name": "Hotel B1 Tourist",
+      "display_name": "Hotel B1 Tourist, 18, Alt-Kaulsdorf, Kaulsdorf, Marzahn-Hellersdorf, Berlin, Brandenburg, 12621, Deutschland",
+      "boundingbox": [
+        "52.5049027",
+        "52.5050027",
+        "13.5816683",
+        "13.5817683"
+      ]
+    }
+  ],
+  "Alt-Mahlsdorf": [
+    {
+      "place_id": 474427,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 193875618,
+      "lat": "52.50354737194879",
+      "lon": "13.626218946788155",
+      "class": "highway",
+      "type": "primary",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Alt-Mahlsdorf",
+      "display_name": "Alt-Mahlsdorf, Mahlsdorf, Marzahn-Hellersdorf, Berlin, Brandenburg, 12623, Deutschland",
+      "boundingbox": [
+        "52.5033293",
+        "52.5037655",
+        "13.6243620",
+        "13.6280759"
+      ]
+    },
+    {
+      "place_id": 473225,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 166973638,
+      "lat": "52.50509001444663",
+      "lon": "13.60388654419489",
+      "class": "highway",
+      "type": "living_street",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Alt-Mahlsdorf",
+      "display_name": "Alt-Mahlsdorf, Mahlsdorf, Marzahn-Hellersdorf, Berlin, Brandenburg, 12623, Deutschland",
+      "boundingbox": [
+        "52.5050699",
+        "52.5051114",
+        "13.6016200",
+        "13.6061531"
+      ]
+    }
+  ],
+  "Schmidt-Ott-Str. 14 12165": [
+    {
+      "place_id": 747501,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 220700512,
+      "lat": "52.458227",
+      "lon": "13.311132568272171",
+      "class": "building",
+      "type": "yes",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "building",
+      "name": "Villa Anna",
+      "display_name": "Villa Anna, 14, Schmidt-Ott-Straße, Steglitz, Steglitz-Zehlendorf, Berlin, Brandenburg, 12165, Deutschland",
+      "boundingbox": [
+        "52.4581176",
+        "52.4583477",
+        "13.3109613",
+        "13.3112710"
+      ]
+    }
+  ],
+  "Gerichtstr. 35 13347": [
+    {
+      "place_id": 180479,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 645006822,
+      "lat": "52.54568525",
+      "lon": "13.366489991100128",
+      "class": "amenity",
+      "type": "arts_centre",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "amenity",
+      "name": "silent green Kulturquartier",
+      "display_name": "silent green Kulturquartier, 35, Gerichtstraße, Maxgärten, Wedding, Mitte, Berlin, Brandenburg, 13347, Deutschland",
+      "boundingbox": [
+        "52.5449745",
+        "52.5463962",
+        "13.3657696",
+        "13.3667817"
+      ]
+    },
+    {
+      "place_id": 182734,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 3262322,
+      "lat": "52.546003",
+      "lon": "13.366537238321168",
+      "class": "building",
+      "type": "crematorium",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "building",
+      "name": "",
+      "display_name": "35, Gerichtstraße, Maxgärten, Wedding, Mitte, Berlin, Brandenburg, 13347, Deutschland",
+      "boundingbox": [
+        "52.5456488",
+        "52.5463790",
+        "13.3658076",
+        "13.3667817"
+      ]
+    },
+    {
+      "place_id": 180489,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 6369903405,
+      "lat": "52.5462805",
+      "lon": "13.3663499",
+      "class": "amenity",
+      "type": "toilets",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "amenity",
+      "name": "",
+      "display_name": "35, Gerichtstraße, Maxgärten, Wedding, Mitte, Berlin, Brandenburg, 13347, Deutschland",
+      "boundingbox": [
+        "52.5462305",
+        "52.5463305",
+        "13.3662999",
+        "13.3663999"
+      ]
+    },
+    {
+      "place_id": 181204,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 6856200954,
+      "lat": "52.5453334",
+      "lon": "13.3662346",
+      "class": "amenity",
+      "type": "bicycle_parking",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "amenity",
+      "name": "",
+      "display_name": "35, Gerichtstraße, Maxgärten, Wedding, Mitte, Berlin, Brandenburg, 13347, Deutschland",
+      "boundingbox": [
+        "52.5452834",
+        "52.5453834",
+        "13.3661846",
+        "13.3662846"
+      ]
+    },
+    {
+      "place_id": 182469,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 8075137842,
+      "lat": "52.5449926",
+      "lon": "13.3664482",
+      "class": "amenity",
+      "type": "cafe",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "amenity",
+      "name": "Little MARS",
+      "display_name": "Little MARS, 35, Gerichtstraße, Maxgärten, Wedding, Mitte, Berlin, Brandenburg, 13347, Deutschland",
+      "boundingbox": [
+        "52.5449426",
+        "52.5450426",
+        "13.3663982",
+        "13.3664982"
+      ]
+    },
+    {
+      "place_id": 182484,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 6369903409,
+      "lat": "52.5460741",
+      "lon": "13.3662889",
+      "class": "leisure",
+      "type": "outdoor_seating",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "leisure",
+      "name": "",
+      "display_name": "35, Gerichtstraße, Maxgärten, Wedding, Mitte, Berlin, Brandenburg, 13347, Deutschland",
+      "boundingbox": [
+        "52.5460241",
+        "52.5461241",
+        "13.3662389",
+        "13.3663389"
+      ]
+    },
+    {
+      "place_id": 185103,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 9751835624,
+      "lat": "52.5450518",
+      "lon": "13.3665625",
+      "class": "information",
+      "type": "map",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "information",
+      "name": "",
+      "display_name": "35, Gerichtstraße, Maxgärten, Wedding, Mitte, Berlin, Brandenburg, 13347, Deutschland",
+      "boundingbox": [
+        "52.5450018",
+        "52.5451018",
+        "13.3665125",
+        "13.3666125"
+      ]
+    },
+    {
+      "place_id": 185124,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 9751835645,
+      "lat": "52.5454731",
+      "lon": "13.366323",
+      "class": "amenity",
+      "type": "bench",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "amenity",
+      "name": "",
+      "display_name": "35, Gerichtstraße, Maxgärten, Wedding, Mitte, Berlin, Brandenburg, 13347, Deutschland",
+      "boundingbox": [
+        "52.5454231",
+        "52.5455231",
+        "13.3662730",
+        "13.3663730"
+      ]
+    },
+    {
+      "place_id": 185137,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 3948284318,
+      "lat": "52.5460999",
+      "lon": "13.3663808",
+      "class": "amenity",
+      "type": "restaurant",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "amenity",
+      "name": "MARS",
+      "display_name": "MARS, 35, Gerichtstraße, Maxgärten, Wedding, Mitte, Berlin, Brandenburg, 13347, Deutschland",
+      "boundingbox": [
+        "52.5460499",
+        "52.5461499",
+        "13.3663308",
+        "13.3664308"
+      ]
+    },
+    {
+      "place_id": 187413,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 9174439501,
+      "lat": "52.5457801",
+      "lon": "13.36637",
+      "class": "office",
+      "type": "company",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "office",
+      "name": "Musicboard Berlin",
+      "display_name": "Musicboard Berlin, 35, Gerichtstraße, Maxgärten, Wedding, Mitte, Berlin, Brandenburg, 13347, Deutschland",
+      "boundingbox": [
+        "52.5457301",
+        "52.5458301",
+        "13.3663200",
+        "13.3664200"
+      ]
+    }
+  ],
+  "Neue Krugallee 2 12435": [
+    {
+      "place_id": 600020,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 37077530,
+      "lat": "52.4813291525266",
+      "lon": "13.482345752816803",
+      "class": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Neue Krugallee",
+      "display_name": "Neue Krugallee, Plänterwald, Treptow-Köpenick, Berlin, Brandenburg, 12435, Deutschland",
+      "boundingbox": [
+        "52.4801913",
+        "52.4824670",
+        "13.4813249",
+        "13.4833666"
+      ]
+    },
+    {
+      "place_id": 598860,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1246154990,
+      "lat": "52.48002419664496",
+      "lon": "13.48351719627579",
+      "class": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Neue Krugallee",
+      "display_name": "Neue Krugallee, Plänterwald, Treptow-Köpenick, Berlin, Brandenburg, 12437, Deutschland",
+      "boundingbox": [
+        "52.4799699",
+        "52.4800785",
+        "13.4834683",
+        "13.4835661"
+      ]
+    },
+    {
+      "place_id": 587012,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 155594970,
+      "lat": "52.47291029251153",
+      "lon": "13.489898697510185",
+      "class": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Neue Krugallee",
+      "display_name": "Neue Krugallee, Baumschulenweg, Treptow-Köpenick, Berlin, Brandenburg, 12437, Deutschland",
+      "boundingbox": [
+        "52.4701654",
+        "52.4756551",
+        "13.4874401",
+        "13.4923572"
+      ]
+    },
+    {
+      "place_id": 586493,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 605220993,
+      "lat": "52.46997099421302",
+      "lon": "13.492521247649426",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Neue Krugallee",
+      "display_name": "Neue Krugallee, Baumschulenweg, Treptow-Köpenick, Berlin, Brandenburg, 12437, Deutschland",
+      "boundingbox": [
+        "52.4698901",
+        "52.4700518",
+        "13.4924462",
+        "13.4925962"
+      ]
+    },
+    {
+      "place_id": 586999,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 54630365,
+      "lat": "52.474091398221475",
+      "lon": "13.487728193220233",
+      "class": "highway",
+      "type": "service",
+      "place_rank": 27,
+      "importance": 0.04000999999999999,
+      "addresstype": "road",
+      "name": "Neue Krugallee",
+      "display_name": "Neue Krugallee, Baumschulenweg, Treptow-Köpenick, Berlin, Brandenburg, 12437, Deutschland",
+      "boundingbox": [
+        "52.4737322",
+        "52.4744300",
+        "13.4873989",
+        "13.4879984"
+      ]
+    }
+  ],
+  "Panoramastr. 1A 10178": [
+    {
+      "place_id": 225525,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 556435241,
+      "lat": "52.5208279",
+      "lon": "13.409421365810083",
+      "class": "tourism",
+      "type": "attraction",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "tourism",
+      "name": "Berliner Fernsehturm",
+      "display_name": "Berliner Fernsehturm, 1a, Panoramastraße, Spandauer Vorstadt, Mitte, Berlin, Brandenburg, 10178, Deutschland",
+      "boundingbox": [
+        "52.5206838",
+        "52.5209557",
+        "13.4091976",
+        "13.4096450"
+      ]
+    },
+    {
+      "place_id": 225514,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 4948143723,
+      "lat": "52.5208599",
+      "lon": "13.4093633",
+      "class": "amenity",
+      "type": "bar",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "amenity",
+      "name": "203 Bar im Fernsehturm",
+      "display_name": "203 Bar im Fernsehturm, 1a, Panoramastraße, Spandauer Vorstadt, Mitte, Berlin, Brandenburg, 10178, Deutschland",
+      "boundingbox": [
+        "52.5208099",
+        "52.5209099",
+        "13.4093133",
+        "13.4094133"
+      ]
+    },
+    {
+      "place_id": 226675,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 12090841219,
+      "lat": "52.5207396",
+      "lon": "13.4085082",
+      "class": "amenity",
+      "type": "bar",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "amenity",
+      "name": "Lieschen Mueller",
+      "display_name": "Lieschen Mueller, 1A, Panoramastraße, Spandauer Vorstadt, Mitte, Berlin, Brandenburg, 10178, Deutschland",
+      "boundingbox": [
+        "52.5206896",
+        "52.5207896",
+        "13.4084582",
+        "13.4085582"
+      ]
+    },
+    {
+      "place_id": 226679,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 6834779786,
+      "lat": "52.520848",
+      "lon": "13.4084747",
+      "class": "tourism",
+      "type": "museum",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "tourism",
+      "name": "Little Big City",
+      "display_name": "Little Big City, 1A, Panoramastraße, Spandauer Vorstadt, Mitte, Berlin, Brandenburg, 10178, Deutschland",
+      "boundingbox": [
+        "52.5207980",
+        "52.5208980",
+        "13.4084247",
+        "13.4085247"
+      ]
+    },
+    {
+      "place_id": 226688,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 863057757,
+      "lat": "52.5208397",
+      "lon": "13.4101065",
+      "class": "amenity",
+      "type": "cafe",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "amenity",
+      "name": "Espresso House",
+      "display_name": "Espresso House, 1A, Panoramastraße, Spandauer Vorstadt, Mitte, Berlin, Brandenburg, 10178, Deutschland",
+      "boundingbox": [
+        "52.5207897",
+        "52.5208897",
+        "13.4100565",
+        "13.4101565"
+      ]
+    },
+    {
+      "place_id": 226931,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 3676215901,
+      "lat": "52.5202088",
+      "lon": "13.4096443",
+      "class": "amenity",
+      "type": "restaurant",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "amenity",
+      "name": "MIO Restaurant unterm Fernsehturm",
+      "display_name": "MIO Restaurant unterm Fernsehturm, 1a, Panoramastraße, Spandauer Vorstadt, Mitte, Berlin, Brandenburg, 10178, Deutschland",
+      "boundingbox": [
+        "52.5201588",
+        "52.5202588",
+        "13.4095943",
+        "13.4096943"
+      ]
+    },
+    {
+      "place_id": 228668,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 663346172,
+      "lat": "52.5211058",
+      "lon": "13.4083713",
+      "class": "amenity",
+      "type": "restaurant",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "amenity",
+      "name": "ALEX",
+      "display_name": "ALEX, 1A, Panoramastraße, Spandauer Vorstadt, Mitte, Berlin, Brandenburg, 10178, Deutschland",
+      "boundingbox": [
+        "52.5210558",
+        "52.5211558",
+        "13.4083213",
+        "13.4084213"
+      ]
+    },
+    {
+      "place_id": 228681,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 3676215899,
+      "lat": "52.5205791",
+      "lon": "13.4089041",
+      "class": "tourism",
+      "type": "museum",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "tourism",
+      "name": "Menschen Museum",
+      "display_name": "Menschen Museum, 1A, Panoramastraße, Spandauer Vorstadt, Mitte, Berlin, Brandenburg, 10178, Deutschland",
+      "boundingbox": [
+        "52.5205291",
+        "52.5206291",
+        "13.4088541",
+        "13.4089541"
+      ]
+    },
+    {
+      "place_id": 228691,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 2589577521,
+      "lat": "52.520709",
+      "lon": "13.409429",
+      "class": "tourism",
+      "type": "artwork",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "tourism",
+      "name": "Alex 35",
+      "display_name": "Alex 35, 1a, Panoramastraße, Spandauer Vorstadt, Mitte, Berlin, Brandenburg, 10178, Deutschland",
+      "boundingbox": [
+        "52.5206590",
+        "52.5207590",
+        "13.4093790",
+        "13.4094790"
+      ]
+    },
+    {
+      "place_id": 228694,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 11669256242,
+      "lat": "52.5211981",
+      "lon": "13.4087233",
+      "class": "amenity",
+      "type": "bar",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "amenity",
+      "name": "Knutschfleck",
+      "display_name": "Knutschfleck, 1a, Panoramastraße, Spandauer Vorstadt, Mitte, Berlin, Brandenburg, 10178, Deutschland",
+      "boundingbox": [
+        "52.5211481",
+        "52.5212481",
+        "13.4086733",
+        "13.4087733"
+      ]
+    }
   ]
 }
