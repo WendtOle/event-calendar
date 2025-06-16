@@ -1,4 +1,4 @@
-import { Component, Fragment, ReactElement } from "react"
+import { Fragment, ReactElement } from "react"
 import { Event as EventType } from "./useEvents"
 
 interface EventProps {
