@@ -50463,6 +50463,27 @@
   ],
   "Karl-Marx-Str.": [
     {
+      "place_id": 637171,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 29328289,
+      "lat": "52.48269766588247",
+      "lon": "13.432274514083614",
+      "class": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Karl-Marx-Straße",
+      "display_name": "Karl-Marx-Straße, Flughafenkiez, Neukölln, Berlin, Brandenburg, 12043, Deutschland",
+      "boundingbox": [
+        "52.4822929",
+        "52.4831003",
+        "13.4314210",
+        "13.4331270"
+      ]
+    },
+    {
       "place_id": 493771,
       "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
       "osm_type": "way",
@@ -50565,27 +50586,6 @@
         "52.4775428",
         "13.6148030",
         "13.6154651"
-      ]
-    },
-    {
-      "place_id": 637171,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 29328289,
-      "lat": "52.48269766588247",
-      "lon": "13.432274514083614",
-      "class": "highway",
-      "type": "secondary",
-      "place_rank": 26,
-      "importance": 0.0533433333333333,
-      "addresstype": "road",
-      "name": "Karl-Marx-Straße",
-      "display_name": "Karl-Marx-Straße, Flughafenkiez, Neukölln, Berlin, Brandenburg, 12043, Deutschland",
-      "boundingbox": [
-        "52.4822929",
-        "52.4831003",
-        "13.4314210",
-        "13.4331270"
       ]
     },
     {

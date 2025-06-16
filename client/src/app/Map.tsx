@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import "leaflet/dist/leaflet.css";
 import type { LatLngBounds, LatLngTuple } from 'leaflet';
-import { Event } from "./useEvents";
+import { Event, WayPoint } from "./useEvents";
 
 interface MapComponentProps {
 	event?: Event
@@ -16,6 +16,7 @@ const MapComponent = ({ event, onMapChange, disableFlyTo }: MapComponentProps) =
 
 	const berlinCenter: LatLngTuple = [52.5200, 13.4050];
 
+
 	useEffect(() => {
 		if (!event || !markerLayer) {
 			return
@@ -23,13 +24,28 @@ const MapComponent = ({ event, onMapChange, disableFlyTo }: MapComponentProps) =
 		markerLayer?.clearLayers()
 		const { way_points, bounds } = event;
 		import('leaflet').then(L => {
-			way_points.map(({ position }) => {
-				L.circle(position, {
+			const addMarker = (point: WayPoint, markerIcon: string) => {
+				L.marker(point.position, {
+					icon: L.divIcon({
+						className: 'my-div-icon',
+						html: `<div>${markerIcon}</div>`,
+						iconSize: [32, 32],
+						iconAnchor: [16, 22],
+					})
+				}).bindTooltip(point.text).addTo(markerLayer)
+			}
+
+			if (way_points.length === 1) {
+				addMarker(way_points[0], "📍")
+			} else {
+				L.polyline(way_points.map(point => point.position), {
 					color: colors[0],
-					fillColor: colors[0],
-					radius: 200
 				}).addTo(markerLayer);
-			})
+				way_points.forEach((point, i) =>
+					addMarker(point, i === 0 ? "🏁" : "📍")
+				)
+			}
+
 			if (disableFlyTo) {
 				return
 			}

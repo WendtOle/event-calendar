@@ -1,6 +1,7 @@
 "use client"
 import { useState, useEffect } from "react";
 import type { LatLngBounds, LatLngTuple } from "leaflet";
+import { detectLocationOutliers } from "./getWithoutOutliers";
 
 export interface Event { time: string; location: string; thema: string; date: string[]; way_points: WayPoint[], bounds: LatLngBounds }
 export type WayPoint = { text: string, position: LatLngTuple }
@@ -30,8 +31,9 @@ export const useEvents = () => {
 					const newWayPoint: WayPoint = { text: pointString, position }
 					return [...acc, newWayPoint]
 				}, [] as Array<WayPoint>)
-				const bounds = new LatLngBounds(alteredWayPoints.map(point => point.position))
-				return { ...event, way_points: alteredWayPoints, bounds }
+				const filtered = detectLocationOutliers(alteredWayPoints, 0)
+				const bounds = new LatLngBounds(filtered.map(point => point.position))
+				return { ...event, way_points: filtered, bounds }
 			})
 			setEvents(events);
 		}

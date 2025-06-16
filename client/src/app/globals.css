@@ -112,6 +112,15 @@
   --sidebar-ring: oklch(0.551 0.027 264.364);
 }
 
+.my-div-icon {
+  background: transparent;
+  color: white;
+  text-align: center;
+  width: 32px;
+  height: 32px;
+  line-height: 32px;
+  font-size: 16px;
+}
 @layer base {
   * {
     @apply border-border outline-ring/50;
