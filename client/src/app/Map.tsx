@@ -66,6 +66,7 @@ const MapComponent = ({ event, onMapChange, disableFlyTo }: MapComponentProps) =
 			}).addTo(map);
 			setMarkerLayer(L.layerGroup().addTo(map));
 			setMap(map)
+			onMapChange(map.getBounds())
 			const onMoveEnd = () => onMapChange(map.getBounds())
 			map.on("moveend", onMoveEnd)
 			return () => {
