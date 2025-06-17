@@ -49,7 +49,6 @@ export default function EventExplorer() {
 			now.setHours(0, 0, 0, 0)
 			result = result.filter((e) => {
 				const date = parse(e.date[0], "dd.MM.yyyy", new Date());
-				console.log(date)
 				return isAfter(date, now) || isEqual(date, now);
 			});
 		}
@@ -58,7 +57,6 @@ export default function EventExplorer() {
 			now.setHours(0, 0, 0, 0)
 			result = result.filter((e) => {
 				const date = parse(e.date[0], "dd.MM.yyyy", new Date());
-				console.log(date)
 				return isEqual(date, now);
 			});
 		}
