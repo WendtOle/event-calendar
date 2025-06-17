@@ -117,14 +117,23 @@ export default function EventExplorer() {
 					</FilterButton>
 				</div>
 			</div>
-			<MapComponent event={selectedEvent} onMapChange={onMapChange} disableFlyTo={filterByMapBounds} />
+			<MapComponent event={selectedEvent} onMapChange={onMapChange} disableFlyTo={filterByMapBounds} events={filteredEvents} />
 			{filteredEvents.length} Events
 			{filteredEvents.length === 0 ? (
 				<p className="text-gray-500">Keine Events gefunden.</p>
 			) : (
 				<div className={`${filteredEvents.length < 3 ? '' : 'flex-1'} grid gap-2 overflow-auto`} >
 					{filteredEvents.map((e, idx) => (
-						<EventComponent key={idx} onClick={() => setSelectedEvent(e)} event={e} selected={e.thema === selectedEvent?.thema} />
+						<EventComponent key={idx} onClick={() => setSelectedEvent(state => {
+							if (state === undefined) {
+								return e
+							}
+							if (state.thema !== e.thema) {
+								return e
+							}
+							return undefined
+
+						})} event={e} selected={e.thema === selectedEvent?.thema} />
 					))}
 				</div>
 			)}
