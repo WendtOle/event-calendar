@@ -27,6 +27,9 @@ export default function EventExplorer() {
 		applyFilters();
 	}, [keyword, timeFilter, events, mapBounds, filterByMapBounds]);
 
+	const checkDates = (dates: string[], func: (date: Date, comparison: Date) => boolean, comparison: Date) =>
+		dates.map(date => parse(date, "dd.MM.yyyy", new Date())).some(date => func(date, comparison))
+
 	const applyFilters = () => {
 		let result = [...events];
 
@@ -39,35 +42,23 @@ export default function EventExplorer() {
 		}
 		if (timeFilter === "past") {
 			const now = new Date();
-			result = result.filter((e) => {
-				const date = parse(e.date[0], "dd.MM.yyyy", new Date());
-				return isBefore(date, now);
-			});
+			result = result.filter((e) => checkDates(e.date, isBefore, now))
 		}
 		if (timeFilter === "future") {
 			const now = new Date();
 			now.setHours(0, 0, 0, 0)
-			result = result.filter((e) => {
-				const date = parse(e.date[0], "dd.MM.yyyy", new Date());
-				return isAfter(date, now) || isEqual(date, now);
-			});
+			result = result.filter(e => checkDates(e.date, (date: Date, comparison: Date) => isAfter(date, comparison) || isEqual(date, comparison), now))
 		}
 		if (timeFilter === "today") {
 			const now = new Date();
 			now.setHours(0, 0, 0, 0)
-			result = result.filter((e) => {
-				const date = parse(e.date[0], "dd.MM.yyyy", new Date());
-				return isEqual(date, now);
-			});
+			result = result.filter((e) => checkDates(e.date, isEqual, now))
 		}
 		if (timeFilter === "tomorrow") {
 			const now = new Date();
 			now.setHours(0, 0, 0, 0)
 			const tomorrow = addDays(now, 1)
-			result = result.filter((e) => {
-				const date = parse(e.date[0], "dd.MM.yyyy", new Date());
-				return isEqual(date, tomorrow);
-			});
+			result = result.filter((e) => checkDates(e.date, isEqual, tomorrow))
 		}
 		if (mapBounds !== undefined && filterByMapBounds) {
 			result = result.filter(e => e.way_points.some(point => mapBounds?.contains(point.position)))
