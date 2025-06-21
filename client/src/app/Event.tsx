@@ -1,5 +1,7 @@
 import { Fragment, ReactElement } from "react"
 import { Event as EventType } from "./useEvents"
+import { isAfter, parse, format } from "date-fns";
+import { isEqual } from "date-fns/fp";
 
 interface EventProps {
 	event: EventType,
@@ -12,7 +14,16 @@ export const Event = ({ selected, event, onClick }: EventProps) => {
 		if (date.length === 1) {
 			return date[0]
 		}
-		return `${date[0]} und ${date.length - 1} weitere`
+		if (selected) {
+			return date.join(", ")
+		}
+		const now = new Date();
+		now.setHours(0, 0, 0, 0)
+		const firstComing = date.map(date => parse(date, "dd.MM.yyyy", new Date())
+		).filter(date => {
+			return isAfter(date, now) || isEqual(date, now)
+		}).sort((left: Date, right: Date) => left.getTime() - right.getTime())
+		return `${format(firstComing[0], "dd.MM.yyyy")} und ${date.length - 1} weitere`
 	}
 	const shorten = (value: string, limit: number) => {
 		if (value.length > limit && !selected) {
@@ -54,8 +65,11 @@ export const Event = ({ selected, event, onClick }: EventProps) => {
 		>
 			<div className="font-semibold">{shorten(event.thema, 80) || "Kein Thema"}</div>
 			<div className="text-sm text-gray-600">
-				{dateString(event.date)} {event.time}
+				{dateString(event.date)} {selected ? "" : event.time}
 			</div>
+			{selected && <div className="text-sm text-gray-600">
+				{event.time}
+			</div>}
 			{!selected && <div className="text-sm">
 				{shortLocationString}
 			</div>}
