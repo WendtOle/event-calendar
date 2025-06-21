@@ -63164,5 +63164,3119 @@
         "13.4087733"
       ]
     }
+  ],
+  "S-Bahnhof Lichtenberg": [
+    {
+      "place_id": 583943,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1244853966,
+      "lat": "52.493843749999996",
+      "lon": "13.497848407507497",
+      "class": "landuse",
+      "type": "railway",
+      "place_rank": 22,
+      "importance": 0.10667666666666664,
+      "addresstype": "railway",
+      "name": "S-Bahnhof Betriebsbahnhof Rummelsburg",
+      "display_name": "S-Bahnhof Betriebsbahnhof Rummelsburg, Rummelsburg, Lichtenberg, Berlin, Brandenburg, 10317, Deutschland",
+      "boundingbox": [
+        "52.4929036",
+        "52.4948205",
+        "13.4957983",
+        "13.4994348"
+      ]
+    },
+    {
+      "place_id": 253643,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 191368329,
+      "lat": "52.51439835",
+      "lon": "13.474677788985005",
+      "class": "building",
+      "type": "train_station",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "building",
+      "name": "S-Bahnhof Frankfurter Allee",
+      "display_name": "S-Bahnhof Frankfurter Allee, 111 A, Frankfurter Allee, Samariterviertel, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10247, Deutschland",
+      "boundingbox": [
+        "52.5143200",
+        "52.5144778",
+        "13.4745886",
+        "13.4747673"
+      ]
+    }
+  ],
+  "Bhf Frankfurter Allee": [
+    {
+      "place_id": 257189,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1074038850,
+      "lat": "52.510953549999996",
+      "lon": "13.496738814312106",
+      "class": "historic",
+      "type": "railway_car",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "historic",
+      "name": "DR Class VT 18.16 am Bahnhof Berlin-Lichtenberg",
+      "display_name": "DR Class VT 18.16 am Bahnhof Berlin-Lichtenberg, Frankfurter Allee, Lichtenberg, Berlin, Brandenburg, 10365, Deutschland",
+      "boundingbox": [
+        "52.5108035",
+        "52.5110733",
+        "13.4958856",
+        "13.4972500"
+      ]
+    },
+    {
+      "place_id": 253643,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 191368329,
+      "lat": "52.51439835",
+      "lon": "13.474677788985005",
+      "class": "building",
+      "type": "train_station",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "building",
+      "name": "S-Bahnhof Frankfurter Allee",
+      "display_name": "S-Bahnhof Frankfurter Allee, 111 A, Frankfurter Allee, Samariterviertel, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10247, Deutschland",
+      "boundingbox": [
+        "52.5143200",
+        "52.5144778",
+        "13.4745886",
+        "13.4747673"
+      ]
+    }
+  ],
+  "Einbecker Str.": [
+    {
+      "place_id": 461132,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 25214249,
+      "lat": "52.508449421188466",
+      "lon": "13.507499769188932",
+      "class": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Einbecker Straße",
+      "display_name": "Einbecker Straße, Friedrichsfelde, Lichtenberg, Berlin, Brandenburg, 10315, Deutschland",
+      "boundingbox": [
+        "52.5076756",
+        "52.5092240",
+        "13.5050236",
+        "13.5099762"
+      ]
+    },
+    {
+      "place_id": 459599,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 32446828,
+      "lat": "52.51001533130209",
+      "lon": "13.50246032523706",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Einbecker Straße",
+      "display_name": "Einbecker Straße, Weitlingkiez, Rummelsburg, Lichtenberg, Berlin, Brandenburg, 10317, Deutschland",
+      "boundingbox": [
+        "52.5096906",
+        "52.5103557",
+        "13.5014053",
+        "13.5035202"
+      ]
+    },
+    {
+      "place_id": 462993,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 4689097,
+      "lat": "52.505932975573614",
+      "lon": "13.513178924166295",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Einbecker Straße",
+      "display_name": "Einbecker Straße, Friedrichsfelde, Lichtenberg, Berlin, Brandenburg, 10315, Deutschland",
+      "boundingbox": [
+        "52.5055295",
+        "52.5063360",
+        "13.5127459",
+        "13.5136116"
+      ]
+    },
+    {
+      "place_id": 462106,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 4689083,
+      "lat": "52.509608091776535",
+      "lon": "13.503779847312892",
+      "class": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Einbecker Straße",
+      "display_name": "Einbecker Straße, Friedrichsfelde, Lichtenberg, Berlin, Brandenburg, 10317, Deutschland",
+      "boundingbox": [
+        "52.5095256",
+        "52.5096906",
+        "13.5035202",
+        "13.5040395"
+      ]
+    },
+    {
+      "place_id": 453108,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 319284062,
+      "lat": "52.50959797459608",
+      "lon": "13.506261450036433",
+      "class": "highway",
+      "type": "service",
+      "place_rank": 27,
+      "importance": 0.04000999999999999,
+      "addresstype": "road",
+      "name": "Einbecker Straße",
+      "display_name": "Einbecker Straße, Friedrichsfelde, Lichtenberg, Berlin, Brandenburg, 10315, Deutschland",
+      "boundingbox": [
+        "52.5094403",
+        "52.5099356",
+        "13.5055055",
+        "13.5062958"
+      ]
+    }
+  ],
+  "Hobrechtstr.": [
+    {
+      "place_id": 615012,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 86327970,
+      "lat": "52.493746698051766",
+      "lon": "13.425367592622612",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Hobrechtstraße",
+      "display_name": "Hobrechtstraße, Reuterkiez, Neukölln, Berlin, Brandenburg, 12047, Deutschland",
+      "boundingbox": [
+        "52.4932778",
+        "52.4942156",
+        "13.4252439",
+        "13.4254913"
+      ]
+    },
+    {
+      "place_id": 617513,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 114097468,
+      "lat": "52.4862438022427",
+      "lon": "13.426822332376751",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Hobrechtstraße",
+      "display_name": "Hobrechtstraße, Reuterkiez, Neukölln, Berlin, Brandenburg, 12043, Deutschland",
+      "boundingbox": [
+        "52.4857021",
+        "52.4867855",
+        "13.4267535",
+        "13.4268912"
+      ]
+    },
+    {
+      "place_id": 616294,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 251168439,
+      "lat": "52.49219574999999",
+      "lon": "13.425803",
+      "class": "highway",
+      "type": "living_street",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Hobrechtstraße",
+      "display_name": "Hobrechtstraße, Reuterkiez, Neukölln, Berlin, Brandenburg, 12047, Deutschland",
+      "boundingbox": [
+        "52.4920808",
+        "52.4923107",
+        "13.4257731",
+        "13.4258329"
+      ]
+    },
+    {
+      "place_id": 617449,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 4680510,
+      "lat": "52.485306949999995",
+      "lon": "13.4266358",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Hobrechtstraße",
+      "display_name": "Hobrechtstraße, Flughafenkiez, Neukölln, Berlin, Brandenburg, 12043, Deutschland",
+      "boundingbox": [
+        "52.4852699",
+        "52.4853440",
+        "13.4265942",
+        "13.4266774"
+      ]
+    }
+  ],
+  "Zachertstr.": [
+    {
+      "place_id": 463331,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 4689055,
+      "lat": "52.50592944091978",
+      "lon": "13.507283719365143",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Zachertstraße",
+      "display_name": "Zachertstraße, Friedrichsfelde, Lichtenberg, Berlin, Brandenburg, 10315, Deutschland",
+      "boundingbox": [
+        "52.5057864",
+        "52.5061069",
+        "13.5062912",
+        "13.5082819"
+      ]
+    },
+    {
+      "place_id": 460737,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 385402830,
+      "lat": "52.50700453156669",
+      "lon": "13.501676619078948",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Zachertstraße",
+      "display_name": "Zachertstraße, Weitlingkiez, Rummelsburg, Lichtenberg, Berlin, Brandenburg, 10315, Deutschland",
+      "boundingbox": [
+        "52.5069493",
+        "52.5070571",
+        "13.5014105",
+        "13.5019422"
+      ]
+    }
+  ],
+  "Lincolnstr.": [
+    {
+      "place_id": 454378,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 4689089,
+      "lat": "52.503339603859786",
+      "lon": "13.502635035639626",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Lincolnstraße",
+      "display_name": "Lincolnstraße, Friedrichsfelde, Lichtenberg, Berlin, Brandenburg, 10315, Deutschland",
+      "boundingbox": [
+        "52.5021852",
+        "52.5044971",
+        "13.5019257",
+        "13.5033393"
+      ]
+    },
+    {
+      "place_id": 454365,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 416775498,
+      "lat": "52.50347862575445",
+      "lon": "13.503437045410225",
+      "class": "highway",
+      "type": "service",
+      "place_rank": 27,
+      "importance": 0.04000999999999999,
+      "addresstype": "road",
+      "name": "Lincolnstraße",
+      "display_name": "Lincolnstraße, Friedrichsfelde, Lichtenberg, Berlin, Brandenburg, 10315, Deutschland",
+      "boundingbox": [
+        "52.5033574",
+        "52.5035999",
+        "13.5027954",
+        "13.5040787"
+      ]
+    },
+    {
+      "place_id": 454564,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 397605606,
+      "lat": "52.501556699999995",
+      "lon": "13.50060425",
+      "class": "highway",
+      "type": "platform",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "highway",
+      "name": "Lincolnstraße",
+      "display_name": "Lincolnstraße, Rummelsburger Straße, Sewan-Viertel, Friedrichsfelde, Lichtenberg, Berlin, Brandenburg, 10315, Deutschland",
+      "boundingbox": [
+        "52.5015278",
+        "52.5015856",
+        "13.5004924",
+        "13.5007161"
+      ]
+    },
+    {
+      "place_id": 456770,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 4003911830,
+      "lat": "52.5015856",
+      "lon": "13.5007161",
+      "class": "highway",
+      "type": "bus_stop",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "highway",
+      "name": "Lincolnstraße",
+      "display_name": "Lincolnstraße, Rummelsburger Straße, Sewan-Viertel, Friedrichsfelde, Lichtenberg, Berlin, Brandenburg, 10315, Deutschland",
+      "boundingbox": [
+        "52.5015356",
+        "52.5016356",
+        "13.5006661",
+        "13.5007661"
+      ]
+    }
+  ],
+  "Wilhelmstr. 54 10117": [
+    {
+      "place_id": 216036,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1351209838,
+      "lat": "52.513831249999996",
+      "lon": "13.382826197393737",
+      "class": "office",
+      "type": "government",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "office",
+      "name": "Bundesministerium für Landwirtschaft, Ernährung und Heimat",
+      "display_name": "Bundesministerium für Landwirtschaft, Ernährung und Heimat, 54, Wilhelmstraße, Dorotheenstadt, Mitte, Berlin, Brandenburg, 10117, Deutschland",
+      "boundingbox": [
+        "52.5134308",
+        "52.5141772",
+        "13.3823116",
+        "13.3836962"
+      ]
+    },
+    {
+      "place_id": 212919,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 47325318,
+      "lat": "52.51398435",
+      "lon": "13.383095737580824",
+      "class": "building",
+      "type": "government",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "building",
+      "name": "",
+      "display_name": "54, Wilhelmstraße, Dorotheenstadt, Mitte, Berlin, Brandenburg, 10117, Deutschland",
+      "boundingbox": [
+        "52.5137635",
+        "52.5141772",
+        "13.3823116",
+        "13.3836962"
+      ]
+    },
+    {
+      "place_id": 214318,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 11397697554,
+      "lat": "52.5135498",
+      "lon": "13.3825048",
+      "class": "historic",
+      "type": "memorial",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "historic",
+      "name": "Konrad Adenauer",
+      "display_name": "Konrad Adenauer, 54, Wilhelmstraße, Dorotheenstadt, Mitte, Berlin, Brandenburg, 10117, Deutschland",
+      "boundingbox": [
+        "52.5134998",
+        "52.5135998",
+        "13.3824548",
+        "13.3825548"
+      ]
+    },
+    {
+      "place_id": 145348,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 7542456224,
+      "lat": "52.5153812",
+      "lon": "13.1766475",
+      "class": "amenity",
+      "type": "restaurant",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "amenity",
+      "name": "Croatica",
+      "display_name": "Croatica, 54, Wilhelmstraße, Wilhelmstadt, Spandau, Berlin, Brandenburg, 13593, Deutschland",
+      "boundingbox": [
+        "52.5153312",
+        "52.5154312",
+        "13.1765975",
+        "13.1766975"
+      ]
+    },
+    {
+      "place_id": 145352,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 2872718683,
+      "lat": "52.5153677",
+      "lon": "13.176695",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "54, Wilhelmstraße, Wilhelmstadt, Spandau, Berlin, Brandenburg, 13593, Deutschland",
+      "boundingbox": [
+        "52.5153177",
+        "52.5154177",
+        "13.1766450",
+        "13.1767450"
+      ]
+    }
+  ],
+  "Leipziger Straße": [
+    {
+      "place_id": 539877,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 24773877,
+      "lat": "52.4604368938065",
+      "lon": "13.721890947302692",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Leipziger Straße",
+      "display_name": "Leipziger Straße, Hohenberge, 15566, Deutschland",
+      "boundingbox": [
+        "52.4591446",
+        "52.4617225",
+        "13.7209281",
+        "13.7228376"
+      ]
+    },
+    {
+      "place_id": 408759,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 272237925,
+      "lat": "52.637964828335626",
+      "lon": "13.312478864643115",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Leipziger Straße",
+      "display_name": "Leipziger Straße, 16548, Deutschland",
+      "boundingbox": [
+        "52.6376489",
+        "52.6381604",
+        "13.3086476",
+        "13.3163051"
+      ]
+    },
+    {
+      "place_id": 216735,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 168515533,
+      "lat": "52.51110470114933",
+      "lon": "13.398922185030694",
+      "class": "highway",
+      "type": "primary",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Leipziger Straße",
+      "display_name": "Leipziger Straße, Friedrichswerder, Mitte, Berlin, Brandenburg, 10117, Deutschland",
+      "boundingbox": [
+        "52.5109646",
+        "52.5113357",
+        "13.3967129",
+        "13.4011220"
+      ]
+    },
+    {
+      "place_id": 213863,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 356359316,
+      "lat": "52.50984472426339",
+      "lon": "13.381516216762744",
+      "class": "highway",
+      "type": "primary",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Leipziger Straße",
+      "display_name": "Leipziger Straße, Mitte, Berlin, Brandenburg, 10117, Deutschland",
+      "boundingbox": [
+        "52.5097159",
+        "52.5099659",
+        "13.3794770",
+        "13.3835559"
+      ]
+    }
+  ],
+  "Annemarie-Renger-Str. 10557": [
+    {
+      "place_id": 191028,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 649959246,
+      "lat": "52.52024625016493",
+      "lon": "13.372080421251141",
+      "class": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Annemarie-Renger-Straße",
+      "display_name": "Annemarie-Renger-Straße, Tiergarten, Mitte, Berlin, Brandenburg, 10557, Deutschland",
+      "boundingbox": [
+        "52.5195725",
+        "52.5209200",
+        "13.3720762",
+        "13.3720846"
+      ]
+    }
+  ],
+  "Annemarie-Renger Str. 10557": [
+    {
+      "place_id": 191028,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 649959246,
+      "lat": "52.52024625016493",
+      "lon": "13.372080421251141",
+      "class": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Annemarie-Renger-Straße",
+      "display_name": "Annemarie-Renger-Straße, Tiergarten, Mitte, Berlin, Brandenburg, 10557, Deutschland",
+      "boundingbox": [
+        "52.5195725",
+        "52.5209200",
+        "13.3720762",
+        "13.3720846"
+      ]
+    }
+  ],
+  "Zossener Brücke": [
+    {
+      "place_id": 624252,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 30705168,
+      "lat": "52.49784578197308",
+      "lon": "13.39563097079243",
+      "class": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Zossener Brücke",
+      "display_name": "Zossener Brücke, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10969, Deutschland",
+      "boundingbox": [
+        "52.4977059",
+        "52.4979934",
+        "13.3955623",
+        "13.3956796"
+      ]
+    },
+    {
+      "place_id": 624248,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 61745072,
+      "lat": "52.4979432",
+      "lon": "13.395849",
+      "class": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Zossener Brücke",
+      "display_name": "Zossener Brücke, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10969, Deutschland",
+      "boundingbox": [
+        "52.4979055",
+        "52.4979809",
+        "13.3958327",
+        "13.3958653"
+      ]
+    },
+    {
+      "place_id": 624258,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 375721966,
+      "lat": "52.497839150000004",
+      "lon": "13.395703484983105",
+      "class": "man_made",
+      "type": "bridge",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "man_made",
+      "name": "Zossener Brücke",
+      "display_name": "Zossener Brücke, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10961, Deutschland",
+      "boundingbox": [
+        "52.4976695",
+        "52.4980021",
+        "13.3951491",
+        "13.3962882"
+      ]
+    },
+    {
+      "place_id": 624274,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 382265027,
+      "lat": "52.49833700000001",
+      "lon": "13.3952668",
+      "class": "highway",
+      "type": "platform",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "highway",
+      "name": "Zossener Brücke",
+      "display_name": "Zossener Brücke, Gitschiner Straße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10969, Deutschland",
+      "boundingbox": [
+        "52.4983245",
+        "52.4983495",
+        "13.3951644",
+        "13.3953692"
+      ]
+    },
+    {
+      "place_id": 610767,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 382265028,
+      "lat": "52.49858847884999",
+      "lon": "13.39601589570107",
+      "class": "highway",
+      "type": "platform",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "highway",
+      "name": "Zossener Brücke",
+      "display_name": "Zossener Brücke, Lindenstraße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10969, Deutschland",
+      "boundingbox": [
+        "52.4985129",
+        "52.4986628",
+        "13.3959972",
+        "13.3960285"
+      ]
+    },
+    {
+      "place_id": 623967,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 3854591393,
+      "lat": "52.4986628",
+      "lon": "13.3959972",
+      "class": "highway",
+      "type": "bus_stop",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "highway",
+      "name": "Zossener Brücke",
+      "display_name": "Zossener Brücke, Lindenstraße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10969, Deutschland",
+      "boundingbox": [
+        "52.4986128",
+        "52.4987128",
+        "13.3959472",
+        "13.3960472"
+      ]
+    },
+    {
+      "place_id": 625105,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 3854591385,
+      "lat": "52.4983245",
+      "lon": "13.3951644",
+      "class": "highway",
+      "type": "bus_stop",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "highway",
+      "name": "Zossener Brücke",
+      "display_name": "Zossener Brücke, Gitschiner Straße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10969, Deutschland",
+      "boundingbox": [
+        "52.4982745",
+        "52.4983745",
+        "13.3951144",
+        "13.3952144"
+      ]
+    }
+  ],
+  "Heinrichstr.": [
+    {
+      "place_id": 256775,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 4689059,
+      "lat": "52.50426790661394",
+      "lon": "13.498404688709924",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Heinrichstraße",
+      "display_name": "Heinrichstraße, Weitlingkiez, Rummelsburg, Lichtenberg, Berlin, Brandenburg, 10317, Deutschland",
+      "boundingbox": [
+        "52.5031976",
+        "52.5053382",
+        "13.4977757",
+        "13.4990337"
+      ]
+    },
+    {
+      "place_id": 716342,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 27266698,
+      "lat": "52.42256234565307",
+      "lon": "13.31429011291684",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Heinrichstraße",
+      "display_name": "Heinrichstraße, Giesensdorf, Lichterfelde Ost, Lichterfelde, Steglitz-Zehlendorf, Berlin, Brandenburg, 12207, Deutschland",
+      "boundingbox": [
+        "52.4219484",
+        "52.4230012",
+        "13.3132458",
+        "13.3152217"
+      ]
+    },
+    {
+      "place_id": 701196,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 970017914,
+      "lat": "52.4216968",
+      "lon": "13.31547475",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Heinrichstraße",
+      "display_name": "Heinrichstraße, Lichterfelde Ost, Lichterfelde, Steglitz-Zehlendorf, Berlin, Brandenburg, 12207, Deutschland",
+      "boundingbox": [
+        "52.4214452",
+        "52.4219484",
+        "13.3152217",
+        "13.3157278"
+      ]
+    },
+    {
+      "place_id": 697742,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 25495118,
+      "lat": "52.4219165",
+      "lon": "13.316226964557238",
+      "class": "landuse",
+      "type": "allotments",
+      "place_rank": 22,
+      "importance": 0.10667666666666664,
+      "addresstype": "allotments",
+      "name": "Kolonie Heinrichstraße",
+      "display_name": "Kolonie Heinrichstraße, Lichterfelde, Steglitz-Zehlendorf, Berlin, Brandenburg, 12207, Deutschland",
+      "boundingbox": [
+        "52.4205899",
+        "52.4232690",
+        "13.3137697",
+        "13.3172715"
+      ]
+    }
+  ],
+  "Hubertusstr.": [
+    {
+      "place_id": 356993,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 4802334,
+      "lat": "52.60731122158111",
+      "lon": "13.315181220235313",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Hubertusstraße",
+      "display_name": "Hubertusstraße, Waidmannslust, Reinickendorf, Berlin, Brandenburg, 13469, Deutschland",
+      "boundingbox": [
+        "52.6061363",
+        "52.6084476",
+        "13.3138467",
+        "13.3164952"
+      ]
+    },
+    {
+      "place_id": 516981,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 45401803,
+      "lat": "52.42591626369654",
+      "lon": "13.720212842234112",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Hubertusstraße",
+      "display_name": "Hubertusstraße, Rahnsdorf, Treptow-Köpenick, Berlin, Brandenburg, 12589, Deutschland",
+      "boundingbox": [
+        "52.4251815",
+        "52.4268565",
+        "13.7193447",
+        "13.7212392"
+      ]
+    },
+    {
+      "place_id": 101109,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 53399805,
+      "lat": "52.562857716177255",
+      "lon": "13.17887908674847",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Hubertusstraße",
+      "display_name": "Hubertusstraße, Hakenfelde, Spandau, Berlin, Brandenburg, 13589, Deutschland",
+      "boundingbox": [
+        "52.5628270",
+        "52.5634646",
+        "13.1768200",
+        "13.1810362"
+      ]
+    },
+    {
+      "place_id": 534867,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 23429866,
+      "lat": "52.468196021055725",
+      "lon": "13.68817176621287",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Hubertusstraße",
+      "display_name": "Hubertusstraße, 15566, Deutschland",
+      "boundingbox": [
+        "52.4671699",
+        "52.4692027",
+        "13.6877830",
+        "13.6885267"
+      ]
+    },
+    {
+      "place_id": 252121,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 6229770,
+      "lat": "52.515192318959954",
+      "lon": "13.494909368290056",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Hubertusstraße",
+      "display_name": "Hubertusstraße, Lichtenberg, Berlin, Brandenburg, 10365, Deutschland",
+      "boundingbox": [
+        "52.5144423",
+        "52.5159408",
+        "13.4947135",
+        "13.4951111"
+      ]
+    },
+    {
+      "place_id": 520821,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 51304499,
+      "lat": "52.39382923813691",
+      "lon": "13.579947592601501",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Parchwitzer Straße",
+      "display_name": "Parchwitzer Straße, Bohnsdorf, Treptow-Köpenick, Berlin, Brandenburg, 12526, Deutschland",
+      "boundingbox": [
+        "52.3936172",
+        "52.3943940",
+        "13.5740515",
+        "13.5857635"
+      ]
+    }
+  ],
+  "Schlesische Str. -Puschkinallee": [],
+  "Herbert-Lewin-Platz 1 10623": [
+    {
+      "place_id": 197675,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 3037802384,
+      "lat": "52.5149152",
+      "lon": "13.3340145",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "1, Herbert-Lewin-Platz, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, Brandenburg, 10623, Deutschland",
+      "boundingbox": [
+        "52.5148652",
+        "52.5149652",
+        "13.3339645",
+        "13.3340645"
+      ]
+    }
+  ],
+  "Stargarder Str.": [
+    {
+      "place_id": 299765,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 11114397,
+      "lat": "52.545167517140776",
+      "lon": "13.42132297247964",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Stargarder Straße",
+      "display_name": "Stargarder Straße, Helmholtzkiez, Prenzlauer Berg, Pankow, Berlin, Brandenburg, 10437, Deutschland",
+      "boundingbox": [
+        "52.5445955",
+        "52.5457383",
+        "13.4200006",
+        "13.4226448"
+      ]
+    },
+    {
+      "place_id": 288634,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 888387234,
+      "lat": "52.546914370580424",
+      "lon": "13.417112039882666",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Stargarder Straße",
+      "display_name": "Stargarder Straße, Bremer Höhe, Prenzlauer Berg, Pankow, Berlin, Brandenburg, 10437, Deutschland",
+      "boundingbox": [
+        "52.5466599",
+        "52.5471689",
+        "13.4163713",
+        "13.4178528"
+      ]
+    },
+    {
+      "place_id": 289509,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1014546349,
+      "lat": "52.54303325184648",
+      "lon": "13.426234250786592",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Stargarder Straße",
+      "display_name": "Stargarder Straße, Helmholtzkiez, Prenzlauer Berg, Pankow, Berlin, Brandenburg, 10405, Deutschland",
+      "boundingbox": [
+        "52.5429928",
+        "52.5430737",
+        "13.4261401",
+        "13.4263284"
+      ]
+    },
+    {
+      "place_id": 296665,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 182685528,
+      "lat": "52.54297029537198",
+      "lon": "13.426433409741971",
+      "class": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Stargarder Straße",
+      "display_name": "Stargarder Straße, Helmholtzkiez, Prenzlauer Berg, Pankow, Berlin, Brandenburg, 10437, Deutschland",
+      "boundingbox": [
+        "52.5429477",
+        "52.5429928",
+        "13.4263284",
+        "13.4265384"
+      ]
+    },
+    {
+      "place_id": 288281,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 389534634,
+      "lat": "52.54709795",
+      "lon": "13.41898355",
+      "class": "railway",
+      "type": "platform",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "railway",
+      "name": "Stargarder Straße",
+      "display_name": "Stargarder Straße, Pappelallee, Helmholtzkiez, Prenzlauer Berg, Pankow, Berlin, Brandenburg, 10437, Deutschland",
+      "boundingbox": [
+        "52.5470199",
+        "52.5471760",
+        "13.4189067",
+        "13.4190604"
+      ]
+    },
+    {
+      "place_id": 288286,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 1861798266,
+      "lat": "52.5471362",
+      "lon": "13.4189621",
+      "class": "railway",
+      "type": "tram_stop",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "railway",
+      "name": "Stargarder Straße",
+      "display_name": "Stargarder Straße, Pappelallee, Helmholtzkiez, Prenzlauer Berg, Pankow, Berlin, Brandenburg, 10437, Deutschland",
+      "boundingbox": [
+        "52.5470862",
+        "52.5471862",
+        "13.4189121",
+        "13.4190121"
+      ]
+    }
+  ],
+  "Sophienstr.": [
+    {
+      "place_id": 222515,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 4610355,
+      "lat": "52.52562664757744",
+      "lon": "13.400932341979695",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Sophienstraße",
+      "display_name": "Sophienstraße, Spandauer Vorstadt, Mitte, Berlin, Brandenburg, 10178, Deutschland",
+      "boundingbox": [
+        "52.5250035",
+        "52.5264950",
+        "13.3986174",
+        "13.4033229"
+      ]
+    },
+    {
+      "place_id": 747667,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 148666045,
+      "lat": "52.442819917400115",
+      "lon": "13.303311361996531",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Sophienstraße",
+      "display_name": "Sophienstraße, Lichterfelde West, Lichterfelde, Steglitz-Zehlendorf, Berlin, Brandenburg, 12203, Deutschland",
+      "boundingbox": [
+        "52.4423564",
+        "52.4433452",
+        "13.3021927",
+        "13.3043695"
+      ]
+    },
+    {
+      "place_id": 488557,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 34999731,
+      "lat": "52.53586825913399",
+      "lon": "13.627258153131296",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Sophienstraße",
+      "display_name": "Sophienstraße, 12627, Deutschland",
+      "boundingbox": [
+        "52.5351457",
+        "52.5367735",
+        "13.6270338",
+        "13.6277863"
+      ]
+    },
+    {
+      "place_id": 252173,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 4689034,
+      "lat": "52.50578002724816",
+      "lon": "13.496797954510694",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Sophienstraße",
+      "display_name": "Sophienstraße, Weitlingkiez, Rummelsburg, Lichtenberg, Berlin, Brandenburg, 10317, Deutschland",
+      "boundingbox": [
+        "52.5055937",
+        "52.5059659",
+        "13.4958770",
+        "13.4977188"
+      ]
+    },
+    {
+      "place_id": 252199,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 395511354,
+      "lat": "52.506533700000006",
+      "lon": "13.4960924",
+      "class": "highway",
+      "type": "platform",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "highway",
+      "name": "Sophienstraße",
+      "display_name": "Sophienstraße, Weitlingstraße, Weitlingkiez, Rummelsburg, Lichtenberg, Berlin, Brandenburg, 10317, Deutschland",
+      "boundingbox": [
+        "52.5064982",
+        "52.5065692",
+        "13.4960719",
+        "13.4961129"
+      ]
+    },
+    {
+      "place_id": 250759,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 377086326,
+      "lat": "52.5064982",
+      "lon": "13.4960719",
+      "class": "highway",
+      "type": "bus_stop",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "highway",
+      "name": "Sophienstraße",
+      "display_name": "Sophienstraße, Weitlingstraße, Weitlingkiez, Rummelsburg, Lichtenberg, Berlin, Brandenburg, 10317, Deutschland",
+      "boundingbox": [
+        "52.5064482",
+        "52.5065482",
+        "13.4960219",
+        "13.4961219"
+      ]
+    }
+  ],
+  "Washingtonplatz": [
+    {
+      "place_id": 192581,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 895946502,
+      "lat": "52.52338865",
+      "lon": "13.369330125697026",
+      "class": "place",
+      "type": "square",
+      "place_rank": 25,
+      "importance": 0.06667666666666666,
+      "addresstype": "square",
+      "name": "Washingtonplatz",
+      "display_name": "Washingtonplatz, Europacity, Moabit, Mitte, Berlin, Brandenburg, 10557, Deutschland",
+      "boundingbox": [
+        "52.5226104",
+        "52.5241697",
+        "13.3682689",
+        "13.3706668"
+      ]
+    },
+    {
+      "place_id": 191953,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 538207813,
+      "lat": "52.52392383074786",
+      "lon": "13.37022282904614",
+      "class": "highway",
+      "type": "footway",
+      "place_rank": 27,
+      "importance": 0.04000999999999999,
+      "addresstype": "road",
+      "name": "Washingtonplatz",
+      "display_name": "Washingtonplatz, Europacity, Moabit, Mitte, Berlin, Brandenburg, 10557, Deutschland",
+      "boundingbox": [
+        "52.5234760",
+        "52.5243669",
+        "13.3699107",
+        "13.3705280"
+      ]
+    },
+    {
+      "place_id": 187194,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 108457449,
+      "lat": "52.52419671258362",
+      "lon": "13.369463399137516",
+      "class": "highway",
+      "type": "service",
+      "place_rank": 27,
+      "importance": 0.04000999999999999,
+      "addresstype": "road",
+      "name": "Washingtonplatz",
+      "display_name": "Washingtonplatz, Europacity, Moabit, Mitte, Berlin, Brandenburg, 10557, Deutschland",
+      "boundingbox": [
+        "52.5241964",
+        "52.5241978",
+        "13.3682060",
+        "13.3707208"
+      ]
+    }
+  ],
+  "Reichenberger Str. 18 10999": [
+    {
+      "place_id": 622779,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 1246211688,
+      "lat": "52.498521",
+      "lon": "13.4194466",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "18, Reichenberger Straße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10999, Deutschland",
+      "boundingbox": [
+        "52.4984710",
+        "52.4985710",
+        "13.4193966",
+        "13.4194966"
+      ]
+    }
+  ],
+  "Kurfürstendamm 188 10707": [
+    {
+      "place_id": 202857,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 2473755648,
+      "lat": "52.5008557",
+      "lon": "13.3163895",
+      "class": "amenity",
+      "type": "social_centre",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "amenity",
+      "name": "TDF - The Document Foundation LibreOffice.org",
+      "display_name": "TDF - The Document Foundation LibreOffice.org, 188, Kurfürstendamm, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, Brandenburg, 10707, Deutschland",
+      "boundingbox": [
+        "52.5008057",
+        "52.5009057",
+        "13.3163395",
+        "13.3164395"
+      ]
+    },
+    {
+      "place_id": 205376,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 3451078453,
+      "lat": "52.5008731",
+      "lon": "13.3164631",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "188, Kurfürstendamm, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, Brandenburg, 10707, Deutschland",
+      "boundingbox": [
+        "52.5008231",
+        "52.5009231",
+        "13.3164131",
+        "13.3165131"
+      ]
+    }
+  ],
+  "Reuterplatz": [
+    {
+      "place_id": 616215,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 26828930,
+      "lat": "52.488990799999996",
+      "lon": "13.42959657233412",
+      "class": "leisure",
+      "type": "park",
+      "place_rank": 24,
+      "importance": 0.08000999999999997,
+      "addresstype": "park",
+      "name": "Reuterplatz",
+      "display_name": "Reuterplatz, Reuterkiez, Neukölln, Berlin, Brandenburg, 12047, Deutschland",
+      "boundingbox": [
+        "52.4882537",
+        "52.4897934",
+        "13.4290342",
+        "13.4303925"
+      ]
+    },
+    {
+      "place_id": 617866,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 4686469,
+      "lat": "52.48961063534098",
+      "lon": "13.4297766870734",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Reuterplatz",
+      "display_name": "Reuterplatz, Reuterkiez, Neukölln, Berlin, Brandenburg, 12047, Deutschland",
+      "boundingbox": [
+        "52.4893360",
+        "52.4898763",
+        "13.4290208",
+        "13.4305295"
+      ]
+    }
+  ],
+  "Weitlingstr.": [
+    {
+      "place_id": 250845,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 150429098,
+      "lat": "52.507331725788454",
+      "lon": "13.49666774170469",
+      "class": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Weitlingstraße",
+      "display_name": "Weitlingstraße, Weitlingkiez, Rummelsburg, Lichtenberg, Berlin, Brandenburg, 10317, Deutschland",
+      "boundingbox": [
+        "52.5059659",
+        "52.5086948",
+        "13.4958770",
+        "13.4974630"
+      ]
+    }
+  ],
+  "Alte Jakobstr.": [
+    {
+      "place_id": 234915,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 206718346,
+      "lat": "52.5097710229803",
+      "lon": "13.407574974467368",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Alte Jakobstraße",
+      "display_name": "Alte Jakobstraße, Luisenstadt, Mitte, Berlin, Brandenburg, 10179, Deutschland",
+      "boundingbox": [
+        "52.5083200",
+        "52.5105999",
+        "13.4052913",
+        "13.4101058"
+      ]
+    },
+    {
+      "place_id": 212861,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1036530810,
+      "lat": "52.50310035163612",
+      "lon": "13.398610949410115",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Alte Jakobstraße",
+      "display_name": "Alte Jakobstraße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10969, Deutschland",
+      "boundingbox": [
+        "52.5015100",
+        "52.5046896",
+        "13.3977435",
+        "13.3994804"
+      ]
+    },
+    {
+      "place_id": 212203,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 24214283,
+      "lat": "52.508042115700135",
+      "lon": "13.40479619023192",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Alte Jakobstraße",
+      "display_name": "Alte Jakobstraße, Luisenstadt, Mitte, Berlin, Brandenburg, 10969, Deutschland",
+      "boundingbox": [
+        "52.5078654",
+        "52.5082197",
+        "13.4044794",
+        "13.4051125"
+      ]
+    },
+    {
+      "place_id": 215512,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 4675226,
+      "lat": "52.50347372663534",
+      "lon": "13.397869994031295",
+      "class": "highway",
+      "type": "service",
+      "place_rank": 27,
+      "importance": 0.04000999999999999,
+      "addresstype": "road",
+      "name": "Alte Jakobstraße",
+      "display_name": "Alte Jakobstraße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10969, Deutschland",
+      "boundingbox": [
+        "52.5032620",
+        "52.5036855",
+        "13.3970413",
+        "13.3986987"
+      ]
+    }
+  ],
+  "Unter den Linden 4": [
+    {
+      "place_id": 229976,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 24240381,
+      "lat": "52.51790455",
+      "lon": "13.395537065063955",
+      "class": "tourism",
+      "type": "attraction",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "tourism",
+      "name": "Neue Wache",
+      "display_name": "Neue Wache, 4, Unter den Linden, Friedrichswerder, Mitte, Berlin, Brandenburg, 10117, Deutschland",
+      "boundingbox": [
+        "52.5177532",
+        "52.5180256",
+        "13.3953358",
+        "13.3957362"
+      ]
+    },
+    {
+      "place_id": 224467,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 262455810,
+      "lat": "52.5178828",
+      "lon": "13.3955447",
+      "class": "historic",
+      "type": "memorial",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "historic",
+      "name": "Zentrale Gedenkstätte für die Opfer von Krieg und Gewaltherrschaft",
+      "display_name": "Zentrale Gedenkstätte für die Opfer von Krieg und Gewaltherrschaft, 4, Unter den Linden, Friedrichswerder, Mitte, Berlin, Brandenburg, 10117, Deutschland",
+      "boundingbox": [
+        "52.5178328",
+        "52.5179328",
+        "13.3954947",
+        "13.3955947"
+      ]
+    },
+    {
+      "place_id": 224600,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 5253735916,
+      "lat": "52.5179462",
+      "lon": "13.3955308",
+      "class": "tourism",
+      "type": "artwork",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "tourism",
+      "name": "Mutter mit totem Sohn",
+      "display_name": "Mutter mit totem Sohn, 4, Unter den Linden, Friedrichswerder, Mitte, Berlin, Brandenburg, 10117, Deutschland",
+      "boundingbox": [
+        "52.5178962",
+        "52.5179962",
+        "13.3954808",
+        "13.3955808"
+      ]
+    },
+    {
+      "place_id": 229028,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 12070800416,
+      "lat": "52.5178042",
+      "lon": "13.3955219",
+      "class": "historic",
+      "type": "memorial",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "historic",
+      "name": "Neue Wache",
+      "display_name": "Neue Wache, 4, Unter den Linden, Friedrichswerder, Mitte, Berlin, Brandenburg, 10117, Deutschland",
+      "boundingbox": [
+        "52.5177542",
+        "52.5178542",
+        "13.3954719",
+        "13.3955719"
+      ]
+    }
+  ],
+  "Fritz-Lang-Platz 12627": [
+    {
+      "place_id": 425652,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 43998936,
+      "lat": "52.53760825",
+      "lon": "13.602760647560736",
+      "class": "place",
+      "type": "square",
+      "place_rank": 25,
+      "importance": 0.06667666666666666,
+      "addresstype": "square",
+      "name": "Fritz-Lang-Platz",
+      "display_name": "Fritz-Lang-Platz, Helle Mitte, Hellersdorf, Marzahn-Hellersdorf, Berlin, Brandenburg, 12627, Deutschland",
+      "boundingbox": [
+        "52.5373642",
+        "52.5378726",
+        "13.6023651",
+        "13.6031789"
+      ]
+    }
+  ],
+  "U-Bahnhof Lichtenberg": [
+    {
+      "place_id": 589015,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 1318189943,
+      "lat": "52.4974893",
+      "lon": "13.5229277",
+      "class": "amenity",
+      "type": "taxi",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "amenity",
+      "name": "U-Bahnhof Tierpark / Otto-Schmirgal-Straße",
+      "display_name": "U-Bahnhof Tierpark / Otto-Schmirgal-Straße, Otto-Schmirgal-Straße, Sewan-Viertel, Friedrichsfelde, Lichtenberg, Berlin, Brandenburg, 10319, Deutschland",
+      "boundingbox": [
+        "52.4974393",
+        "52.4975393",
+        "13.5228777",
+        "13.5229777"
+      ]
+    }
+  ],
+  "Ritterstr.": [
+    {
+      "place_id": 697044,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 148295054,
+      "lat": "52.432600024626744",
+      "lon": "13.321407907324618",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Ritterstraße",
+      "display_name": "Ritterstraße, Lichterfelde Ost, Lichterfelde, Steglitz-Zehlendorf, Berlin, Brandenburg, 12207, Deutschland",
+      "boundingbox": [
+        "52.4319033",
+        "52.4333334",
+        "13.3192957",
+        "13.3235261"
+      ]
+    },
+    {
+      "place_id": 234862,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 4887461,
+      "lat": "52.50098889153136",
+      "lon": "13.411789013671308",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Ritterstraße",
+      "display_name": "Ritterstraße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10969, Deutschland",
+      "boundingbox": [
+        "52.5003446",
+        "52.5016433",
+        "13.4095868",
+        "13.4139942"
+      ]
+    },
+    {
+      "place_id": 122674,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 24029952,
+      "lat": "52.538259371372895",
+      "lon": "13.20379921952832",
+      "class": "highway",
+      "type": "pedestrian",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Ritterstraße",
+      "display_name": "Ritterstraße, Spandau, Berlin, Brandenburg, 13597, Deutschland",
+      "boundingbox": [
+        "52.5380715",
+        "52.5384524",
+        "13.2031591",
+        "13.2044407"
+      ]
+    },
+    {
+      "place_id": 120386,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 24029936,
+      "lat": "52.53855465",
+      "lon": "13.202733649999999",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Ritterstraße",
+      "display_name": "Ritterstraße, Spandau, Berlin, Brandenburg, 13597, Deutschland",
+      "boundingbox": [
+        "52.5384266",
+        "52.5386827",
+        "13.2023475",
+        "13.2031198"
+      ]
+    }
+  ],
+  "Friedrichstraße": [
+    {
+      "place_id": 536300,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 283006412,
+      "lat": "52.452956862397556",
+      "lon": "13.624976661836996",
+      "class": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Bölschestraße",
+      "display_name": "Bölschestraße, Friedrichshagen, Treptow-Köpenick, Berlin, Brandenburg, 12587, Deutschland",
+      "boundingbox": [
+        "52.4523523",
+        "52.4535614",
+        "13.6249029",
+        "13.6250510"
+      ]
+    },
+    {
+      "place_id": 461388,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 223288636,
+      "lat": "52.50736108342229",
+      "lon": "13.513630270721599",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Massower Straße",
+      "display_name": "Massower Straße, Friedrichsfelde, Lichtenberg, Berlin, Brandenburg, 10315, Deutschland",
+      "boundingbox": [
+        "52.5072228",
+        "52.5074924",
+        "13.5122128",
+        "13.5150484"
+      ]
+    },
+    {
+      "place_id": 459627,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1299955037,
+      "lat": "52.50783425",
+      "lon": "13.5171256",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Massower Straße",
+      "display_name": "Massower Straße, Reihenhäuser Kalinka, Friedrichsfelde, Lichtenberg, Berlin, Brandenburg, 10315, Deutschland",
+      "boundingbox": [
+        "52.5077077",
+        "52.5079608",
+        "13.5165084",
+        "13.5177428"
+      ]
+    },
+    {
+      "place_id": 445783,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 30041990,
+      "lat": "52.516108071125586",
+      "lon": "13.550203247603555",
+      "class": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Bentschener Weg",
+      "display_name": "Bentschener Weg, Getreideviertel, Biesdorf, Marzahn-Hellersdorf, Berlin, Brandenburg, 12683, Deutschland",
+      "boundingbox": [
+        "52.5157143",
+        "52.5165019",
+        "13.5454529",
+        "13.5549536"
+      ]
+    },
+    {
+      "place_id": 456067,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 30041991,
+      "lat": "52.51651505",
+      "lon": "13.5453959",
+      "class": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Bentschener Weg",
+      "display_name": "Bentschener Weg, Marzahn, Marzahn-Hellersdorf, Berlin, Brandenburg, 12683, Deutschland",
+      "boundingbox": [
+        "52.5165019",
+        "52.5165282",
+        "13.5453389",
+        "13.5454529"
+      ]
+    }
+  ],
+  "Bernauer Str.  -> Strecke folgt": [],
+  "Friedrichstr. 176-179": [
+    {
+      "place_id": 214164,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 418132479,
+      "lat": "52.513414600000004",
+      "lon": "13.388486919289768",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "176–179, Friedrichstraße, Dorotheenstadt, Mitte, Berlin, Brandenburg, 10117, Deutschland",
+      "boundingbox": [
+        "52.5130172",
+        "52.5137681",
+        "13.3876874",
+        "13.3892888"
+      ]
+    },
+    {
+      "place_id": 218267,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 6787348971,
+      "lat": "52.5132111",
+      "lon": "13.3892407",
+      "class": "shop",
+      "type": "books",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "shop",
+      "name": "Mnogoknig",
+      "display_name": "Mnogoknig, 176-179, Friedrichstraße, Dorotheenstadt, Mitte, Berlin, Brandenburg, 10117, Deutschland",
+      "boundingbox": [
+        "52.5131611",
+        "52.5132611",
+        "13.3891907",
+        "13.3892907"
+      ]
+    }
+  ],
+  "Carl-Schurz-Str. / Mauerstr. 13597": [],
+  "Leipziger Str. 58 10117": [
+    {
+      "place_id": 211158,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 9272559917,
+      "lat": "52.511292",
+      "lon": "13.3972908",
+      "class": "shop",
+      "type": "tailor",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "shop",
+      "name": "Hauptstadtschneiderei",
+      "display_name": "Hauptstadtschneiderei, 58, Leipziger Straße, Friedrichswerder, Mitte, Berlin, Brandenburg, 10117, Deutschland",
+      "boundingbox": [
+        "52.5112420",
+        "52.5113420",
+        "13.3972408",
+        "13.3973408"
+      ]
+    },
+    {
+      "place_id": 212241,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 9718007741,
+      "lat": "52.5112725",
+      "lon": "13.3969943",
+      "class": "shop",
+      "type": "clothes",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "shop",
+      "name": "crusz",
+      "display_name": "crusz, 58, Leipziger Straße, Friedrichswerder, Mitte, Berlin, Brandenburg, 10117, Deutschland",
+      "boundingbox": [
+        "52.5112225",
+        "52.5113225",
+        "13.3969443",
+        "13.3970443"
+      ]
+    },
+    {
+      "place_id": 214863,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 3213617609,
+      "lat": "52.511402",
+      "lon": "13.3972981",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "58, Leipziger Straße, Friedrichswerder, Mitte, Berlin, Brandenburg, 10117, Deutschland",
+      "boundingbox": [
+        "52.5113520",
+        "52.5114520",
+        "13.3972481",
+        "13.3973481"
+      ]
+    }
+  ],
+  "Pariser Platz 2": [
+    {
+      "place_id": 217267,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 195257482,
+      "lat": "52.515292",
+      "lon": "13.378167057944445",
+      "class": "office",
+      "type": "diplomatic",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "office",
+      "name": "Botschaft der Vereinigten Staaten von Amerika",
+      "display_name": "Botschaft der Vereinigten Staaten von Amerika, 2, Pariser Platz, Dorotheenstadt, Mitte, Berlin, Brandenburg, 10117, Deutschland",
+      "boundingbox": [
+        "52.5148228",
+        "52.5157850",
+        "13.3778924",
+        "13.3788279"
+      ]
+    },
+    {
+      "place_id": 217387,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 2435128885,
+      "lat": "52.5157293",
+      "lon": "13.3782246",
+      "class": "shop",
+      "type": "gift",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "shop",
+      "name": "",
+      "display_name": "2, Pariser Platz, Dorotheenstadt, Mitte, Berlin, Brandenburg, 10117, Deutschland",
+      "boundingbox": [
+        "52.5156793",
+        "52.5157793",
+        "13.3781746",
+        "13.3782746"
+      ]
+    },
+    {
+      "place_id": 220348,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 437368383,
+      "lat": "52.5157357",
+      "lon": "13.3783967",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "2, Pariser Platz, Dorotheenstadt, Mitte, Berlin, Brandenburg, 10117, Deutschland",
+      "boundingbox": [
+        "52.5156857",
+        "52.5157857",
+        "13.3783467",
+        "13.3784467"
+      ]
+    }
+  ],
+  "Nettelbeckplatz 13347": [
+    {
+      "place_id": 183825,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 4717544,
+      "lat": "52.54471345",
+      "lon": "13.3693714060704",
+      "class": "highway",
+      "type": "pedestrian",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Nettelbeckplatz",
+      "display_name": "Nettelbeckplatz, Maxgärten, Wedding, Mitte, Berlin, Brandenburg, 13347, Deutschland",
+      "boundingbox": [
+        "52.5441022",
+        "52.5453159",
+        "13.3681144",
+        "13.3701437"
+      ]
+    },
+    {
+      "place_id": 184037,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 28245445,
+      "lat": "52.54444808677884",
+      "lon": "13.368912473218721",
+      "class": "highway",
+      "type": "pedestrian",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Nettelbeckplatz",
+      "display_name": "Nettelbeckplatz, Maxgärten, Wedding, Mitte, Berlin, Brandenburg, 13347, Deutschland",
+      "boundingbox": [
+        "52.5440630",
+        "52.5448403",
+        "13.3681895",
+        "13.3696392"
+      ]
+    },
+    {
+      "place_id": 184006,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 7193311437,
+      "lat": "52.5442138",
+      "lon": "13.3693945",
+      "class": "amenity",
+      "type": "bicycle_rental",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "amenity",
+      "name": "Nettelbeckplatz",
+      "display_name": "Nettelbeckplatz, Maxgärten, Wedding, Mitte, Berlin, Brandenburg, 13347, Deutschland",
+      "boundingbox": [
+        "52.5441638",
+        "52.5442638",
+        "13.3693445",
+        "13.3694445"
+      ]
+    }
+  ],
+  "Blücherstr.": [
+    {
+      "place_id": 621610,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 4619363,
+      "lat": "52.49603757638063",
+      "lon": "13.392419653284547",
+      "class": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Blücherstraße",
+      "display_name": "Blücherstraße, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10961, Deutschland",
+      "boundingbox": [
+        "52.4958676",
+        "52.4961824",
+        "13.3898467",
+        "13.3949946"
+      ]
+    },
+    {
+      "place_id": 621032,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 4675342,
+      "lat": "52.49386958281302",
+      "lon": "13.399973227919748",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Blücherstraße",
+      "display_name": "Blücherstraße, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10961, Deutschland",
+      "boundingbox": [
+        "52.4937107",
+        "52.4940192",
+        "13.3997872",
+        "13.4001495"
+      ]
+    }
+  ],
+  "Ebertstraße": [
+    {
+      "place_id": 215313,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 36259518,
+      "lat": "52.51148346061453",
+      "lon": "13.376998557963992",
+      "class": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Ebertstraße",
+      "display_name": "Ebertstraße, Mitte, Berlin, Brandenburg, 10117, Deutschland",
+      "boundingbox": [
+        "52.5107667",
+        "52.5121999",
+        "13.3768440",
+        "13.3771546"
+      ]
+    },
+    {
+      "place_id": 217382,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 154041909,
+      "lat": "52.51582808404627",
+      "lon": "13.377228397560085",
+      "class": "highway",
+      "type": "primary",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Ebertstraße",
+      "display_name": "Ebertstraße, Mitte, Berlin, Brandenburg, 10117, Deutschland",
+      "boundingbox": [
+        "52.5154604",
+        "52.5160295",
+        "13.3767951",
+        "13.3774648"
+      ]
+    },
+    {
+      "place_id": 214093,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 48859718,
+      "lat": "52.51054960350272",
+      "lon": "13.376653937034678",
+      "class": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Ebertstraße",
+      "display_name": "Ebertstraße, Tiergarten, Mitte, Berlin, Brandenburg, 10117, Deutschland",
+      "boundingbox": [
+        "52.5100977",
+        "52.5110008",
+        "13.3765597",
+        "13.3767517"
+      ]
+    }
+  ],
+  "Unter den Linden/ Friedrichstr. 10117": [
+    {
+      "place_id": 218828,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 881245035,
+      "lat": "52.5164734",
+      "lon": "13.389002013634213",
+      "class": "railway",
+      "type": "platform",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "railway",
+      "name": "Unter den Linden",
+      "display_name": "Unter den Linden, Friedrichstraße, Dorotheenstadt, Mitte, Berlin, Brandenburg, 10117, Deutschland",
+      "boundingbox": [
+        "52.5160503",
+        "52.5172182",
+        "13.3888355",
+        "13.3894195"
+      ]
+    },
+    {
+      "place_id": 214987,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 18138762,
+      "lat": "52.5169612",
+      "lon": "13.389081358088756",
+      "class": "railway",
+      "type": "platform",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "railway",
+      "name": "Unter den Linden",
+      "display_name": "Unter den Linden, Friedrichstraße, Dorotheenstadt, Mitte, Berlin, Brandenburg, 10117, Deutschland",
+      "boundingbox": [
+        "52.5168504",
+        "52.5170728",
+        "13.3881871",
+        "13.3899754"
+      ]
+    },
+    {
+      "place_id": 218840,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 8170768521,
+      "lat": "52.5169884",
+      "lon": "13.38882",
+      "class": "railway",
+      "type": "station",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "railway",
+      "name": "Unter den Linden",
+      "display_name": "Unter den Linden, Friedrichstraße, Dorotheenstadt, Mitte, Berlin, Brandenburg, 10117, Deutschland",
+      "boundingbox": [
+        "52.5119884",
+        "52.5219884",
+        "13.3838200",
+        "13.3938200"
+      ]
+    },
+    {
+      "place_id": 218894,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 8170794617,
+      "lat": "52.5171202",
+      "lon": "13.3888154",
+      "class": "railway",
+      "type": "stop",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "railway",
+      "name": "Unter den Linden",
+      "display_name": "Unter den Linden, Friedrichstraße, Dorotheenstadt, Mitte, Berlin, Brandenburg, 10117, Deutschland",
+      "boundingbox": [
+        "52.5170702",
+        "52.5171702",
+        "13.3887654",
+        "13.3888654"
+      ]
+    },
+    {
+      "place_id": 216418,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 8196202085,
+      "lat": "52.5159589",
+      "lon": "13.3890891",
+      "class": "railway",
+      "type": "subway_entrance",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "railway",
+      "name": "Unter den Linden",
+      "display_name": "Unter den Linden, Friedrichstraße, Dorotheenstadt, Mitte, Berlin, Brandenburg, 10117, Deutschland",
+      "boundingbox": [
+        "52.5159089",
+        "52.5160089",
+        "13.3890391",
+        "13.3891391"
+      ]
+    }
+  ],
+  "Werderscher Markt 1": [
+    {
+      "place_id": 215451,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 187955354,
+      "lat": "52.51398065",
+      "lon": "13.399849430646011",
+      "class": "office",
+      "type": "government",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "office",
+      "name": "Auswärtiges Amt",
+      "display_name": "Auswärtiges Amt, 1, Werderscher Markt, Friedrichswerder, Mitte, Berlin, Brandenburg, 10117, Deutschland",
+      "boundingbox": [
+        "52.5123334",
+        "52.5156857",
+        "13.3980792",
+        "13.4022215"
+      ]
+    },
+    {
+      "place_id": 218397,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 15933949,
+      "lat": "52.515152549999996",
+      "lon": "13.399063686877337",
+      "class": "building",
+      "type": "public",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "building",
+      "name": "Neubau des Auswärtigen Amtes",
+      "display_name": "Neubau des Auswärtigen Amtes, 1, Werderscher Markt, Friedrichswerder, Mitte, Berlin, Brandenburg, 10117, Deutschland",
+      "boundingbox": [
+        "52.5146646",
+        "52.5156857",
+        "13.3980792",
+        "13.4000219"
+      ]
+    },
+    {
+      "place_id": 226274,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 24044937,
+      "lat": "52.51588525",
+      "lon": "13.397500586881232",
+      "class": "building",
+      "type": "church",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "building",
+      "name": "Friedrichswerdersche Kirche",
+      "display_name": "Friedrichswerdersche Kirche, 1, Werderscher Markt, Friedrichswerder, Mitte, Berlin, Brandenburg, 10117, Deutschland",
+      "boundingbox": [
+        "52.5155970",
+        "52.5161717",
+        "13.3972374",
+        "13.3978071"
+      ]
+    },
+    {
+      "place_id": 226849,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 9277014760,
+      "lat": "52.5158884",
+      "lon": "13.3975159",
+      "class": "tourism",
+      "type": "museum",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "tourism",
+      "name": "Friedrichswerdersche Kirche",
+      "display_name": "Friedrichswerdersche Kirche, 1, Werderscher Markt, Friedrichswerder, Mitte, Berlin, Brandenburg, 10117, Deutschland",
+      "boundingbox": [
+        "52.5158384",
+        "52.5159384",
+        "13.3974659",
+        "13.3975659"
+      ]
+    },
+    {
+      "place_id": 216947,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 4945711439,
+      "lat": "52.5137708",
+      "lon": "13.4008245",
+      "class": "tourism",
+      "type": "artwork",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "tourism",
+      "name": "",
+      "display_name": "1, Werderscher Markt, Friedrichswerder, Mitte, Berlin, Brandenburg, 10117, Deutschland",
+      "boundingbox": [
+        "52.5137208",
+        "52.5138208",
+        "13.4007745",
+        "13.4008745"
+      ]
+    },
+    {
+      "place_id": 216968,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 305259644,
+      "lat": "52.5152592",
+      "lon": "13.3983179",
+      "class": "amenity",
+      "type": "cafe",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "amenity",
+      "name": "The Coffee Shop",
+      "display_name": "The Coffee Shop, 1, Werderscher Markt, Friedrichswerder, Mitte, Berlin, Brandenburg, 10117, Deutschland",
+      "boundingbox": [
+        "52.5152092",
+        "52.5153092",
+        "13.3982679",
+        "13.3983679"
+      ]
+    },
+    {
+      "place_id": 218402,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 5413733692,
+      "lat": "52.5153849",
+      "lon": "13.3985096",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "1, Werderscher Markt, Friedrichswerder, Mitte, Berlin, Brandenburg, 10117, Deutschland",
+      "boundingbox": [
+        "52.5153349",
+        "52.5154349",
+        "13.3984596",
+        "13.3985596"
+      ]
+    }
+  ],
+  "Grunowstraße 8-11 beim Sozialpsychiatrischen Dienst Pankow": [],
+  "Unter den Linden 63 10117": [
+    {
+      "place_id": 216321,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 2264259958,
+      "lat": "52.5161182",
+      "lon": "13.3836783",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "63, Unter den Linden, Dorotheenstadt, Mitte, Berlin, Brandenburg, 10117, Deutschland",
+      "boundingbox": [
+        "52.5160682",
+        "52.5161682",
+        "13.3836283",
+        "13.3837283"
+      ]
+    }
+  ],
+  "Hauptstr. 4G 10317": [
+    {
+      "place_id": 584764,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 3060867487,
+      "lat": "52.4999751",
+      "lon": "13.4755881",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "4G, Hauptstraße, Rummelsburger Ufer, Rummelsburg, Lichtenberg, Berlin, Brandenburg, 10317, Deutschland",
+      "boundingbox": [
+        "52.4999251",
+        "52.5000251",
+        "13.4755381",
+        "13.4756381"
+      ]
+    }
+  ],
+  "Straßburger Str. 9A 10405": [
+    {
+      "place_id": 227283,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 4015403313,
+      "lat": "52.5292054",
+      "lon": "13.4139963",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "9A, Straßburger Straße, Prenzlauer Berg, Pankow, Berlin, Brandenburg, 10405, Deutschland",
+      "boundingbox": [
+        "52.5291554",
+        "52.5292554",
+        "13.4139463",
+        "13.4140463"
+      ]
+    }
+  ],
+  "Rubensstr. 125 12157": [
+    {
+      "place_id": 751443,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 5838400931,
+      "lat": "52.4631832",
+      "lon": "13.3453091",
+      "class": "amenity",
+      "type": "post_box",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "amenity",
+      "name": "Rubensstr. 121-125, 12157 Berlin",
+      "display_name": "Rubensstr. 121-125, 12157 Berlin, 125, Rubensstraße, Schöneberg, Tempelhof-Schöneberg, Berlin, Brandenburg, 12157, Deutschland",
+      "boundingbox": [
+        "52.4631332",
+        "52.4632332",
+        "13.3452591",
+        "13.3453591"
+      ]
+    },
+    {
+      "place_id": 743835,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 32424425,
+      "lat": "52.46243245",
+      "lon": "13.346390725677328",
+      "class": "amenity",
+      "type": "hospital",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "amenity",
+      "name": "Auguste-Viktoria-Klinikum",
+      "display_name": "Auguste-Viktoria-Klinikum, 125, Rubensstraße, Schöneberg, Tempelhof-Schöneberg, Berlin, Brandenburg, 12157, Deutschland",
+      "boundingbox": [
+        "52.4592514",
+        "52.4649028",
+        "13.3447806",
+        "13.3483197"
+      ]
+    },
+    {
+      "place_id": 751447,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 364837185,
+      "lat": "52.4631644",
+      "lon": "13.3449283",
+      "class": "information",
+      "type": "office",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "information",
+      "name": "Pforte und Auskunft",
+      "display_name": "Pforte und Auskunft, 125, Rubensstraße, Schöneberg, Tempelhof-Schöneberg, Berlin, Brandenburg, 12157, Deutschland",
+      "boundingbox": [
+        "52.4631144",
+        "52.4632144",
+        "13.3448783",
+        "13.3449783"
+      ]
+    },
+    {
+      "place_id": 757612,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 408882243,
+      "lat": "52.463338",
+      "lon": "13.3475532",
+      "class": "information",
+      "type": "map",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "information",
+      "name": "",
+      "display_name": "125, Rubensstraße, Schöneberg, Tempelhof-Schöneberg, Berlin, Brandenburg, 12157, Deutschland",
+      "boundingbox": [
+        "52.4632880",
+        "52.4633880",
+        "13.3475032",
+        "13.3476032"
+      ]
+    },
+    {
+      "place_id": 757630,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 5844370514,
+      "lat": "52.4634915",
+      "lon": "13.3458114",
+      "class": "amenity",
+      "type": "bench",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "amenity",
+      "name": "",
+      "display_name": "125, Rubensstraße, Schöneberg, Tempelhof-Schöneberg, Berlin, Brandenburg, 12157, Deutschland",
+      "boundingbox": [
+        "52.4634415",
+        "52.4635415",
+        "13.3457614",
+        "13.3458614"
+      ]
+    },
+    {
+      "place_id": 762762,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 10212290768,
+      "lat": "52.463844",
+      "lon": "13.3475494",
+      "class": "amenity",
+      "type": "parking",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "amenity",
+      "name": "",
+      "display_name": "125, Rubensstraße, Schöneberg, Tempelhof-Schöneberg, Berlin, Brandenburg, 12157, Deutschland",
+      "boundingbox": [
+        "52.4637940",
+        "52.4638940",
+        "13.3474994",
+        "13.3475994"
+      ]
+    },
+    {
+      "place_id": 762798,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 3812670240,
+      "lat": "52.4643053",
+      "lon": "13.3461441",
+      "class": "tourism",
+      "type": "artwork",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "tourism",
+      "name": "Skulpturengarten im AVK",
+      "display_name": "Skulpturengarten im AVK, 125, Rubensstraße, Schöneberg, Tempelhof-Schöneberg, Berlin, Brandenburg, 12157, Deutschland",
+      "boundingbox": [
+        "52.4642553",
+        "52.4643553",
+        "13.3460941",
+        "13.3461941"
+      ]
+    },
+    {
+      "place_id": 760111,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 5838369566,
+      "lat": "52.4602755",
+      "lon": "13.347826",
+      "class": "amenity",
+      "type": "library",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "amenity",
+      "name": "Patientenbibliothek",
+      "display_name": "Patientenbibliothek, 125, Rubensstraße, Bismarckviertel, Schöneberg, Tempelhof-Schöneberg, Berlin, Brandenburg, 12157, Deutschland",
+      "boundingbox": [
+        "52.4602255",
+        "52.4603255",
+        "13.3477760",
+        "13.3478760"
+      ]
+    },
+    {
+      "place_id": 761888,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 11453236120,
+      "lat": "52.461235",
+      "lon": "13.3479699",
+      "class": "emergency",
+      "type": "emergency_ward_entrance",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "emergency",
+      "name": "Notaufnahme",
+      "display_name": "Notaufnahme, 125, Rubensstraße, Bismarckviertel, Schöneberg, Tempelhof-Schöneberg, Berlin, Brandenburg, 12157, Deutschland",
+      "boundingbox": [
+        "52.4611850",
+        "52.4612850",
+        "13.3479199",
+        "13.3480199"
+      ]
+    },
+    {
+      "place_id": 762751,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 5838364400,
+      "lat": "52.462889",
+      "lon": "13.3449048",
+      "class": "shop",
+      "type": "florist",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "shop",
+      "name": "Blumenzauber",
+      "display_name": "Blumenzauber, 125, Rubensstraße, Schöneberg, Tempelhof-Schöneberg, Berlin, Brandenburg, 12157, Deutschland",
+      "boundingbox": [
+        "52.4628390",
+        "52.4629390",
+        "13.3448548",
+        "13.3449548"
+      ]
+    }
+  ],
+  "Platz der Republik": [
+    {
+      "place_id": 186648,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 499593498,
+      "lat": "52.51867525",
+      "lon": "13.373124868231805",
+      "class": "place",
+      "type": "square",
+      "place_rank": 25,
+      "importance": 0.06667666666666666,
+      "addresstype": "square",
+      "name": "Platz der Republik",
+      "display_name": "Platz der Republik, Tiergarten, Mitte, Berlin, Brandenburg, 10557, Deutschland",
+      "boundingbox": [
+        "52.5179162",
+        "52.5192754",
+        "13.3710272",
+        "13.3752218"
+      ]
+    },
+    {
+      "place_id": 523594,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 624018300,
+      "lat": "52.377652",
+      "lon": "13.625126566119954",
+      "class": "place",
+      "type": "square",
+      "place_rank": 25,
+      "importance": 0.06667666666666666,
+      "addresstype": "square",
+      "name": "Platz der Republik",
+      "display_name": "Platz der Republik, Eichwalde, Deutschland",
+      "boundingbox": [
+        "52.3773503",
+        "52.3779285",
+        "13.6246537",
+        "13.6255987"
+      ]
+    },
+    {
+      "place_id": 214546,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1304568760,
+      "lat": "52.51914752429809",
+      "lon": "13.375088243914522",
+      "class": "highway",
+      "type": "construction",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Platz der Republik",
+      "display_name": "Platz der Republik, Tiergarten, Mitte, Berlin, Brandenburg, 10557, Deutschland",
+      "boundingbox": [
+        "52.5188747",
+        "52.5193998",
+        "13.3749585",
+        "13.3751639"
+      ]
+    },
+    {
+      "place_id": 215789,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 92437984,
+      "lat": "52.51828564720256",
+      "lon": "13.375151241957044",
+      "class": "highway",
+      "type": "service",
+      "place_rank": 27,
+      "importance": 0.04000999999999999,
+      "addresstype": "road",
+      "name": "Platz der Republik",
+      "display_name": "Platz der Republik, Tiergarten, Mitte, Berlin, Brandenburg, 10557, Deutschland",
+      "boundingbox": [
+        "52.5177644",
+        "52.5188747",
+        "13.3748910",
+        "13.3751703"
+      ]
+    },
+    {
+      "place_id": 191670,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1305202413,
+      "lat": "52.51755715",
+      "lon": "13.3696688",
+      "class": "highway",
+      "type": "platform",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "highway",
+      "name": "Platz der Republik",
+      "display_name": "Platz der Republik, John-Foster-Dulles-Allee, Tiergarten, Mitte, Berlin, Brandenburg, 10557, Deutschland",
+      "boundingbox": [
+        "52.5175131",
+        "52.5176012",
+        "13.3695953",
+        "13.3697423"
+      ]
+    },
+    {
+      "place_id": 187969,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 420250518,
+      "lat": "52.5178338",
+      "lon": "13.3702589",
+      "class": "highway",
+      "type": "bus_stop",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "highway",
+      "name": "Platz der Republik",
+      "display_name": "Platz der Republik, John-Foster-Dulles-Allee, Tiergarten, Mitte, Berlin, Brandenburg, 10557, Deutschland",
+      "boundingbox": [
+        "52.5177838",
+        "52.5178838",
+        "13.3702089",
+        "13.3703089"
+      ]
+    }
+  ],
+  "Niederlagstr.": [
+    {
+      "place_id": 224933,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 4611693,
+      "lat": "52.51612909711258",
+      "lon": "13.397680510938047",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Niederlagstraße",
+      "display_name": "Niederlagstraße, Friedrichswerder, Mitte, Berlin, Brandenburg, 10117, Deutschland",
+      "boundingbox": [
+        "52.5154322",
+        "52.5169080",
+        "13.3975411",
+        "13.3980292"
+      ]
+    }
+  ],
+  "Neustädtische Kirchstr. 10117": [
+    {
+      "place_id": 221936,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 292429063,
+      "lat": "52.519601714225935",
+      "lon": "13.385299925329889",
+      "class": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Neustädtische Kirchstraße",
+      "display_name": "Neustädtische Kirchstraße, Dorotheenstadt, Mitte, Berlin, Brandenburg, 10117, Deutschland",
+      "boundingbox": [
+        "52.5191014",
+        "52.5200994",
+        "13.3851922",
+        "13.3853948"
+      ]
+    }
+  ],
+  "Rosenfelder Str.": [
+    {
+      "place_id": 462111,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 25463298,
+      "lat": "52.50927273437152",
+      "lon": "13.503139865433013",
+      "class": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Rosenfelder Straße",
+      "display_name": "Rosenfelder Straße, Weitlingkiez, Rummelsburg, Lichtenberg, Berlin, Brandenburg, 10317, Deutschland",
+      "boundingbox": [
+        "52.5088856",
+        "52.5096906",
+        "13.5027413",
+        "13.5035202"
+      ]
+    },
+    {
+      "place_id": 452230,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 39351129,
+      "lat": "52.51173114670234",
+      "lon": "13.506068452698363",
+      "class": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Rosenfelder Straße",
+      "display_name": "Rosenfelder Straße, Rosenfelder Ring, Rummelsburg, Lichtenberg, Berlin, Brandenburg, 10317, Deutschland",
+      "boundingbox": [
+        "52.5114364",
+        "52.5120257",
+        "13.5057201",
+        "13.5064170"
+      ]
+    },
+    {
+      "place_id": 452203,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 4689264,
+      "lat": "52.512181850000005",
+      "lon": "13.5066064",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Rosenfelder Straße",
+      "display_name": "Rosenfelder Straße, Rosenfelder Ring, Rummelsburg, Lichtenberg, Berlin, Brandenburg, 10315, Deutschland",
+      "boundingbox": [
+        "52.5120257",
+        "52.5123380",
+        "13.5064170",
+        "13.5067958"
+      ]
+    },
+    {
+      "place_id": 460817,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 223184062,
+      "lat": "52.5108561516723",
+      "lon": "13.505180724246305",
+      "class": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.0533433333333333,
+      "addresstype": "road",
+      "name": "Rosenfelder Straße",
+      "display_name": "Rosenfelder Straße, Rosenfelder Ring, Rummelsburg, Lichtenberg, Berlin, Brandenburg, 10315, Deutschland",
+      "boundingbox": [
+        "52.5107086",
+        "52.5110637",
+        "13.5051599",
+        "13.5053700"
+      ]
+    },
+    {
+      "place_id": 461881,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 4689265,
+      "lat": "52.51255586616497",
+      "lon": "13.507004589049265",
+      "class": "highway",
+      "type": "service",
+      "place_rank": 27,
+      "importance": 0.04000999999999999,
+      "addresstype": "road",
+      "name": "Rosenfelder Straße",
+      "display_name": "Rosenfelder Straße, Rosenfelder Ring, Rummelsburg, Lichtenberg, Berlin, Brandenburg, 10317, Deutschland",
+      "boundingbox": [
+        "52.5123380",
+        "52.5127612",
+        "13.5067958",
+        "13.5072271"
+      ]
+    },
+    {
+      "place_id": 460626,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 395511344,
+      "lat": "52.5118279",
+      "lon": "13.5060722",
+      "class": "highway",
+      "type": "platform",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "highway",
+      "name": "Rosenfelder Straße",
+      "display_name": "Rosenfelder Straße, Rosenfelder Ring, Rummelsburg, Lichtenberg, Berlin, Brandenburg, 10317, Deutschland",
+      "boundingbox": [
+        "52.5117796",
+        "52.5118762",
+        "13.5060154",
+        "13.5061290"
+      ]
+    },
+    {
+      "place_id": 459413,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 3006186443,
+      "lat": "52.5117796",
+      "lon": "13.5060154",
+      "class": "highway",
+      "type": "bus_stop",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "highway",
+      "name": "Rosenfelder Straße",
+      "display_name": "Rosenfelder Straße, Rosenfelder Ring, Rummelsburg, Lichtenberg, Berlin, Brandenburg, 10317, Deutschland",
+      "boundingbox": [
+        "52.5117296",
+        "52.5118296",
+        "13.5059654",
+        "13.5060654"
+      ]
+    }
   ]
 }

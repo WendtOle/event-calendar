@@ -11,7 +11,7 @@ import { isEqual } from "date-fns/fp";
 type TimeFilter = "past" | "future" | "today" | "tomorrow"
 
 export default function EventExplorer() {
-	const events = useEvents();
+	const { events, updated } = useEvents();
 	const [filteredEvents, setFilteredEvents] = useState<Event[]>([]);
 	const [selectedEvent, setSelectedEvent] = useState<Event | undefined>();
 	const [keyword, setKeyword] = useState("");
@@ -81,7 +81,7 @@ export default function EventExplorer() {
 		<div className="p-4 max-w-3xl mx-auto flex flex-col h-dvh gap-2">
 			<div className="flex flex-row justify-between items-center">
 				<h1 className="text-xl font-bold">Event Explorer</h1>
-				<h2 className="text-sm">Stand 16. Juni 25 21:00</h2>
+				{updated && <h2 className="text-sm">Stand {updated}</h2>}
 			</div>
 			<div className="flex flex-col gap-2">
 				<input

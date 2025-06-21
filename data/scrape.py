@@ -5,6 +5,7 @@ from bs4 import BeautifulSoup
 import json
 from datetime import datetime
 import os
+from datetime import datetime
 
 URL = 'https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/'
 
@@ -98,7 +99,7 @@ def load_json(filename, fallback=None):
 
 def main():
     rows = get_rows()
-    events = load_json("events.json", []) 
+    events = load_json("events.json", {"events": []})["events"] 
 
     for row in rows:
         try:
@@ -120,8 +121,10 @@ def main():
         else: 
             events.append(event)
 
+    now = datetime.now()
+    to_save = {"updated": now.strftime("%d.%m.%Y %H:%M"), "events": events}
     with open('events.json', 'w', encoding='utf-8') as f:
-        json.dump(events, f, ensure_ascii=False, indent=2)
+        json.dump(to_save, f, ensure_ascii=False, indent=2)
 
     print(f"{len(events)} Einträge gespeichert in events.json")
 

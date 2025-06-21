@@ -13,6 +13,7 @@ interface Entry {
 
 export const useEvents = () => {
 	const [events, setEvents] = useState<Event[]>([]);
+	const [updated, setUpdated] = useState<string>("");
 	useEffect(() => {
 		const run = async () => {
 			const { LatLngBounds } = await import('leaflet');
@@ -20,7 +21,10 @@ export const useEvents = () => {
 			const locationLookup: Record<string, Entry[]> = data.default || data;
 
 			const eventData = await import("./events.json")
-			const rawEvents = eventData.default || eventData
+			const { events: rawEvents, updated } = eventData.default || eventData
+			if (!!updated) {
+				setUpdated(updated)
+			}
 			const events = rawEvents.map(event => {
 				const alteredWayPoints = event.way_points.reduce((acc, pointString) => {
 					const location = locationLookup[pointString]?.[0]
@@ -39,5 +43,5 @@ export const useEvents = () => {
 		}
 		run()
 	}, [])
-	return events
+	return { events, updated }
 }
