@@ -6,7 +6,6 @@ import json
 from datetime import datetime
 import os
 
-# Deine Ziel-URL
 URL = 'https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/'
 
 def get_cache_filename():
@@ -90,9 +89,16 @@ def is_topic_similar(left,right):
     score = fuzz.ratio(left,right)
     return score >= 90
 
+def load_json(filename, fallback=None):
+    try:
+        with open(filename, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    except FileNotFoundError:
+        return fallback
+
 def main():
     rows = get_rows()
-    events = []
+    events = load_json("events.json", []) 
 
     for row in rows:
         try:
@@ -108,7 +114,9 @@ def main():
             if is_topic_similar(existing_event["thema"], event["thema"]):
                 matching_event = existing_event
         if matching_event:
-            matching_event["date"].append(event["date"][0])  
+            date = event["date"][0]
+            if date not in matching_event["date"]:
+                matching_event["date"].append(date)  
         else: 
             events.append(event)
 
