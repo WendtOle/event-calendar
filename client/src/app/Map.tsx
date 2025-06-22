@@ -72,8 +72,17 @@ const MapComponent = ({ event, events, onMapChange, disableFlyTo, onEventClick }
 				L.polyline(way_points.map(point => point.position), {
 					color: colors[0],
 				}).addTo(selectedMarkerLayer);
-				way_points.forEach((point, i) =>
+				way_points.forEach((point, i, all) => {
+					const isSameAsPrevious = i !== 0 && point.text === all[i - 1].text
+					if (isSameAsPrevious) {
+						return
+					}
+					const isSameAsFirst = i > 0 && point.text === all[0].text
+					if (isSameAsFirst) {
+						return
+					}
 					addMarker(point, i === 0 ? 'sports_score' : 'flag')
+				}
 				)
 			}
 
