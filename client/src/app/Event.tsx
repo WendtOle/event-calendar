@@ -24,7 +24,8 @@ export const Event = ({ id, selected, event, onClick }: EventProps) => {
 		).filter(date => {
 			return isAfter(date, now) || isEqual(date, now)
 		}).sort((left: Date, right: Date) => left.getTime() - right.getTime())
-		return `${format(firstComing[0], "dd.MM.yyyy")} und ${date.length - 1} weitere`
+		const dateToDisplay = firstComing[0] ? format(firstComing[0], "dd.MM.yyyy") : date[0]
+		return `${dateToDisplay} und ${date.length - 1} weitere`
 	}
 	const shorten = (value: string, limit: number) => {
 		if (value.length > limit && !selected) {
