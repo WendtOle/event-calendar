@@ -27240,7 +27240,300 @@
     }
   ],
   "Stauffenbergstr./ Tiergartenstr 7 10785": [],
-  "ZK: Friedrichstr.": [],
+  "ZK: Friedrichstr.": [
+    {
+        "place_id": 134070264,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 35269774,
+        "lat": "52.5252327",
+        "lon": "13.3875528",
+        "category": "highway",
+        "type": "secondary",
+        "place_rank": 26,
+        "importance": 0.4683814607413573,
+        "addresstype": "road",
+        "name": "Friedrichstraße",
+        "display_name": "Friedrichstraße, Dorotheenstadt, Mitte, Berlin, 10117, Deutschland",
+        "boundingbox": [
+            "52.5244326",
+            "52.5260333",
+            "13.3874082",
+            "13.3876998"
+        ],
+        "geojson": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13.3876998,
+                    52.5244326
+                ],
+                [
+                    13.3876419,
+                    52.5247381
+                ],
+                [
+                    13.387639,
+                    52.5247532
+                ],
+                [
+                    13.387614,
+                    52.5248936
+                ],
+                [
+                    13.3875718,
+                    52.5251274
+                ],
+                [
+                    13.3874421,
+                    52.5258469
+                ],
+                [
+                    13.3874229,
+                    52.5259536
+                ],
+                [
+                    13.3874082,
+                    52.5260333
+                ]
+            ]
+        }
+    },
+    {
+        "place_id": 133806511,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 199847247,
+        "lat": "52.5107823",
+        "lon": "13.3897718",
+        "category": "highway",
+        "type": "tertiary",
+        "place_rank": 26,
+        "importance": 0.4683814607413573,
+        "addresstype": "road",
+        "name": "Friedrichstraße",
+        "display_name": "Friedrichstraße, Friedrichswerder, Mitte, Berlin, 10117, Deutschland",
+        "boundingbox": [
+            "52.5103477",
+            "52.5112313",
+            "13.3897106",
+            "13.3898990"
+        ],
+        "geojson": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13.3897577,
+                    52.5112313
+                ],
+                [
+                    13.3897106,
+                    52.5111503
+                ],
+                [
+                    13.389715,
+                    52.5111238
+                ],
+                [
+                    13.3897309,
+                    52.5110285
+                ],
+                [
+                    13.3897329,
+                    52.5110162
+                ],
+                [
+                    13.3897521,
+                    52.5109009
+                ],
+                [
+                    13.3898145,
+                    52.510525
+                ],
+                [
+                    13.389817,
+                    52.5105104
+                ],
+                [
+                    13.3898214,
+                    52.5104853
+                ],
+                [
+                    13.3898341,
+                    52.5104124
+                ],
+                [
+                    13.389899,
+                    52.5103477
+                ]
+            ]
+        }
+    },
+    {
+        "place_id": 134031960,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 32938172,
+        "lat": "52.5074677",
+        "lon": "13.3903267",
+        "category": "highway",
+        "type": "tertiary",
+        "place_rank": 26,
+        "importance": 0.4683814607413573,
+        "addresstype": "road",
+        "name": "Friedrichstraße",
+        "display_name": "Friedrichstraße, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, 10969, Deutschland",
+        "boundingbox": [
+            "52.5072495",
+            "52.5076963",
+            "13.3903081",
+            "13.3904140"
+        ],
+        "geojson": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13.390346,
+                    52.5076963
+                ],
+                [
+                    13.3903081,
+                    52.5076112
+                ],
+                [
+                    13.3903353,
+                    52.5074012
+                ],
+                [
+                    13.390414,
+                    52.5072495
+                ]
+            ]
+        }
+    },
+    {
+        "place_id": 134076296,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1147648922,
+        "lat": "52.5046358",
+        "lon": "13.3907749",
+        "category": "highway",
+        "type": "residential",
+        "place_rank": 26,
+        "importance": 0.4683814607413573,
+        "addresstype": "road",
+        "name": "Friedrichstraße",
+        "display_name": "Friedrichstraße, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, 10969, Deutschland",
+        "boundingbox": [
+            "52.5045297",
+            "52.5047578",
+            "13.3907694",
+            "13.3908602"
+        ],
+        "geojson": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13.3908237,
+                    52.5047578
+                ],
+                [
+                    13.3907694,
+                    52.5046697
+                ],
+                [
+                    13.390773,
+                    52.5046478
+                ],
+                [
+                    13.3907768,
+                    52.5046242
+                ],
+                [
+                    13.3908602,
+                    52.5045297
+                ]
+            ]
+        }
+    },
+    {
+        "place_id": 134116395,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 465376252,
+        "lat": "52.5259331",
+        "lon": "13.3872133",
+        "category": "highway",
+        "type": "secondary",
+        "place_rank": 26,
+        "importance": 0.4683814607413573,
+        "addresstype": "road",
+        "name": "Friedrichstraße",
+        "display_name": "Friedrichstraße, Mitte, Berlin, 10117, Deutschland",
+        "boundingbox": [
+            "52.5258465",
+            "52.5260197",
+            "13.3871980",
+            "13.3872286"
+        ],
+        "geojson": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13.387198,
+                    52.5260197
+                ],
+                [
+                    13.3872286,
+                    52.5258465
+                ]
+            ]
+        }
+    },
+    {
+        "place_id": 133857725,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 196850605,
+        "lat": "52.5148260",
+        "lon": "13.3891674",
+        "category": "highway",
+        "type": "tertiary",
+        "place_rank": 26,
+        "importance": 0.4683814607413573,
+        "addresstype": "road",
+        "name": "Friedrichstraße",
+        "display_name": "Friedrichstraße, Dorotheenstadt, Mitte, Berlin, 10117, Deutschland",
+        "boundingbox": [
+            "52.5147577",
+            "52.5148944",
+            "13.3891536",
+            "13.3891814"
+        ],
+        "geojson": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13.3891536,
+                    52.5148944
+                ],
+                [
+                    13.3891563,
+                    52.5148808
+                ],
+                [
+                    13.3891616,
+                    52.5148541
+                ],
+                [
+                    13.3891814,
+                    52.5147577
+                ]
+            ]
+        }
+    }
+],
   "NEU: Rathaustr.": [],
   "Rohrbrunnner Str. -Kehrwieder": [],
   "Manteuffelstr.": [
@@ -49951,6 +50244,298 @@
   ],
   "Friedrichstr.": [
     {
+        "place_id": 134070264,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 35269774,
+        "lat": "52.5252327",
+        "lon": "13.3875528",
+        "category": "highway",
+        "type": "secondary",
+        "place_rank": 26,
+        "importance": 0.4683814607413573,
+        "addresstype": "road",
+        "name": "Friedrichstraße",
+        "display_name": "Friedrichstraße, Dorotheenstadt, Mitte, Berlin, 10117, Deutschland",
+        "boundingbox": [
+            "52.5244326",
+            "52.5260333",
+            "13.3874082",
+            "13.3876998"
+        ],
+        "geojson": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13.3876998,
+                    52.5244326
+                ],
+                [
+                    13.3876419,
+                    52.5247381
+                ],
+                [
+                    13.387639,
+                    52.5247532
+                ],
+                [
+                    13.387614,
+                    52.5248936
+                ],
+                [
+                    13.3875718,
+                    52.5251274
+                ],
+                [
+                    13.3874421,
+                    52.5258469
+                ],
+                [
+                    13.3874229,
+                    52.5259536
+                ],
+                [
+                    13.3874082,
+                    52.5260333
+                ]
+            ]
+        }
+    },
+    {
+        "place_id": 133806511,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 199847247,
+        "lat": "52.5107823",
+        "lon": "13.3897718",
+        "category": "highway",
+        "type": "tertiary",
+        "place_rank": 26,
+        "importance": 0.4683814607413573,
+        "addresstype": "road",
+        "name": "Friedrichstraße",
+        "display_name": "Friedrichstraße, Friedrichswerder, Mitte, Berlin, 10117, Deutschland",
+        "boundingbox": [
+            "52.5103477",
+            "52.5112313",
+            "13.3897106",
+            "13.3898990"
+        ],
+        "geojson": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13.3897577,
+                    52.5112313
+                ],
+                [
+                    13.3897106,
+                    52.5111503
+                ],
+                [
+                    13.389715,
+                    52.5111238
+                ],
+                [
+                    13.3897309,
+                    52.5110285
+                ],
+                [
+                    13.3897329,
+                    52.5110162
+                ],
+                [
+                    13.3897521,
+                    52.5109009
+                ],
+                [
+                    13.3898145,
+                    52.510525
+                ],
+                [
+                    13.389817,
+                    52.5105104
+                ],
+                [
+                    13.3898214,
+                    52.5104853
+                ],
+                [
+                    13.3898341,
+                    52.5104124
+                ],
+                [
+                    13.389899,
+                    52.5103477
+                ]
+            ]
+        }
+    },
+    {
+        "place_id": 134031960,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 32938172,
+        "lat": "52.5074677",
+        "lon": "13.3903267",
+        "category": "highway",
+        "type": "tertiary",
+        "place_rank": 26,
+        "importance": 0.4683814607413573,
+        "addresstype": "road",
+        "name": "Friedrichstraße",
+        "display_name": "Friedrichstraße, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, 10969, Deutschland",
+        "boundingbox": [
+            "52.5072495",
+            "52.5076963",
+            "13.3903081",
+            "13.3904140"
+        ],
+        "geojson": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13.390346,
+                    52.5076963
+                ],
+                [
+                    13.3903081,
+                    52.5076112
+                ],
+                [
+                    13.3903353,
+                    52.5074012
+                ],
+                [
+                    13.390414,
+                    52.5072495
+                ]
+            ]
+        }
+    },
+    {
+        "place_id": 134076296,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1147648922,
+        "lat": "52.5046358",
+        "lon": "13.3907749",
+        "category": "highway",
+        "type": "residential",
+        "place_rank": 26,
+        "importance": 0.4683814607413573,
+        "addresstype": "road",
+        "name": "Friedrichstraße",
+        "display_name": "Friedrichstraße, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, 10969, Deutschland",
+        "boundingbox": [
+            "52.5045297",
+            "52.5047578",
+            "13.3907694",
+            "13.3908602"
+        ],
+        "geojson": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13.3908237,
+                    52.5047578
+                ],
+                [
+                    13.3907694,
+                    52.5046697
+                ],
+                [
+                    13.390773,
+                    52.5046478
+                ],
+                [
+                    13.3907768,
+                    52.5046242
+                ],
+                [
+                    13.3908602,
+                    52.5045297
+                ]
+            ]
+        }
+    },
+    {
+        "place_id": 134116395,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 465376252,
+        "lat": "52.5259331",
+        "lon": "13.3872133",
+        "category": "highway",
+        "type": "secondary",
+        "place_rank": 26,
+        "importance": 0.4683814607413573,
+        "addresstype": "road",
+        "name": "Friedrichstraße",
+        "display_name": "Friedrichstraße, Mitte, Berlin, 10117, Deutschland",
+        "boundingbox": [
+            "52.5258465",
+            "52.5260197",
+            "13.3871980",
+            "13.3872286"
+        ],
+        "geojson": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13.387198,
+                    52.5260197
+                ],
+                [
+                    13.3872286,
+                    52.5258465
+                ]
+            ]
+        }
+    },
+    {
+        "place_id": 133857725,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 196850605,
+        "lat": "52.5148260",
+        "lon": "13.3891674",
+        "category": "highway",
+        "type": "tertiary",
+        "place_rank": 26,
+        "importance": 0.4683814607413573,
+        "addresstype": "road",
+        "name": "Friedrichstraße",
+        "display_name": "Friedrichstraße, Dorotheenstadt, Mitte, Berlin, 10117, Deutschland",
+        "boundingbox": [
+            "52.5147577",
+            "52.5148944",
+            "13.3891536",
+            "13.3891814"
+        ],
+        "geojson": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13.3891536,
+                    52.5148944
+                ],
+                [
+                    13.3891563,
+                    52.5148808
+                ],
+                [
+                    13.3891616,
+                    52.5148541
+                ],
+                [
+                    13.3891814,
+                    52.5147577
+                ]
+            ]
+        }
+    },
+    {
       "place_id": 461388,
       "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
       "osm_type": "way",
@@ -64962,6 +65547,298 @@
     }
   ],
   "Friedrichstraße": [
+    {
+        "place_id": 134070264,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 35269774,
+        "lat": "52.5252327",
+        "lon": "13.3875528",
+        "category": "highway",
+        "type": "secondary",
+        "place_rank": 26,
+        "importance": 0.4683814607413573,
+        "addresstype": "road",
+        "name": "Friedrichstraße",
+        "display_name": "Friedrichstraße, Dorotheenstadt, Mitte, Berlin, 10117, Deutschland",
+        "boundingbox": [
+            "52.5244326",
+            "52.5260333",
+            "13.3874082",
+            "13.3876998"
+        ],
+        "geojson": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13.3876998,
+                    52.5244326
+                ],
+                [
+                    13.3876419,
+                    52.5247381
+                ],
+                [
+                    13.387639,
+                    52.5247532
+                ],
+                [
+                    13.387614,
+                    52.5248936
+                ],
+                [
+                    13.3875718,
+                    52.5251274
+                ],
+                [
+                    13.3874421,
+                    52.5258469
+                ],
+                [
+                    13.3874229,
+                    52.5259536
+                ],
+                [
+                    13.3874082,
+                    52.5260333
+                ]
+            ]
+        }
+    },
+    {
+        "place_id": 133806511,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 199847247,
+        "lat": "52.5107823",
+        "lon": "13.3897718",
+        "category": "highway",
+        "type": "tertiary",
+        "place_rank": 26,
+        "importance": 0.4683814607413573,
+        "addresstype": "road",
+        "name": "Friedrichstraße",
+        "display_name": "Friedrichstraße, Friedrichswerder, Mitte, Berlin, 10117, Deutschland",
+        "boundingbox": [
+            "52.5103477",
+            "52.5112313",
+            "13.3897106",
+            "13.3898990"
+        ],
+        "geojson": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13.3897577,
+                    52.5112313
+                ],
+                [
+                    13.3897106,
+                    52.5111503
+                ],
+                [
+                    13.389715,
+                    52.5111238
+                ],
+                [
+                    13.3897309,
+                    52.5110285
+                ],
+                [
+                    13.3897329,
+                    52.5110162
+                ],
+                [
+                    13.3897521,
+                    52.5109009
+                ],
+                [
+                    13.3898145,
+                    52.510525
+                ],
+                [
+                    13.389817,
+                    52.5105104
+                ],
+                [
+                    13.3898214,
+                    52.5104853
+                ],
+                [
+                    13.3898341,
+                    52.5104124
+                ],
+                [
+                    13.389899,
+                    52.5103477
+                ]
+            ]
+        }
+    },
+    {
+        "place_id": 134031960,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 32938172,
+        "lat": "52.5074677",
+        "lon": "13.3903267",
+        "category": "highway",
+        "type": "tertiary",
+        "place_rank": 26,
+        "importance": 0.4683814607413573,
+        "addresstype": "road",
+        "name": "Friedrichstraße",
+        "display_name": "Friedrichstraße, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, 10969, Deutschland",
+        "boundingbox": [
+            "52.5072495",
+            "52.5076963",
+            "13.3903081",
+            "13.3904140"
+        ],
+        "geojson": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13.390346,
+                    52.5076963
+                ],
+                [
+                    13.3903081,
+                    52.5076112
+                ],
+                [
+                    13.3903353,
+                    52.5074012
+                ],
+                [
+                    13.390414,
+                    52.5072495
+                ]
+            ]
+        }
+    },
+    {
+        "place_id": 134076296,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1147648922,
+        "lat": "52.5046358",
+        "lon": "13.3907749",
+        "category": "highway",
+        "type": "residential",
+        "place_rank": 26,
+        "importance": 0.4683814607413573,
+        "addresstype": "road",
+        "name": "Friedrichstraße",
+        "display_name": "Friedrichstraße, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, 10969, Deutschland",
+        "boundingbox": [
+            "52.5045297",
+            "52.5047578",
+            "13.3907694",
+            "13.3908602"
+        ],
+        "geojson": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13.3908237,
+                    52.5047578
+                ],
+                [
+                    13.3907694,
+                    52.5046697
+                ],
+                [
+                    13.390773,
+                    52.5046478
+                ],
+                [
+                    13.3907768,
+                    52.5046242
+                ],
+                [
+                    13.3908602,
+                    52.5045297
+                ]
+            ]
+        }
+    },
+    {
+        "place_id": 134116395,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 465376252,
+        "lat": "52.5259331",
+        "lon": "13.3872133",
+        "category": "highway",
+        "type": "secondary",
+        "place_rank": 26,
+        "importance": 0.4683814607413573,
+        "addresstype": "road",
+        "name": "Friedrichstraße",
+        "display_name": "Friedrichstraße, Mitte, Berlin, 10117, Deutschland",
+        "boundingbox": [
+            "52.5258465",
+            "52.5260197",
+            "13.3871980",
+            "13.3872286"
+        ],
+        "geojson": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13.387198,
+                    52.5260197
+                ],
+                [
+                    13.3872286,
+                    52.5258465
+                ]
+            ]
+        }
+    },
+    {
+        "place_id": 133857725,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 196850605,
+        "lat": "52.5148260",
+        "lon": "13.3891674",
+        "category": "highway",
+        "type": "tertiary",
+        "place_rank": 26,
+        "importance": 0.4683814607413573,
+        "addresstype": "road",
+        "name": "Friedrichstraße",
+        "display_name": "Friedrichstraße, Dorotheenstadt, Mitte, Berlin, 10117, Deutschland",
+        "boundingbox": [
+            "52.5147577",
+            "52.5148944",
+            "13.3891536",
+            "13.3891814"
+        ],
+        "geojson": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    13.3891536,
+                    52.5148944
+                ],
+                [
+                    13.3891563,
+                    52.5148808
+                ],
+                [
+                    13.3891616,
+                    52.5148541
+                ],
+                [
+                    13.3891814,
+                    52.5147577
+                ]
+            ]
+        }
+    },
     {
       "place_id": 536300,
       "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
