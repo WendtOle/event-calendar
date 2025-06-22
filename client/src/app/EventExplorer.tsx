@@ -27,6 +27,16 @@ export default function EventExplorer() {
 		applyFilters();
 	}, [keyword, timeFilter, events, mapBounds, filterByMapBounds]);
 
+	useEffect(() => {
+		if (!selectedEvent) {
+			return
+		}
+		const entry = document.getElementById(selectedEvent.id);
+		if (entry) {
+			entry.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+		}
+	}, [selectedEvent])
+
 	const checkDates = (dates: string[], func: (date: Date, comparison: Date) => boolean, comparison: Date) =>
 		dates.map(date => parse(date, "dd.MM.yyyy", new Date())).some(date => func(date, comparison))
 
@@ -120,8 +130,8 @@ export default function EventExplorer() {
 				<p className="text-gray-500">Keine Events gefunden.</p>
 			) : (
 				<div className={`${filteredEvents.length < 3 ? '' : 'flex-1'} grid gap-2 overflow-auto`} >
-					{filteredEvents.map((e, idx) => (
-						<EventComponent key={idx} onClick={() => setSelectedEvent(state => {
+					{filteredEvents.map((e) => (
+						<EventComponent key={e.id} id={e.id} onClick={() => setSelectedEvent(state => {
 							if (state === undefined) {
 								return e
 							}

@@ -4,12 +4,13 @@ import { isAfter, parse, format } from "date-fns";
 import { isEqual } from "date-fns/fp";
 
 interface EventProps {
+	id: string;
 	event: EventType,
 	selected: boolean,
 	onClick: () => void,
 }
 
-export const Event = ({ selected, event, onClick }: EventProps) => {
+export const Event = ({ id, selected, event, onClick }: EventProps) => {
 	const dateString = (date: string[]) => {
 		if (date.length === 1) {
 			return date[0]
@@ -60,6 +61,7 @@ export const Event = ({ selected, event, onClick }: EventProps) => {
 	</>)
 	return (
 		<button
+			id={id}
 			onClick={onClick}
 			className={`w-full border grid gap-2 text-left rounded p-2 hover:shadow transition cursor-pointer ${selected ? 'bg-blue-50' : ''}`}
 		>
