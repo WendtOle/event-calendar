@@ -8,10 +8,11 @@ interface MapComponentProps {
 	events: Event[];
 	onMapChange: (bounds: LatLngBounds) => void;
 	disableFlyTo: boolean;
+	onEventClick: (event: Event) => void;
 }
 
 const colors = ["blue", "red", "orange", "yellow", "green", "purple"]
-const MapComponent = ({ event, events, onMapChange, disableFlyTo }: MapComponentProps) => {
+const MapComponent = ({ event, events, onMapChange, disableFlyTo, onEventClick }: MapComponentProps) => {
 	const [map, setMap] = useState<L.Map | undefined>();
 	const [selectedMarkerLayer, setSelectedMarkerLayer] = useState<L.LayerGroup | undefined>();
 	const [eventLayer, setEventLayer] = useState<L.LayerGroup | undefined>();
@@ -38,7 +39,7 @@ const MapComponent = ({ event, events, onMapChange, disableFlyTo }: MapComponent
 						iconSize: [32, 32],
 						iconAnchor: [16, 22],
 					})
-				}).bindTooltip(event.thema.slice(0, 40) + " ...").addTo(eventLayer)
+				}).bindTooltip(currEvent.thema.slice(0, 40) + " ...").addTo(eventLayer).on("click", () => onEventClick(currEvent))
 			}
 			events.forEach(addMarker)
 		})

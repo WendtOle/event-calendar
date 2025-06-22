@@ -108,7 +108,13 @@ export default function EventExplorer() {
 					</FilterButton>
 				</div>
 			</div>
-			<MapComponent event={selectedEvent} onMapChange={onMapChange} disableFlyTo={filterByMapBounds} events={filteredEvents} />
+			<MapComponent
+				event={selectedEvent}
+				onMapChange={onMapChange}
+				disableFlyTo={filterByMapBounds}
+				events={filteredEvents}
+				onEventClick={(event) => setSelectedEvent(event)}
+			/>
 			{filteredEvents.length} Events
 			{filteredEvents.length === 0 ? (
 				<p className="text-gray-500">Keine Events gefunden.</p>
