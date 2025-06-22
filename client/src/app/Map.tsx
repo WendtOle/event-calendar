@@ -22,12 +22,15 @@ const MapComponent = ({ event, events, onMapChange, disableFlyTo, onEventClick }
 
 	useEffect(() => {
 		eventLayer?.clearLayers()
-		if (!eventLayer || event !== undefined) {
+		if (!eventLayer) {
 			return
 		}
 		import('leaflet').then(L => {
-			const addMarker = (event: Event) => {
-				const point = event.way_points[0]
+			const addMarker = (currEvent: Event) => {
+				if (!!event && event.thema === currEvent.thema) {
+					return
+				}
+				const point = currEvent.way_points[0]
 				if (!point) {
 					return
 				}
