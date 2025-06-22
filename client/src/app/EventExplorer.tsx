@@ -86,6 +86,16 @@ export default function EventExplorer() {
 		setTimeFilter(inputFilter)
 	}
 
+	const toggleEvent = (event: Event) => () => setSelectedEvent(state => {
+		if (state === undefined) {
+			return event
+		}
+		if (state.thema !== event.thema) {
+			return event
+		}
+		return undefined
+	})
+
 
 	return (
 		<div className="p-4 max-w-3xl mx-auto flex flex-col h-dvh gap-2">
@@ -131,16 +141,7 @@ export default function EventExplorer() {
 			) : (
 				<div className={`${filteredEvents.length < 3 ? '' : 'flex-1'} grid gap-2 overflow-auto`} >
 					{filteredEvents.map((e) => (
-						<EventComponent key={e.id} id={e.id} onClick={() => setSelectedEvent(state => {
-							if (state === undefined) {
-								return e
-							}
-							if (state.thema !== e.thema) {
-								return e
-							}
-							return undefined
-
-						})} event={e} selected={e.thema === selectedEvent?.thema} />
+						<EventComponent key={e.id} id={e.id} onClick={toggleEvent(e)} event={e} selected={e.thema === selectedEvent?.thema} />
 					))}
 				</div>
 			)}
