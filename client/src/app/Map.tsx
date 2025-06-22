@@ -90,13 +90,20 @@ const MapComponent = ({ event, events, onMapChange, disableFlyTo, onEventClick }
 	}, [event, map, selectedMarkerLayer])
 
 	useEffect(() => {
-		import('leaflet').then(L => {
-			const map = L.map('map').setView(berlinCenter, 13);
-			L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+		import('leaflet').then(async () => {
+			await import('leaflet.markercluster')
+			const leaflet = window.L;
+			const map = leaflet.map('map').setView(berlinCenter, 13);
+			leaflet.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 				attribution: '&copy; OpenStreetMap contributors'
 			}).addTo(map);
-			setEventLayer(L.layerGroup().addTo(map))
-			setSelectedMarkerLayer(L.layerGroup().addTo(map));
+			const clusterGroup = leaflet.markerClusterGroup({
+				maxClusterRadius: 40,
+				showCoverageOnHover: false,
+				zoomToBoundsOnClick: true
+			});
+			setEventLayer(clusterGroup.addTo(map))
+			setSelectedMarkerLayer(leaflet.layerGroup().addTo(map));
 			setMap(map)
 			onMapChange(map.getBounds())
 			const onMoveEnd = () => onMapChange(map.getBounds())
