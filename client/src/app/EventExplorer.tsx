@@ -37,6 +37,16 @@ export default function EventExplorer() {
 		}
 	}, [selectedEvent])
 
+	useEffect(() => {
+		if (!selectedEvent) {
+			return
+		}
+		if (filteredEvents.map(({ id }) => id).includes(selectedEvent.id)) {
+			return
+		}
+		setSelectedEvent(undefined)
+	}, [filteredEvents])
+
 	const checkDates = (dates: string[], func: (date: Date, comparison: Date) => boolean, comparison: Date) =>
 		dates.map(date => parse(date, "dd.MM.yyyy", new Date())).some(date => func(date, comparison))
 
